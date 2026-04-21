@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Schritte Plus – Lernhilfe</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="layout" id="layout">
+        <aside class="sidebar" id="sidebar">
+            <div class="sidebar-header">
+                <div class="brand">
+                    <div class="brand-badge">DE</div>
+                    <div class="brand-text">
+                        <span class="brand-title">Lernhilfe</span>
+                        <span class="brand-sub">Schritte Plus A1–B1</span>
+                    </div>
+                </div>
+                <button class="close-sidebar" id="close-sidebar" aria-label="Seitenleiste schließen">&#x2715;</button>
+            </div>
+            <nav id="nav-tree"></nav>
+        </aside>
+
+        <div class="main-wrapper">
+            <header class="topbar">
+                <button class="menu-btn" id="menu-btn" aria-label="Menü öffnen">&#9776;</button>
+                <div class="breadcrumb" id="breadcrumb">Startseite</div>
+            </header>
+            <main class="content-area" id="content-area">
+                <!-- content loaded dynamically -->
+            </main>
+        </div>
+    </div>
+
+    <div class="overlay" id="overlay"></div>
+
+    <script src="https://cdn.jsdelivr.net/npm/marked@9/marked.min.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,366 @@
+{
+  "levels": [
+    {
+      "id": "a1",
+      "label": "A1 – Grundstufe",
+      "lektionen": [
+        {
+          "id": "ankommen",
+          "label": "Ankommen",
+          "sections": [
+            { "id": "vocabulary", "label": "Wortschatz" },
+            { "id": "grammar", "label": "Grammatik" }
+          ]
+        },
+        {
+          "id": "lektion-01",
+          "label": "Lektion 1: Ich heiße...",
+          "sections": [
+            { "id": "vocabulary", "label": "Wortschatz" },
+            { "id": "grammar", "label": "Grammatik" }
+          ]
+        },
+        {
+          "id": "lektion-02",
+          "label": "Lektion 2: Meine Familie",
+          "sections": [
+            { "id": "vocabulary", "label": "Wortschatz" },
+            { "id": "grammar", "label": "Grammatik" }
+          ]
+        },
+        {
+          "id": "lektion-03",
+          "label": "Lektion 3: Einkaufen",
+          "sections": [
+            { "id": "vocabulary", "label": "Wortschatz" },
+            { "id": "grammar", "label": "Grammatik" }
+          ]
+        },
+        {
+          "id": "lektion-04",
+          "label": "Lektion 4: Meine Wohnung",
+          "sections": [
+            { "id": "vocabulary", "label": "Wortschatz" },
+            { "id": "grammar", "label": "Grammatik" }
+          ]
+        },
+        {
+          "id": "lektion-05",
+          "label": "Lektion 5: Mein Tag",
+          "sections": [
+            { "id": "vocabulary", "label": "Wortschatz" },
+            { "id": "grammar", "label": "Grammatik" }
+          ]
+        },
+        {
+          "id": "lektion-06",
+          "label": "Lektion 6: Freizeit",
+          "sections": [
+            { "id": "vocabulary", "label": "Wortschatz" },
+            { "id": "grammar", "label": "Grammatik" }
+          ]
+        },
+        {
+          "id": "lektion-07",
+          "label": "Lektion 7: Lernen und Arbeiten",
+          "sections": [
+            { "id": "vocabulary", "label": "Wortschatz" },
+            { "id": "grammar", "label": "Grammatik" }
+          ]
+        },
+        {
+          "id": "lektion-08",
+          "label": "Lektion 8: Essen und Trinken",
+          "sections": [
+            { "id": "vocabulary", "label": "Wortschatz" },
+            { "id": "grammar", "label": "Grammatik" }
+          ]
+        },
+        {
+          "id": "lektion-09",
+          "label": "Lektion 9: Gesundheit",
+          "sections": [
+            { "id": "vocabulary", "label": "Wortschatz" },
+            { "id": "grammar", "label": "Grammatik" }
+          ]
+        },
+        {
+          "id": "lektion-10",
+          "label": "Lektion 10: Unter Menschen",
+          "sections": [
+            { "id": "vocabulary", "label": "Wortschatz" },
+            { "id": "grammar", "label": "Grammatik" }
+          ]
+        },
+        {
+          "id": "lektion-11",
+          "label": "Lektion 11: In der Stadt",
+          "sections": [
+            { "id": "vocabulary", "label": "Wortschatz" },
+            { "id": "grammar", "label": "Grammatik" }
+          ]
+        },
+        {
+          "id": "lektion-12",
+          "label": "Lektion 12: Reisen",
+          "sections": [
+            { "id": "vocabulary", "label": "Wortschatz" },
+            { "id": "grammar", "label": "Grammatik" }
+          ]
+        },
+        {
+          "id": "lektion-13",
+          "label": "Lektion 13: Ausgehen",
+          "sections": [
+            { "id": "vocabulary", "label": "Wortschatz" },
+            { "id": "grammar", "label": "Grammatik" }
+          ]
+        },
+        {
+          "id": "lektion-14",
+          "label": "Lektion 14: Menschen und Häuser",
+          "sections": [
+            { "id": "vocabulary", "label": "Wortschatz" },
+            { "id": "grammar", "label": "Grammatik" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2",
+      "label": "A2 – Grundstufe",
+      "lektionen": [
+        {
+          "id": "lektion-01",
+          "label": "Lektion 1",
+          "sections": [
+            { "id": "vocabulary", "label": "Wortschatz" },
+            { "id": "grammar", "label": "Grammatik" }
+          ]
+        },
+        {
+          "id": "lektion-02",
+          "label": "Lektion 2",
+          "sections": [
+            { "id": "vocabulary", "label": "Wortschatz" },
+            { "id": "grammar", "label": "Grammatik" }
+          ]
+        },
+        {
+          "id": "lektion-03",
+          "label": "Lektion 3",
+          "sections": [
+            { "id": "vocabulary", "label": "Wortschatz" },
+            { "id": "grammar", "label": "Grammatik" }
+          ]
+        },
+        {
+          "id": "lektion-04",
+          "label": "Lektion 4",
+          "sections": [
+            { "id": "vocabulary", "label": "Wortschatz" },
+            { "id": "grammar", "label": "Grammatik" }
+          ]
+        },
+        {
+          "id": "lektion-05",
+          "label": "Lektion 5",
+          "sections": [
+            { "id": "vocabulary", "label": "Wortschatz" },
+            { "id": "grammar", "label": "Grammatik" }
+          ]
+        },
+        {
+          "id": "lektion-06",
+          "label": "Lektion 6",
+          "sections": [
+            { "id": "vocabulary", "label": "Wortschatz" },
+            { "id": "grammar", "label": "Grammatik" }
+          ]
+        },
+        {
+          "id": "lektion-07",
+          "label": "Lektion 7",
+          "sections": [
+            { "id": "vocabulary", "label": "Wortschatz" },
+            { "id": "grammar", "label": "Grammatik" }
+          ]
+        },
+        {
+          "id": "lektion-08",
+          "label": "Lektion 8",
+          "sections": [
+            { "id": "vocabulary", "label": "Wortschatz" },
+            { "id": "grammar", "label": "Grammatik" }
+          ]
+        },
+        {
+          "id": "lektion-09",
+          "label": "Lektion 9",
+          "sections": [
+            { "id": "vocabulary", "label": "Wortschatz" },
+            { "id": "grammar", "label": "Grammatik" }
+          ]
+        },
+        {
+          "id": "lektion-10",
+          "label": "Lektion 10",
+          "sections": [
+            { "id": "vocabulary", "label": "Wortschatz" },
+            { "id": "grammar", "label": "Grammatik" }
+          ]
+        },
+        {
+          "id": "lektion-11",
+          "label": "Lektion 11",
+          "sections": [
+            { "id": "vocabulary", "label": "Wortschatz" },
+            { "id": "grammar", "label": "Grammatik" }
+          ]
+        },
+        {
+          "id": "lektion-12",
+          "label": "Lektion 12",
+          "sections": [
+            { "id": "vocabulary", "label": "Wortschatz" },
+            { "id": "grammar", "label": "Grammatik" }
+          ]
+        },
+        {
+          "id": "lektion-13",
+          "label": "Lektion 13",
+          "sections": [
+            { "id": "vocabulary", "label": "Wortschatz" },
+            { "id": "grammar", "label": "Grammatik" }
+          ]
+        },
+        {
+          "id": "lektion-14",
+          "label": "Lektion 14",
+          "sections": [
+            { "id": "vocabulary", "label": "Wortschatz" },
+            { "id": "grammar", "label": "Grammatik" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b1",
+      "label": "B1 – Mittelstufe",
+      "lektionen": [
+        {
+          "id": "lektion-01",
+          "label": "Lektion 1",
+          "sections": [
+            { "id": "vocabulary", "label": "Wortschatz" },
+            { "id": "grammar", "label": "Grammatik" }
+          ]
+        },
+        {
+          "id": "lektion-02",
+          "label": "Lektion 2",
+          "sections": [
+            { "id": "vocabulary", "label": "Wortschatz" },
+            { "id": "grammar", "label": "Grammatik" }
+          ]
+        },
+        {
+          "id": "lektion-03",
+          "label": "Lektion 3",
+          "sections": [
+            { "id": "vocabulary", "label": "Wortschatz" },
+            { "id": "grammar", "label": "Grammatik" }
+          ]
+        },
+        {
+          "id": "lektion-04",
+          "label": "Lektion 4",
+          "sections": [
+            { "id": "vocabulary", "label": "Wortschatz" },
+            { "id": "grammar", "label": "Grammatik" }
+          ]
+        },
+        {
+          "id": "lektion-05",
+          "label": "Lektion 5",
+          "sections": [
+            { "id": "vocabulary", "label": "Wortschatz" },
+            { "id": "grammar", "label": "Grammatik" }
+          ]
+        },
+        {
+          "id": "lektion-06",
+          "label": "Lektion 6",
+          "sections": [
+            { "id": "vocabulary", "label": "Wortschatz" },
+            { "id": "grammar", "label": "Grammatik" }
+          ]
+        },
+        {
+          "id": "lektion-07",
+          "label": "Lektion 7",
+          "sections": [
+            { "id": "vocabulary", "label": "Wortschatz" },
+            { "id": "grammar", "label": "Grammatik" }
+          ]
+        },
+        {
+          "id": "lektion-08",
+          "label": "Lektion 8",
+          "sections": [
+            { "id": "vocabulary", "label": "Wortschatz" },
+            { "id": "grammar", "label": "Grammatik" }
+          ]
+        },
+        {
+          "id": "lektion-09",
+          "label": "Lektion 9",
+          "sections": [
+            { "id": "vocabulary", "label": "Wortschatz" },
+            { "id": "grammar", "label": "Grammatik" }
+          ]
+        },
+        {
+          "id": "lektion-10",
+          "label": "Lektion 10",
+          "sections": [
+            { "id": "vocabulary", "label": "Wortschatz" },
+            { "id": "grammar", "label": "Grammatik" }
+          ]
+        },
+        {
+          "id": "lektion-11",
+          "label": "Lektion 11",
+          "sections": [
+            { "id": "vocabulary", "label": "Wortschatz" },
+            { "id": "grammar", "label": "Grammatik" }
+          ]
+        },
+        {
+          "id": "lektion-12",
+          "label": "Lektion 12",
+          "sections": [
+            { "id": "vocabulary", "label": "Wortschatz" },
+            { "id": "grammar", "label": "Grammatik" }
+          ]
+        },
+        {
+          "id": "lektion-13",
+          "label": "Lektion 13",
+          "sections": [
+            { "id": "vocabulary", "label": "Wortschatz" },
+            { "id": "grammar", "label": "Grammatik" }
+          ]
+        },
+        {
+          "id": "lektion-14",
+          "label": "Lektion 14",
+          "sections": [
+            { "id": "vocabulary", "label": "Wortschatz" },
+            { "id": "grammar", "label": "Grammatik" }
+          ]
+        }
+      ]
+    }
+  ]
+}
