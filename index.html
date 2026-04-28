@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+  <meta name="description" content="German Study Guide – Schritte Plus A1–B1 vocabulary, grammar tables, flashcards and quizzes." />
+  <title>Deutsch Lernen – Schritte Plus</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet" />
+
+  <link rel="stylesheet" href="styles.css?v=3" />
+
+</head>
+<body>
+
+<!-- ═══════════════════════════════════════════════════════
+     ROOT APP
+═══════════════════════════════════════════════════════ -->
+<div id="app">
+
+  <!-- ── TOP NAV ─────────────────────────────────────────── -->
+  <header class="topnav" id="topnav">
+    <div class="topnav-inner">
+      <div class="logo">
+        <span class="logo-de">DE</span>
+        <div>
+          <div class="logo-title">Deutsch Lernen</div>
+          <div class="logo-sub">Schritte Plus A1 – B1</div>
+        </div>
+      </div>
+
+      <nav class="topnav-links" id="desktop-nav">
+        <a href="#" class="nav-link active" data-page="home">Home</a>
+        <a href="#" class="nav-link" data-page="grammar">Grammatik</a>
+        <a href="#" class="nav-link" data-page="reference">Referenz</a>
+      </nav>
+
+      <button class="hamburger" id="hamburger" aria-label="Menu">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </header>
+
+  <!-- Mobile menu -->
+  <div class="mobile-menu hidden" id="mobile-menu">
+    <a href="#" class="mob-link" data-page="home">Home</a>
+    <a href="#" class="mob-link" data-page="grammar">Grammatik</a>
+    <a href="#" class="mob-link" data-page="reference">Referenz</a>
+  </div>
+
+  <!-- ── PAGE: HOME ──────────────────────────────────────── -->
+  <main class="page page-home active" id="page-home">
+
+    <!-- Hero -->
+    <section class="hero">
+      <div class="hero-inner">
+        <h1 class="hero-title">Vokabeln & Grammatik<br/><span class="gradient-text">auf einen Blick</span></h1>
+        <p class="hero-sub">Durchsuche alle Lektionen, lerne mit Flashcards und teste dich mit Quizzen.</p>
+
+        <!-- SEARCH BAR -->
+        <div class="search-wrap" id="search-wrap">
+          <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
+          </svg>
+          <input
+            type="text"
+            id="vocab-search"
+            class="search-input"
+            placeholder="Suche nach einem Wort, z.B. „Vater" oder „arbeiten"…"
+            autocomplete="off"
+            spellcheck="false"
+          />
+          <button class="search-clear hidden" id="search-clear" aria-label="Clear">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+              <path d="M18 6 6 18M6 6l12 12"/>
+            </svg>
+          </button>
+        </div>
+      </div>
+    </section>
+
+    <!-- Search Results (hidden by default) -->
+    <section class="section search-results-section hidden" id="search-results-section">
+      <div class="container">
+        <div class="section-header">
+          <h2 class="section-title">Suchergebnisse</h2>
+          <span class="result-count" id="result-count">0 Ergebnisse</span>
+        </div>
+        <div class="search-results-table-wrap">
+          <table class="vocab-table" id="search-results-table">
+            <thead>
+              <tr>
+                <th>Deutsch</th>
+                <th>Englisch</th>
+                <th>Lektion</th>
+              </tr>
+            </thead>
+            <tbody id="search-results-body"></tbody>
+          </table>
+        </div>
+      </div>
+    </section>
+
+    <!-- DEFAULT CONTENT (hidden when searching) -->
+    <div id="default-content">
+
+      <!-- ── FLASHCARD LEVELS ────────────────────────────── -->
+      <section class="section" id="flashcard-section">
+        <div class="container">
+          <div class="section-header">
+            <div>
+              <h2 class="section-title">Flashcards</h2>
+              <p class="section-sub">Wähle ein Level und starte deine Lernsession</p>
+            </div>
+          </div>
+
+          <div class="level-grid">
+            <!-- A1 -->
+            <div class="level-card" id="lc-a1" data-level="a1">
+              <div class="level-card-top">
+                <div class="level-badge a1">A1</div>
+                <div class="level-card-words" id="lc-a1-count">— Wörter</div>
+              </div>
+              <div class="level-card-name">Grundstufe</div>
+              <div class="level-card-desc">Ankommen · Lektionen 1–14</div>
+              <button class="level-btn" id="fc-launch-a1">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="5 3 19 12 5 21 5 3"/></svg>
+                Flashcards starten
+              </button>
+            </div>
+
+            <!-- A2 -->
+            <div class="level-card" id="lc-a2" data-level="a2">
+              <div class="level-card-top">
+                <div class="level-badge a2">A2</div>
+                <div class="level-card-words" id="lc-a2-count">— Wörter</div>
+              </div>
+              <div class="level-card-name">Elementarstufe</div>
+              <div class="level-card-desc">Lektionen 1–14</div>
+              <button class="level-btn" id="fc-launch-a2">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="5 3 19 12 5 21 5 3"/></svg>
+                Flashcards starten
+              </button>
+            </div>
+
+            <!-- B1 -->
+            <div class="level-card" id="lc-b1" data-level="b1">
+              <div class="level-card-top">
+                <div class="level-badge b1">B1</div>
+                <div class="level-card-words" id="lc-b1-count">— Wörter</div>
+              </div>
+              <div class="level-card-name">Mittelstufe</div>
+              <div class="level-card-desc">Lektionen 1–14</div>
+              <button class="level-btn" id="fc-launch-b1">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="5 3 19 12 5 21 5 3"/></svg>
+                Flashcards starten
+              </button>
+            </div>
+
+            <!-- ALL -->
+            <div class="level-card level-card-all" id="lc-all">
+              <div class="level-card-top">
+                <div class="level-badge all">A1+A2+B1</div>
+                <div class="level-card-words" id="lc-all-count">— Wörter</div>
+              </div>
+              <div class="level-card-name">Alle Level</div>
+              <div class="level-card-desc">Kompletter Wortschatz</div>
+              <button class="level-btn level-btn-all" id="fc-launch-all">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="5 3 19 12 5 21 5 3"/></svg>
+                Alle starten
+              </button>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- ── CHEATSHEETS GALLERY ───────────────────────── -->
+      <section class="section" id="cheatsheet-section">
+        <div class="container">
+          <div class="section-header">
+            <div>
+              <h2 class="section-title">Grammatik auf einen Blick</h2>
+              <p class="section-sub">Schnelle visuelle Hilfen für den Alltag</p>
+            </div>
+          </div>
+          
+          <div class="cs-gallery" id="cs-gallery">
+            <!-- Cheatsheets dynamically loaded here -->
+            <div style="color:var(--text-muted);">Laden...</div>
+          </div>
+        </div>
+      </section>
+
+      <!-- ── BROWSE BY LEKTION ──────────────────────────── -->
+
+      <section class="section" id="browse-section">
+        <div class="container">
+          <div class="section-header">
+            <div>
+              <h2 class="section-title">Lektionen durchsuchen</h2>
+              <p class="section-sub">Öffne Vokabeln oder Grammatik einer Lektion</p>
+            </div>
+            <!-- Level filter -->
+            <div class="filter-tabs" id="browse-filter">
+              <button class="filter-tab active" data-filter="a1">A1</button>
+              <button class="filter-tab" data-filter="a2">A2</button>
+              <button class="filter-tab" data-filter="b1">B1</button>
+              <button class="filter-tab" data-filter="referenz">Referenz</button>
+            </div>
+          </div>
+          <div class="lektion-list" id="lektion-list"></div>
+        </div>
+      </section>
+
+    </div><!-- /#default-content -->
+  </main>
+
+  <!-- ── PAGE: GRAMMAR ──────────────────────────────────── -->
+  <main class="page page-grammar hidden" id="page-grammar">
+    <div class="page-header">
+      <div class="container">
+        <h1>Grammatik</h1>
+        <p>Wähle eine Lektion um die Grammatiktabellen anzuzeigen</p>
+      </div>
+    </div>
+    <div class="container">
+      <div class="grammar-layout">
+        <!-- Grammar sidebar nav -->
+        <aside class="grammar-sidebar" id="grammar-sidebar"></aside>
+        <!-- Grammar content -->
+        <div class="grammar-content" id="grammar-content">
+          <div class="empty-state">
+            <div class="empty-icon">📖</div>
+            <p>Wähle eine Lektion aus der Liste</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <!-- ── PAGE: REFERENCE ────────────────────────────────── -->
+  <main class="page page-reference hidden" id="page-reference">
+    <div class="page-header">
+      <div class="container">
+        <h1>Referenz</h1>
+        <p>Unregelmäßige Verben, Präfixverben und Kurzübersichten</p>
+      </div>
+    </div>
+    <div class="container">
+      <div class="ref-tabs" id="ref-tabs">
+        <button class="ref-tab active" data-ref="referenz/irregular-verbs/verben">Unregelmäßige Verben</button>
+        <button class="ref-tab" data-ref="referenz/prefix-verbs/verben">Präfixverben</button>
+        <button class="ref-tab" data-ref="referenz/cheatsheets/grammar">Grammatik-Übersicht</button>
+        <button class="ref-tab" data-ref="referenz/cheatsheets/vocabulary">Wortschatz-Übersicht</button>
+      </div>
+      <div class="ref-content" id="ref-content">
+        <div class="loading-state">Laden…</div>
+      </div>
+    </div>
+  </main>
+
+</div><!-- /#app -->
+
+<!-- ═══════════════════════════════════════════════════════
+     FLASHCARD OVERLAY
+═══════════════════════════════════════════════════════ -->
+<div class="overlay-full hidden" id="fc-overlay">
+  <div class="fc-header">
+    <button class="fc-close" id="fc-close" aria-label="Close">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+        <path d="M18 6 6 18M6 6l12 12"/>
+      </svg>
+    </button>
+    <div class="fc-progress-wrap">
+      <div class="fc-progress-bar" id="fc-progress-bar"></div>
+    </div>
+    <div class="fc-counter" id="fc-counter">1 / 1</div>
+  </div>
+
+  <div class="fc-body">
+    <div class="fc-card-wrap">
+      <div class="fc-card" id="fc-card">
+        <div class="fc-card-inner">
+          <div class="fc-face fc-front">
+            <div class="fc-lang-tag">Deutsch</div>
+            <div class="fc-text" id="fc-front-text">Wort</div>
+          </div>
+          <div class="fc-face fc-back">
+            <div class="fc-lang-tag">English</div>
+            <div class="fc-text" id="fc-back-text">Word</div>
+            <div class="fc-extra" id="fc-extra-text"></div>
+          </div>
+        </div>
+      </div>
+      <p class="fc-hint">Tippe auf die Karte zum Umdrehen</p>
+    </div>
+  </div>
+
+  <div class="fc-footer" id="fc-footer">
+    <div class="fc-grade-row hidden" id="fc-grade-row">
+      <button class="fc-grade-btn fc-again" id="fc-again">Nochmal</button>
+      <button class="fc-grade-btn fc-got-it" id="fc-got-it">Gewusst ✓</button>
+    </div>
+    <button class="fc-flip-btn" id="fc-flip-btn">Karte umdrehen</button>
+  </div>
+</div>
+
+<!-- ═══════════════════════════════════════════════════════
+     QUIZ OVERLAY
+═══════════════════════════════════════════════════════ -->
+<div class="overlay-full hidden" id="quiz-overlay">
+  <div class="fc-header">
+    <button class="fc-close" id="quiz-close" aria-label="Close">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+        <path d="M18 6 6 18M6 6l12 12"/>
+      </svg>
+    </button>
+    <div class="fc-progress-wrap">
+      <div class="fc-progress-bar" id="quiz-progress-bar"></div>
+    </div>
+    <div class="fc-counter" id="quiz-counter">1 / 10</div>
+  </div>
+  <div class="quiz-body" id="quiz-body"></div>
+</div>
+
+<!-- Toast container -->
+<div id="toast-root"></div>
+
+<script src="https://cdn.jsdelivr.net/npm/marked@9/marked.min.js"></script>
+<script type="module" src="app.js?v=3"></script>
+
+</body>
+</html>
