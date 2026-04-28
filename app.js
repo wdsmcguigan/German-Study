@@ -1,7 +1,13 @@
-import { parseContentTables } from './parser.js';
-import { FlashcardSystem } from './flashcards.js';
+import { parseContentTables } from './parser.js?v=8';
+import { FlashcardSystem } from './flashcards.js?v=8';
+import { ProgressSystem } from './progress.js?v=8';
 
 // Global State
+window.progressSystem = new ProgressSystem();
+window.progressSystem.init();
+
+window.allGrammarTables = [];
+
 let navData = null;
 let allVocab = [];
 let vocabByLevel = { a1: [], a2: [], b1: [] };
@@ -160,10 +166,6 @@ function switchPage(pageId) {
     if (activeTab) loadReference(activeTab.dataset.ref);
   }
 }
-
-// Global State
-window.allGrammarTables = [];
-window.progressSystem = window.progressSystem || null;
 
 // ── DATA LOADING ───────────────────────────────────────
 async function loadAllContent() {
