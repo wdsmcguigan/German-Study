@@ -80,7 +80,78 @@ export class ProgressSystem {
         this.save();
     }
 
+    // ── SPACED REPETITION SYSTEM (SRS) ───────────────────────
+    
+    updateSRS(word, grade) {
+        if (!this.data.srs) this.data.srs = {};
+        
+        let item = this.data.srs[word] || {
+            interval: 0,
+            repetition: 0,
+            efactor: 2.5,
+            dueDate: new Date().toISOString()
+        };
+        
+        // Grade: 'A' (Easy=5), 'B' (Good=3), 'C' (Hard=0)
+        let q = grade === 'A' ? 5 : grade === 'B' ? 3 : 0;
+        
+        if (q < 3) {
+            item.repetition = 0;
+            item.interval = 1;
+        } else {
+            if (item.repetition === 0) {
+                item.interval = 1;
+            } else if (item.repetition === 1) {
+                item.interval = 6;
+            } else {
+                item.interval = Math.round(item.interval * item.efactor);
+            }
+            item.repetition += 1;
+        }
+        
+        item.efactor = item.efactor + (0.1 - (5 - q) * (0.08 + (5 - q) * 0.02));
+        if (item.efactor < 1.3) item.efactor = 1.3;
+        
+        const nextDate = new Date();
+        nextDate.setDate(nextDate.getDate() + item.interval);
+        item.dueDate = nextDate.toISOString();
+        
+        this.data.srs[word] = item;
+        this.save();
+    }
+    
+    sortDeckBySRS(deck) {
+        if (!this.data.srs) this.data.srs = {};
+        
+        const today = new Date();
+        
+        return deck.sort((a, b) => {
+            const srsA = this.data.srs[a.front];
+            const srsB = this.data.srs[b.front];
+            
+            // Priority 1: Due cards
+            const isDueA = srsA ? new Date(srsA.dueDate) <= today : false;
+            const isDueB = srsB ? new Date(srsB.dueDate) <= today : false;
+            
+            if (isDueA && !isDueB) return -1;
+            if (!isDueA && isDueB) return 1;
+            
+            // Priority 2: New cards (no SRS data)
+            if (!srsA && srsB) return -1;
+            if (srsA && !srsB) return 1;
+            
+            // Priority 3: Sort by dueDate if both have SRS
+            if (srsA && srsB) {
+                return new Date(srsA.dueDate) - new Date(srsB.dueDate);
+            }
+            
+            // Priority 4: Random for new cards
+            return Math.random() - 0.5;
+        });
+    }
+
     updateWordMastery(word, isCorrect) {
+        // We keep the old mastery logic for stats (like the 'Mastered' count)
         let level = this.data.mastery[word] || 0;
         
         if (isCorrect) {

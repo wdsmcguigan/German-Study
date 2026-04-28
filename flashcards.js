@@ -13,12 +13,15 @@ export class FlashcardSystem {
       
       this.btnFlip = document.getElementById('fc-flip-btn');
       this.gradeRow = document.getElementById('fc-grade-row');
-      this.btnAgain = document.getElementById('fc-again');
-      this.btnGotIt = document.getElementById('fc-got-it');
+      this.btnGradeA = document.getElementById('fc-grade-a');
+      this.btnGradeB = document.getElementById('fc-grade-b');
+      this.btnGradeC = document.getElementById('fc-grade-c');
       this.btnClose = document.getElementById('fc-close');
       
       this.counter = document.getElementById('fc-counter');
       this.progressBar = document.getElementById('fc-progress-bar');
+      
+      this.correctCount = 0;
       
       this.bindEvents();
   }
@@ -27,14 +30,19 @@ export class FlashcardSystem {
       this.btnFlip?.addEventListener('click', () => this.flipCard());
       this.card?.addEventListener('click', () => this.flipCard());
       
-      this.btnAgain?.addEventListener('click', (e) => {
+      this.btnGradeA?.addEventListener('click', (e) => {
           e.stopPropagation();
-          this.nextCard();
+          this.gradeCard('A');
       });
       
-      this.btnGotIt?.addEventListener('click', (e) => {
+      this.btnGradeB?.addEventListener('click', (e) => {
           e.stopPropagation();
-          this.nextCard();
+          this.gradeCard('B');
+      });
+      
+      this.btnGradeC?.addEventListener('click', (e) => {
+          e.stopPropagation();
+          this.gradeCard('C');
       });
       
       this.btnClose?.addEventListener('click', () => this.close());
@@ -43,9 +51,15 @@ export class FlashcardSystem {
   start(cards) {
       if (!cards || cards.length === 0) return;
       
-      // Shuffle deck
-      this.deck = [...cards].sort(() => Math.random() - 0.5);
+      // Sort deck by SRS logic instead of random shuffle
+      if (window.progressSystem && window.progressSystem.sortDeckBySRS) {
+          this.deck = window.progressSystem.sortDeckBySRS([...cards]);
+      } else {
+          this.deck = [...cards].sort(() => Math.random() - 0.5);
+      }
+      
       this.currentIndex = 0;
+      this.correctCount = 0;
       
       this.overlay.classList.remove('hidden');
       this.showCard();
@@ -92,14 +106,40 @@ export class FlashcardSystem {
       this.gradeRow.classList.remove('hidden');
   }
   
+  gradeCard(grade) {
+      const card = this.deck[this.currentIndex];
+      
+      // Update SRS
+      if (window.progressSystem) {
+          window.progressSystem.updateSRS(card.front, grade);
+          // For legacy stats
+          window.progressSystem.updateWordMastery(card.front, grade === 'A' || grade === 'B');
+      }
+      
+      if (grade === 'A' || grade === 'B') {
+          this.correctCount++;
+      } else {
+          // If C (Hard), append to end of deck so we review it again this session
+          this.deck.push(card);
+      }
+      
+      this.nextCard();
+  }
+  
   nextCard() {
       this.currentIndex++;
       this.showCard();
   }
   
   finish() {
+      if (window.progressSystem) {
+          // The deck length might be longer now because we appended C grades,
+          // so total unique cards is better, but let's use actual repetitions for score
+          window.progressSystem.recordSession('flashcard', this.correctCount, this.currentIndex);
+      }
+
       this.progressBar.style.width = '100%';
-      this.frontText.innerHTML = `Fertig! 🎉<br><span style="font-size:16px;font-weight:400;color:var(--text-secondary);">${this.deck.length} Karten gelernt</span>`;
+      this.frontText.innerHTML = `Fertig! 🎉<br><span style="font-size:16px;font-weight:400;color:var(--text-secondary);">${this.currentIndex} Karten gelernt</span>`;
       this.backText.textContent = '';
       this.extraText.textContent = '';
       this.card.classList.remove('flipped');

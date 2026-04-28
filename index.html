@@ -10,7 +10,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet" />
 
-  <link rel="stylesheet" href="styles.css?v=5" />
+  <link rel="stylesheet" href="styles.css?v=6" />
 
 </head>
 <body>
@@ -324,9 +324,10 @@
   </div>
 
   <div class="fc-footer" id="fc-footer">
-    <div class="fc-grade-row hidden" id="fc-grade-row">
-      <button class="fc-grade-btn fc-again" id="fc-again">Nochmal</button>
-      <button class="fc-grade-btn fc-got-it" id="fc-got-it">Gewusst ✓</button>
+    <div class="fc-grade-row hidden" id="fc-grade-row" style="display:flex; gap:12px; width:100%;">
+      <button class="fc-grade-btn" id="fc-grade-c" style="flex:1; background:rgba(239, 68, 68, 0.15); color:#ef4444; border:1px solid #ef4444;">Nochmal (C)</button>
+      <button class="fc-grade-btn" id="fc-grade-b" style="flex:1; background:rgba(245, 158, 11, 0.15); color:#f59e0b; border:1px solid #f59e0b;">Gut (B)</button>
+      <button class="fc-grade-btn" id="fc-grade-a" style="flex:1; background:rgba(16, 185, 129, 0.15); color:#10b981; border:1px solid #10b981;">Einfach (A)</button>
     </div>
     <button class="fc-flip-btn" id="fc-flip-btn">Karte umdrehen</button>
   </div>
@@ -354,7 +355,7 @@
 <div id="toast-root"></div>
 
 <script src="https://cdn.jsdelivr.net/npm/marked@9/marked.min.js"></script>
-<script type="module" src="app.js?v=5"></script>
+<script type="module" src="app.js?v=6"></script>
 
 </body>
 </html>
