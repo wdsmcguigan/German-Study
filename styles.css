@@ -388,117 +388,177 @@ body {
 .col-lek { font-size: 13px; color: var(--text-muted); }
 
 /* ═══════════════════════════════════════════════════════
-   LEVEL CARDS (DASHBOARD)
+   FLASHCARD LAUNCH CARD
 ═══════════════════════════════════════════════════════ */
-.level-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-  gap: 24px;
-}
-
-.level-card {
-  background: var(--bg-surface);
-  border: 1px solid var(--border-color);
-  border-radius: var(--radius-lg);
-  padding: 24px;
-  transition: all 0.3s;
+.single-launch-card {
+  background: linear-gradient(180deg, var(--bg-surface) 0%, rgba(59, 130, 246, 0.05) 100%);
+  border: 1px solid rgba(59, 130, 246, 0.2);
+  border-radius: var(--radius-xl);
+  padding: 40px;
   display: flex;
-  flex-direction: column;
-}
-
-.level-card:hover {
-  transform: translateY(-4px);
-  box-shadow: var(--shadow-lg);
-  border-color: rgba(255, 255, 255, 0.15);
-}
-
-.level-card-top {
-  display: flex;
-  justify-content: space-between;
   align-items: center;
-  margin-bottom: 20px;
+  justify-content: space-between;
+  gap: 40px;
+  box-shadow: var(--shadow-lg);
+  transition: all 0.3s;
 }
 
-.level-badge {
-  font-size: 14px;
-  font-weight: 700;
-  padding: 4px 12px;
-  border-radius: 8px;
+.single-launch-card:hover {
+  border-color: var(--accent-blue);
+  box-shadow: 0 10px 30px rgba(59, 130, 246, 0.15);
 }
 
-.level-badge.a1 { background: rgba(16, 185, 129, 0.15); color: var(--level-a1); }
-.level-badge.a2 { background: rgba(245, 158, 11, 0.15); color: var(--level-a2); }
-.level-badge.b1 { background: rgba(239, 68, 68, 0.15); color: var(--level-b1); }
-.level-badge.all { background: rgba(139, 92, 246, 0.15); color: var(--level-all); }
-
-.level-card-words {
-  font-size: 13px;
-  color: var(--text-muted);
-  font-weight: 500;
-}
-
-.level-card-name {
-  font-size: 20px;
-  font-weight: 600;
-  margin-bottom: 4px;
-}
-
-.level-card-desc {
-  color: var(--text-secondary);
-  font-size: 14px;
-  margin-bottom: 24px;
+.slc-info {
   flex: 1;
 }
 
-.level-btn {
-  width: 100%;
-  padding: 14px;
-  border-radius: var(--radius-sm);
-  background: var(--bg-surface-active);
-  color: var(--text-primary);
-  border: 1px solid var(--border-color);
+.slc-title {
+  font-size: 28px;
+  font-weight: 700;
+  margin-bottom: 8px;
+}
+
+.slc-desc {
+  color: var(--text-secondary);
+  font-size: 16px;
+  margin-bottom: 16px;
+}
+
+.slc-stats {
   font-size: 14px;
   font-weight: 600;
-  font-family: inherit;
+  color: var(--accent-blue);
+  background: rgba(59, 130, 246, 0.1);
+  padding: 6px 16px;
+  border-radius: 20px;
+  display: inline-block;
+}
+
+.slc-btn {
+  background: var(--accent-gradient);
+  color: white;
+  border: none;
+  padding: 16px 32px;
+  border-radius: var(--radius-lg);
+  font-size: 16px;
+  font-weight: 600;
   cursor: pointer;
   display: flex;
   align-items: center;
-  justify-content: center;
-  gap: 8px;
+  gap: 12px;
+  transition: filter 0.2s;
+  flex-shrink: 0;
+  font-family: inherit;
+}
+
+.slc-btn:hover {
+  filter: brightness(1.1);
+}
+
+.slc-btn svg {
+  width: 20px;
+  height: 20px;
+}
+
+/* ═══════════════════════════════════════════════════════
+   FLASHCARD SETTINGS MODAL
+═══════════════════════════════════════════════════════ */
+.fc-settings-box {
+  background: var(--bg-surface);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-xl);
+  width: 100%;
+  max-width: 480px;
+  box-shadow: var(--shadow-lg);
+  animation: slideUp 0.2s ease;
+  overflow: hidden;
+}
+
+.fc-settings-header {
+  padding: 24px;
+  border-bottom: 1px solid var(--border-color);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.fc-settings-header h3 {
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.fc-settings-body {
+  padding: 24px;
+}
+
+.fc-settings-desc {
+  color: var(--text-secondary);
+  font-size: 15px;
+  margin-bottom: 24px;
+}
+
+.fc-checkbox-wrap {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  padding: 16px;
+  background: var(--bg-surface-hover);
+  border-radius: var(--radius-md);
+  margin-bottom: 12px;
+  cursor: pointer;
+  border: 1px solid transparent;
   transition: all 0.2s;
 }
 
-.level-card:hover .level-btn {
-  background: var(--text-primary);
-  color: var(--bg-dark);
-  border-color: var(--text-primary);
+.fc-checkbox-wrap:hover {
+  background: var(--bg-surface-active);
+  border-color: var(--border-color);
 }
 
-.level-btn svg { width: 18px; height: 18px; }
-
-/* Special All Card */
-.level-card-all {
-  background: linear-gradient(180deg, var(--bg-surface) 0%, rgba(139, 92, 246, 0.05) 100%);
-  border-color: rgba(139, 92, 246, 0.2);
+.fc-checkbox-wrap input {
+  display: none;
 }
 
-.level-card-all:hover {
-  border-color: var(--accent-purple);
-  box-shadow: 0 10px 25px rgba(139, 92, 246, 0.15);
+.fc-checkbox-custom {
+  width: 24px;
+  height: 24px;
+  border-radius: 6px;
+  border: 2px solid var(--border-color);
+  background: var(--bg-dark);
+  position: relative;
+  transition: all 0.2s;
 }
 
-.level-btn-all {
-  background: var(--accent-gradient);
-  color: white;
-  border: none;
+.fc-checkbox-wrap input:checked ~ .fc-checkbox-custom {
+  background: var(--accent-blue);
+  border-color: var(--accent-blue);
 }
 
-.level-card-all:hover .level-btn-all {
-  background: var(--accent-gradient);
-  color: white;
-  filter: brightness(1.1);
-  border: none;
+.fc-checkbox-wrap input:checked ~ .fc-checkbox-custom::after {
+  content: '';
+  position: absolute;
+  top: 4px;
+  left: 8px;
+  width: 5px;
+  height: 10px;
+  border: solid white;
+  border-width: 0 2px 2px 0;
+  transform: rotate(45deg);
 }
+
+.fc-checkbox-text {
+  font-size: 16px;
+  font-weight: 500;
+  color: var(--text-primary);
+  flex: 1;
+}
+
+.fc-settings-footer {
+  padding: 24px;
+  background: var(--bg-surface-hover);
+  border-top: 1px solid var(--border-color);
+}
+
 
 /* ═══════════════════════════════════════════════════════
    BROWSE LEKTIONEN

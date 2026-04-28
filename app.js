@@ -15,6 +15,7 @@ async function init() {
     const res = await fetch('nav.json');
     navData = await res.json();
     buildGrammarSidebar(navData);
+    buildDashboardGrammarList();
     
     // Kick off async loading of all content
     loadAllContent();
@@ -101,15 +102,52 @@ function setupUI() {
     searchInput.focus();
   });
 
-  // Flashcard Launch Buttons
-  ['a1', 'a2', 'b1', 'all'].forEach(level => {
-    document.getElementById(`fc-launch-${level}`)?.addEventListener('click', () => {
-      if (level === 'all') {
-        flashcardSystem.start(allVocab);
-      } else {
-        flashcardSystem.start(vocabByLevel[level]);
-      }
-    });
+  // Flashcard Settings Modal
+  const fcSettingsModal = document.getElementById('fc-settings-modal');
+  const fcOpenSettings = document.getElementById('fc-open-settings');
+  const fcSettingsClose = document.getElementById('fc-settings-close');
+  const fcStartSession = document.getElementById('fc-start-session');
+  const chkboxA1 = document.getElementById('chk-a1');
+  const chkboxA2 = document.getElementById('chk-a2');
+  const chkboxB1 = document.getElementById('chk-b1');
+  const fcSelectedCount = document.getElementById('fc-selected-count');
+
+  const updateSelectedCount = () => {
+    let count = 0;
+    if (chkboxA1?.checked) count += vocabByLevel.a1.length;
+    if (chkboxA2?.checked) count += vocabByLevel.a2.length;
+    if (chkboxB1?.checked) count += vocabByLevel.b1.length;
+    if (fcSelectedCount) fcSelectedCount.textContent = count;
+  };
+
+  [chkboxA1, chkboxA2, chkboxB1].forEach(chk => {
+    chk?.addEventListener('change', updateSelectedCount);
+  });
+
+  fcOpenSettings?.addEventListener('click', () => {
+    updateSelectedCount();
+    fcSettingsModal.classList.remove('hidden');
+    fcSettingsModal.style.display = 'flex';
+  });
+
+  fcSettingsClose?.addEventListener('click', () => {
+    fcSettingsModal.classList.add('hidden');
+    setTimeout(() => fcSettingsModal.style.display = '', 200); // Wait for transition if we add one
+  });
+
+  fcStartSession?.addEventListener('click', () => {
+    let deck = [];
+    if (chkboxA1?.checked) deck.push(...vocabByLevel.a1);
+    if (chkboxA2?.checked) deck.push(...vocabByLevel.a2);
+    if (chkboxB1?.checked) deck.push(...vocabByLevel.b1);
+    
+    if (deck.length === 0) {
+      showToast('Bitte wähle mindestens ein Level aus.');
+      return;
+    }
+    
+    fcSettingsModal.classList.add('hidden');
+    flashcardSystem.start(deck);
   });
 }
 
@@ -158,11 +196,8 @@ async function loadAllContent() {
   await Promise.all(fetchPromises);
   
   // Update UI counts
-  ['a1', 'a2', 'b1'].forEach(lvl => {
-    const el = document.getElementById(`lc-${lvl}-count`);
-    if (el) el.textContent = `${vocabByLevel[lvl].length} Wörter`;
-  });
-  document.getElementById('lc-all-count').textContent = `${allVocab.length} Wörter`;
+  const totalCountEl = document.getElementById('slc-total-count');
+  if (totalCountEl) totalCountEl.textContent = `${allVocab.length} Wörter verfügbar`;
 }
 
 // ── CHEATSHEET GALLERY ─────────────────────────────────
@@ -251,6 +286,8 @@ function buildGrammarSidebar(data) {
       const link = document.createElement('a');
       link.href = '#';
       link.className = 'gs-link';
+      link.dataset.level = level.id;
+      link.dataset.lektion = lektion.id;
       link.textContent = lektion.label;
       link.addEventListener('click', (e) => {
         e.preventDefault();
@@ -261,6 +298,60 @@ function buildGrammarSidebar(data) {
       sidebar.appendChild(link);
     });
   });
+}
+
+function buildDashboardGrammarList() {
+  const container = document.getElementById('db-grammar-list');
+  const tabs = document.querySelectorAll('#db-grammar-filter .filter-tab');
+  if (!container || !navData) return;
+
+  const renderList = (levelId) => {
+    container.innerHTML = '';
+    const level = navData.levels.find(l => l.id === levelId);
+    if (!level) return;
+
+    level.lektionen.forEach(lektion => {
+      const card = document.createElement('div');
+      card.className = 'lek-item';
+      card.style.cursor = 'pointer';
+      
+      card.innerHTML = `
+        <div class="lek-title">${lektion.label}</div>
+        <div class="lek-actions">
+          <div class="lek-action-btn" style="pointer-events:none;">
+            Grammatik ansehen →
+          </div>
+        </div>
+      `;
+      
+      card.addEventListener('click', () => {
+        // Switch to grammar page
+        switchPage('grammar');
+        
+        // Update nav UI
+        document.querySelectorAll('.nav-link, .mob-link').forEach(l => l.classList.remove('active'));
+        document.querySelectorAll('.nav-link[data-page="grammar"], .mob-link[data-page="grammar"]').forEach(l => l.classList.add('active'));
+        
+        // Click the corresponding sidebar link
+        const targetLink = document.querySelector(`.gs-link[data-level="${levelId}"][data-lektion="${lektion.id}"]`);
+        if (targetLink) targetLink.click();
+      });
+      
+      container.appendChild(card);
+    });
+  };
+
+  // Setup tabs
+  tabs.forEach(tab => {
+    tab.addEventListener('click', (e) => {
+      tabs.forEach(t => t.classList.remove('active'));
+      e.target.classList.add('active');
+      renderList(e.target.dataset.filter);
+    });
+  });
+
+  // Initial render
+  renderList('a1');
 }
 
 async function loadGrammarContent(levelId, lektionId) {

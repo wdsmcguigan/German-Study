@@ -10,7 +10,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet" />
 
-  <link rel="stylesheet" href="styles.css?v=3" />
+  <link rel="stylesheet" href="styles.css?v=5" />
 
 </head>
 <body>
@@ -116,62 +116,16 @@
             </div>
           </div>
 
-          <div class="level-grid">
-            <!-- A1 -->
-            <div class="level-card" id="lc-a1" data-level="a1">
-              <div class="level-card-top">
-                <div class="level-badge a1">A1</div>
-                <div class="level-card-words" id="lc-a1-count">— Wörter</div>
-              </div>
-              <div class="level-card-name">Grundstufe</div>
-              <div class="level-card-desc">Ankommen · Lektionen 1–14</div>
-              <button class="level-btn" id="fc-launch-a1">
-                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="5 3 19 12 5 21 5 3"/></svg>
-                Flashcards starten
-              </button>
+          <div class="single-launch-card">
+            <div class="slc-info">
+              <h3 class="slc-title">Kompletter Wortschatz</h3>
+              <p class="slc-desc">Wähle deine Level und teste dein Wissen in einer personalisierten Lernsession.</p>
+              <div class="slc-stats" id="slc-total-count">— Wörter verfügbar</div>
             </div>
-
-            <!-- A2 -->
-            <div class="level-card" id="lc-a2" data-level="a2">
-              <div class="level-card-top">
-                <div class="level-badge a2">A2</div>
-                <div class="level-card-words" id="lc-a2-count">— Wörter</div>
-              </div>
-              <div class="level-card-name">Elementarstufe</div>
-              <div class="level-card-desc">Lektionen 1–14</div>
-              <button class="level-btn" id="fc-launch-a2">
-                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="5 3 19 12 5 21 5 3"/></svg>
-                Flashcards starten
-              </button>
-            </div>
-
-            <!-- B1 -->
-            <div class="level-card" id="lc-b1" data-level="b1">
-              <div class="level-card-top">
-                <div class="level-badge b1">B1</div>
-                <div class="level-card-words" id="lc-b1-count">— Wörter</div>
-              </div>
-              <div class="level-card-name">Mittelstufe</div>
-              <div class="level-card-desc">Lektionen 1–14</div>
-              <button class="level-btn" id="fc-launch-b1">
-                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="5 3 19 12 5 21 5 3"/></svg>
-                Flashcards starten
-              </button>
-            </div>
-
-            <!-- ALL -->
-            <div class="level-card level-card-all" id="lc-all">
-              <div class="level-card-top">
-                <div class="level-badge all">A1+A2+B1</div>
-                <div class="level-card-words" id="lc-all-count">— Wörter</div>
-              </div>
-              <div class="level-card-name">Alle Level</div>
-              <div class="level-card-desc">Kompletter Wortschatz</div>
-              <button class="level-btn level-btn-all" id="fc-launch-all">
-                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="5 3 19 12 5 21 5 3"/></svg>
-                Alle starten
-              </button>
-            </div>
+            <button class="slc-btn" id="fc-open-settings">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="5 3 19 12 5 21 5 3"/></svg>
+              Flashcards konfigurieren
+            </button>
           </div>
         </div>
       </section>
@@ -188,6 +142,26 @@
           
           <div class="cs-gallery" id="cs-gallery">
             <!-- Cheatsheets dynamically loaded here -->
+            <div style="color:var(--text-muted);">Laden...</div>
+          </div>
+        </div>
+      </section>
+
+      <!-- ── GRAMMATIK TABELLEN ───────────────────────── -->
+      <section class="section" id="dashboard-grammar-section">
+        <div class="container">
+          <div class="section-header">
+            <div>
+              <h2 class="section-title">Grammatik-Tabellen</h2>
+              <p class="section-sub">Direkter Zugriff auf alle Regeln und Konjugationen</p>
+            </div>
+            <div class="filter-tabs" id="db-grammar-filter">
+              <button class="filter-tab active" data-filter="a1">A1</button>
+              <button class="filter-tab" data-filter="a2">A2</button>
+              <button class="filter-tab" data-filter="b1">B1</button>
+            </div>
+          </div>
+          <div class="lektion-list" id="db-grammar-list">
             <div style="color:var(--text-muted);">Laden...</div>
           </div>
         </div>
@@ -264,6 +238,57 @@
 </div><!-- /#app -->
 
 <!-- ═══════════════════════════════════════════════════════
+     FLASHCARD SETTINGS MODAL
+═══════════════════════════════════════════════════════ -->
+<div class="overlay-full hidden" id="fc-settings-modal" style="justify-content: center; align-items: center; background: rgba(0,0,0,0.8); backdrop-filter: blur(8px);">
+  <div class="fc-settings-box">
+    <div class="fc-settings-header">
+      <h3>Flashcards konfigurieren</h3>
+      <button class="fc-close" id="fc-settings-close" aria-label="Close">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M18 6 6 18M6 6l12 12"/></svg>
+      </button>
+    </div>
+    <div class="fc-settings-body">
+      <p class="fc-settings-desc">Wähle die Level aus, die in dieser Session abgefragt werden sollen:</p>
+      
+      <label class="fc-checkbox-wrap">
+        <input type="checkbox" id="chk-a1" value="a1" checked>
+        <span class="fc-checkbox-custom"></span>
+        <div class="fc-checkbox-text">
+          <span class="level-badge a1" style="display:inline-block; margin-right:8px;">A1</span>
+          Grundstufe
+        </div>
+      </label>
+      
+      <label class="fc-checkbox-wrap">
+        <input type="checkbox" id="chk-a2" value="a2" checked>
+        <span class="fc-checkbox-custom"></span>
+        <div class="fc-checkbox-text">
+          <span class="level-badge a2" style="display:inline-block; margin-right:8px;">A2</span>
+          Elementarstufe
+        </div>
+      </label>
+      
+      <label class="fc-checkbox-wrap">
+        <input type="checkbox" id="chk-b1" value="b1" checked>
+        <span class="fc-checkbox-custom"></span>
+        <div class="fc-checkbox-text">
+          <span class="level-badge b1" style="display:inline-block; margin-right:8px;">B1</span>
+          Mittelstufe
+        </div>
+      </label>
+      
+    </div>
+    <div class="fc-settings-footer">
+      <button class="level-btn-all" id="fc-start-session" style="width:100%; padding: 16px; border-radius: 12px; font-size: 16px; font-weight: 600; cursor: pointer; display: flex; align-items: center; justify-content: center; gap: 8px;">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="width:20px;height:20px;"><polygon points="5 3 19 12 5 21 5 3"/></svg>
+        Session starten (<span id="fc-selected-count">0</span>)
+      </button>
+    </div>
+  </div>
+</div>
+
+<!-- ═══════════════════════════════════════════════════════
      FLASHCARD OVERLAY
 ═══════════════════════════════════════════════════════ -->
 <div class="overlay-full hidden" id="fc-overlay">
@@ -329,7 +354,7 @@
 <div id="toast-root"></div>
 
 <script src="https://cdn.jsdelivr.net/npm/marked@9/marked.min.js"></script>
-<script type="module" src="app.js?v=3"></script>
+<script type="module" src="app.js?v=5"></script>
 
 </body>
 </html>
