@@ -10,7 +10,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet" />
 
-  <link rel="stylesheet" href="styles.css?v=6" />
+  <link rel="stylesheet" href="styles.css?v=7" />
 
 </head>
 <body>
@@ -143,6 +143,21 @@
           <div class="cs-gallery" id="cs-gallery">
             <!-- Cheatsheets dynamically loaded here -->
             <div style="color:var(--text-muted);">Laden...</div>
+          </div>
+        </div>
+      </section>
+
+      <!-- ── FAVORITE TABLES ──────────────────────────── -->
+      <section class="section hidden" id="favorite-tables-section">
+        <div class="container">
+          <div class="section-header">
+            <div>
+              <h2 class="section-title">Favorisierte Tabellen</h2>
+              <p class="section-sub">Deine gespeicherten Grammatikregeln im Schnellzugriff</p>
+            </div>
+          </div>
+          <div class="favorite-tables-container" id="favorite-tables-container" style="display:grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap:24px;">
+            <!-- Rendered via JS -->
           </div>
         </div>
       </section>
@@ -355,7 +370,7 @@
 <div id="toast-root"></div>
 
 <script src="https://cdn.jsdelivr.net/npm/marked@9/marked.min.js"></script>
-<script type="module" src="app.js?v=6"></script>
+<script type="module" src="app.js?v=7"></script>
 
 </body>
 </html>

@@ -646,6 +646,50 @@ body {
   border-color: var(--border-color);
 }
 
+.fav-btn:hover {
+  transform: scale(1.1);
+}
+
+/* ═══════════════════════════════════════════════════════
+   FAVORITE TABLES
+═══════════════════════════════════════════════════════ */
+.fav-table-wrapper {
+  background: var(--bg-surface);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-lg);
+  padding: 24px;
+  box-shadow: var(--shadow-sm);
+  overflow-x: auto;
+}
+
+.fav-table-wrapper table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 12px;
+}
+
+.fav-table-wrapper th,
+.fav-table-wrapper td {
+  padding: 12px;
+  border: 1px solid var(--border-color);
+  text-align: left;
+}
+
+.fav-table-wrapper th {
+  background: var(--bg-surface-active);
+  font-weight: 600;
+}
+
+.fav-table-wrapper blockquote {
+  margin: 12px 0 0 0;
+  padding: 12px 16px;
+  background: rgba(59, 130, 246, 0.1);
+  border-left: 4px solid var(--accent-blue);
+  color: var(--text-secondary);
+  font-style: italic;
+  border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+}
+
 /* ═══════════════════════════════════════════════════════
    CHEATSHEET GALLERY
 ═══════════════════════════════════════════════════════ */

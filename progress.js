@@ -10,7 +10,8 @@ export class ProgressSystem {
             streak: 0,
             lastStudyDate: null,
             sessionsCompleted: 0,
-            recentSessions: []
+            recentSessions: [],
+            favoriteTables: []
         };
     }
 
@@ -212,5 +213,26 @@ export class ProgressSystem {
                 });
             }
         }
+    }
+
+    // ── FAVORITE TABLES ────────────────────────────────────
+
+    isTableFavorited(tableId) {
+        if (!this.data.favoriteTables) this.data.favoriteTables = [];
+        return this.data.favoriteTables.includes(tableId);
+    }
+
+    toggleFavoriteTable(tableId) {
+        if (!this.data.favoriteTables) this.data.favoriteTables = [];
+        const index = this.data.favoriteTables.indexOf(tableId);
+        
+        if (index === -1) {
+            this.data.favoriteTables.push(tableId);
+        } else {
+            this.data.favoriteTables.splice(index, 1);
+        }
+        
+        this.save();
+        return index === -1; // returns true if added, false if removed
     }
 }

@@ -161,6 +161,10 @@ function switchPage(pageId) {
   }
 }
 
+// Global State
+window.allGrammarTables = [];
+window.progressSystem = window.progressSystem || null;
+
 // ── DATA LOADING ───────────────────────────────────────
 async function loadAllContent() {
   const fetchPromises = [];
@@ -169,17 +173,16 @@ async function loadAllContent() {
     if (level.id === 'referenz') return;
     
     level.lektionen.forEach(lektion => {
-      // Assuming 'vocabulary' is always an id inside sections
-      const path = `content/${level.id}/${lektion.id}/vocabulary.md`;
+      // 1. Fetch Vocabulary
+      const vocabPath = `content/${level.id}/${lektion.id}/vocabulary.md`;
       fetchPromises.push(
-        fetch(path)
+        fetch(vocabPath)
           .then(res => res.ok ? res.text() : null)
           .then(text => {
             if (!text) return;
             const html = marked.parse(text);
             const parsed = parseContentTables(html);
             
-            // Add metadata
             parsed.vocabulary.forEach(v => {
               v.sourceLevel = level.id;
               v.sourceLektion = lektion.label;
@@ -188,7 +191,51 @@ async function loadAllContent() {
             vocabByLevel[level.id].push(...parsed.vocabulary);
             allVocab.push(...parsed.vocabulary);
           })
-          .catch(() => {}) // Ignore 404s
+          .catch(() => {})
+      );
+
+      // 2. Fetch Grammar
+      const grammarPath = `content/${level.id}/${lektion.id}/grammar.md`;
+      fetchPromises.push(
+        fetch(grammarPath)
+          .then(res => res.ok ? res.text() : null)
+          .then(text => {
+            if (!text) return;
+            const html = marked.parse(text);
+            const tempDiv = document.createElement('div');
+            tempDiv.innerHTML = html;
+            
+            let currentSection = null;
+            let tableIndex = 0;
+            
+            Array.from(tempDiv.children).forEach(node => {
+              if (node.tagName.match(/^H[23]$/)) {
+                if (currentSection && currentSection.html.trim() !== '') {
+                  window.allGrammarTables.push(currentSection);
+                }
+                
+                // Exclude the main title (usually H1, but just in case)
+                if (node.textContent.includes('Grammatik – Lektion')) return;
+                
+                currentSection = {
+                  id: `${level.id}-${lektion.id}-table-${tableIndex++}`,
+                  levelId: level.id,
+                  lektionId: lektion.id,
+                  lektionLabel: lektion.label,
+                  title: node.textContent,
+                  html: ''
+                };
+              } else if (currentSection && node.tagName !== 'H1') {
+                currentSection.html += node.outerHTML;
+              }
+            });
+            
+            // Push the last section
+            if (currentSection && currentSection.html.trim() !== '') {
+              window.allGrammarTables.push(currentSection);
+            }
+          })
+          .catch(() => {})
       );
     });
   });
@@ -198,6 +245,10 @@ async function loadAllContent() {
   // Update UI counts
   const totalCountEl = document.getElementById('slc-total-count');
   if (totalCountEl) totalCountEl.textContent = `${allVocab.length} Wörter verfügbar`;
+  
+  // Now that data is loaded, build dashboard grammar list
+  buildDashboardGrammarList();
+  renderFavoriteTables();
 }
 
 // ── CHEATSHEET GALLERY ─────────────────────────────────
@@ -303,37 +354,54 @@ function buildGrammarSidebar(data) {
 function buildDashboardGrammarList() {
   const container = document.getElementById('db-grammar-list');
   const tabs = document.querySelectorAll('#db-grammar-filter .filter-tab');
-  if (!container || !navData) return;
+  if (!container || !window.allGrammarTables) return;
 
   const renderList = (levelId) => {
     container.innerHTML = '';
-    const level = navData.levels.find(l => l.id === levelId);
-    if (!level) return;
+    const tables = window.allGrammarTables.filter(t => t.levelId === levelId);
+    
+    if (tables.length === 0) {
+      container.innerHTML = '<div style="color:var(--text-muted);">Keine Tabellen gefunden.</div>';
+      return;
+    }
 
-    level.lektionen.forEach(lektion => {
+    tables.forEach(table => {
       const card = document.createElement('div');
       card.className = 'lek-item';
-      card.style.cursor = 'pointer';
+      
+      const isFav = window.progressSystem && window.progressSystem.isTableFavorited(table.id);
       
       card.innerHTML = `
-        <div class="lek-title">${lektion.label}</div>
-        <div class="lek-actions">
-          <div class="lek-action-btn" style="pointer-events:none;">
-            Grammatik ansehen →
+        <div style="display:flex; justify-content:space-between; align-items:center; width:100%;">
+          <div>
+            <div style="font-size:12px; color:var(--text-muted); margin-bottom:4px;">${table.lektionLabel}</div>
+            <div class="lek-title" style="font-size:16px;">${table.title}</div>
           </div>
+          <button class="fav-btn ${isFav ? 'active' : ''}" data-id="${table.id}" style="background:none; border:none; cursor:pointer; font-size:24px; color:${isFav ? 'var(--accent-blue)' : 'var(--text-muted)'}; transition: color 0.2s;">
+            ★
+          </button>
         </div>
       `;
       
-      card.addEventListener('click', () => {
-        // Switch to grammar page
+      // Favorite button listener
+      const favBtn = card.querySelector('.fav-btn');
+      favBtn.addEventListener('click', (e) => {
+        e.stopPropagation();
+        if (window.progressSystem) {
+          const added = window.progressSystem.toggleFavoriteTable(table.id);
+          favBtn.style.color = added ? 'var(--accent-blue)' : 'var(--text-muted)';
+          renderFavoriteTables();
+        }
+      });
+      
+      // Navigate to grammar page on card click
+      card.addEventListener('click', (e) => {
+        if (e.target.closest('.fav-btn')) return;
         switchPage('grammar');
-        
-        // Update nav UI
         document.querySelectorAll('.nav-link, .mob-link').forEach(l => l.classList.remove('active'));
         document.querySelectorAll('.nav-link[data-page="grammar"], .mob-link[data-page="grammar"]').forEach(l => l.classList.add('active'));
         
-        // Click the corresponding sidebar link
-        const targetLink = document.querySelector(`.gs-link[data-level="${levelId}"][data-lektion="${lektion.id}"]`);
+        const targetLink = document.querySelector(`.gs-link[data-level="${table.levelId}"][data-lektion="${table.lektionId}"]`);
         if (targetLink) targetLink.click();
       });
       
@@ -341,17 +409,52 @@ function buildDashboardGrammarList() {
     });
   };
 
-  // Setup tabs
   tabs.forEach(tab => {
-    tab.addEventListener('click', (e) => {
-      tabs.forEach(t => t.classList.remove('active'));
+    // Only bind once
+    const newTab = tab.cloneNode(true);
+    tab.parentNode.replaceChild(newTab, tab);
+    newTab.addEventListener('click', (e) => {
+      document.querySelectorAll('#db-grammar-filter .filter-tab').forEach(t => t.classList.remove('active'));
       e.target.classList.add('active');
       renderList(e.target.dataset.filter);
     });
   });
 
-  // Initial render
   renderList('a1');
+}
+
+function renderFavoriteTables() {
+  const section = document.getElementById('favorite-tables-section');
+  const container = document.getElementById('favorite-tables-container');
+  if (!section || !container) return;
+
+  if (!window.progressSystem || !window.progressSystem.data.favoriteTables || window.progressSystem.data.favoriteTables.length === 0) {
+    section.classList.add('hidden');
+    return;
+  }
+
+  section.classList.remove('hidden');
+  container.innerHTML = '';
+
+  const favorites = window.progressSystem.data.favoriteTables;
+  const tablesToRender = window.allGrammarTables.filter(t => favorites.includes(t.id));
+
+  tablesToRender.forEach(table => {
+    const wrapper = document.createElement('div');
+    wrapper.className = 'fav-table-wrapper markdown-body';
+    wrapper.innerHTML = `
+      <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom: 12px;">
+        <h3 style="margin:0; font-size:18px; color:var(--text-primary);">${table.title}</h3>
+        <span style="font-size:12px; color:var(--text-muted); background:var(--bg-dark); padding:4px 8px; border-radius:4px;">
+          ${table.levelId.toUpperCase()} - ${table.lektionLabel}
+        </span>
+      </div>
+      <div style="font-size: 14px;">
+        ${table.html}
+      </div>
+    `;
+    container.appendChild(wrapper);
+  });
 }
 
 async function loadGrammarContent(levelId, lektionId) {
