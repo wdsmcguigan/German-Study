@@ -360,7 +360,18 @@ function buildDashboardGrammarList() {
 
   const renderList = (levelId) => {
     container.innerHTML = '';
-    const tables = window.allGrammarTables.filter(t => t.levelId === levelId);
+    let tables = window.allGrammarTables.filter(t => t.levelId === levelId);
+    
+    // Sort so favorites are at the top
+    if (window.progressSystem) {
+        tables.sort((a, b) => {
+            const aFav = window.progressSystem.isTableFavorited(a.id);
+            const bFav = window.progressSystem.isTableFavorited(b.id);
+            if (aFav && !bFav) return -1;
+            if (!aFav && bFav) return 1;
+            return 0; // preserve original order otherwise
+        });
+    }
     
     if (tables.length === 0) {
       container.innerHTML = '<div style="color:var(--text-muted);">Keine Tabellen gefunden.</div>';
@@ -393,6 +404,11 @@ function buildDashboardGrammarList() {
           const added = window.progressSystem.toggleFavoriteTable(table.id);
           favBtn.style.color = added ? '#3b82f6' : 'var(--text-muted)';
           renderFavoriteTables();
+          
+          // Re-render list to update sorting
+          const activeTab = document.querySelector('#db-grammar-filter .filter-tab.active');
+          if (activeTab) renderList(activeTab.dataset.filter);
+          
           showToast(added ? 'Zu Favoriten hinzugefügt' : 'Aus Favoriten entfernt');
         } else {
           showToast('Fehler: Fortschrittssystem nicht geladen');
