@@ -1,6 +1,6 @@
-import { parseContentTables } from './parser.js?v=9';
-import { FlashcardSystem } from './flashcards.js?v=9';
-import { ProgressSystem } from './progress.js?v=9';
+import { parseContentTables } from './parser.js?v=10';
+import { FlashcardSystem } from './flashcards.js?v=10';
+import { ProgressSystem } from './progress.js?v=10';
 
 // Global State
 window.progressSystem = new ProgressSystem();

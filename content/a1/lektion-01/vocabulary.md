@@ -29,13 +29,13 @@
 
 ## Verben (Verbs)
 
-| Deutsch | Englisch |
-|---------|----------|
-| heißen | to be called |
-| kommen | to come |
-| sprechen | to speak |
-| sein | to be |
-| buchstabieren | to spell |
+| Deutsch | Typ | Präteritum | Perfekt | Hilfsverb | Englisch |
+|---------|-----|------------|---------|-----------|----------|
+| heißen | regelmäßig | hieß | geheißen | haben | to be called |
+| kommen | stark | kam | gekommen | sein | to come |
+| sprechen | stark (e→i) | sprach | gesprochen | haben | to speak |
+| sein | unregelmäßig | war | gewesen | sein | to be |
+| buchstabieren | regelmäßig | buchstabierte | buchstabiert | haben | to spell |
 
 ## Nomen (Nouns)
 
@@ -100,13 +100,13 @@
 
 ## Adjektive / Sonstiges
 
-| Deutsch | Englisch |
-|---------|----------|
-| ein bisschen | a little |
-| auch | also / too |
-| und | and |
-| ja | yes |
-| nein | no |
-| interessant | interesting |
-| toll | great |
-| international | international |
+| Deutsch | Typ | Komparativ | Superlativ | Englisch |
+|---------|-----|------------|------------|----------|
+| interessant | Adjektiv | interessanter | am interessantesten | interesting |
+| toll | Adjektiv | toller | am tollsten | great |
+| international | Adjektiv | internationaler | am internationalsten | international |
+| ein bisschen | Adverb | - | - | a little |
+| auch | Adverb | - | - | also / too |
+| und | Konjunktion | - | - | and |
+| ja | Partikel | - | - | yes |
+| nein | Partikel | - | - | no |

@@ -10,7 +10,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet" />
 
-  <link rel="stylesheet" href="styles.css?v=9" />
+  <link rel="stylesheet" href="styles.css?v=10" />
 
 </head>
 <body>
@@ -323,13 +323,13 @@
     <div class="fc-card-wrap">
       <div class="fc-card" id="fc-card">
         <div class="fc-face fc-front">
-          <div class="fc-lang-tag">Deutsch</div>
+          <div class="fc-lang-tag">Deutsch <span class="fc-pos-badge" id="fc-pos-badge"></span></div>
           <div class="fc-text" id="fc-front-text">Wort</div>
         </div>
-        <div class="fc-face fc-back">
+        <div class="fc-face fc-back" style="justify-content: flex-start; padding-top: 60px;">
           <div class="fc-lang-tag">English</div>
-          <div class="fc-text" id="fc-back-text">Word</div>
-          <div class="fc-extra" id="fc-extra-text"></div>
+          <div class="fc-text" id="fc-back-text" style="margin-bottom: 24px;">Word</div>
+          <div class="fc-details-grid" id="fc-details-grid"></div>
         </div>
       </div>
       <p class="fc-hint">Tippe auf die Karte zum Umdrehen</p>
@@ -368,7 +368,7 @@
 <div id="toast-root"></div>
 
 <script src="https://cdn.jsdelivr.net/npm/marked@9/marked.min.js"></script>
-<script type="module" src="app.js?v=9"></script>
+<script type="module" src="app.js?v=10"></script>
 
 </body>
 </html>

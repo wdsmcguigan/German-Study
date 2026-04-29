@@ -1071,10 +1071,52 @@ body {
   line-height: 1.3;
 }
 
-.fc-extra {
-  margin-top: 16px;
-  font-size: 16px;
+.fc-pos-badge {
+  display: inline-block;
+  margin-left: 8px;
+  padding: 2px 8px;
+  border-radius: 12px;
+  font-size: 10px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  background: rgba(255,255,255,0.1);
   color: var(--text-secondary);
+  vertical-align: middle;
+}
+
+.pos-verb { background: rgba(59, 130, 246, 0.15); color: #3b82f6; }
+.pos-nomen { background: rgba(16, 185, 129, 0.15); color: #10b981; }
+.pos-adjektiv { background: rgba(245, 158, 11, 0.15); color: #f59e0b; }
+
+.fc-details-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 12px;
+  width: 100%;
+  margin-top: auto;
+}
+
+.fc-detail-item {
+  background: rgba(0, 0, 0, 0.2);
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  border-radius: var(--radius-sm);
+  padding: 8px 12px;
+  text-align: left;
+}
+
+.fc-detail-label {
+  font-size: 10px;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  letter-spacing: 0.05em;
+  margin-bottom: 2px;
+}
+
+.fc-detail-val {
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--text-primary);
 }
 
 .fc-hint {

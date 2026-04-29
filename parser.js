@@ -15,7 +15,25 @@ export function parseContentTables(htmlString) {
   const tables = tempDiv.querySelectorAll('table');
   
   tables.forEach(table => {
+      // Find POS from preceding heading
+      let pos = 'Wort';
+      let prev = table.previousElementSibling;
+      while (prev) {
+          if (prev.tagName.match(/^H[23]$/)) {
+              const headingText = prev.textContent.trim();
+              if (headingText.includes('Verben')) pos = 'Verb';
+              else if (headingText.includes('Nomen')) pos = 'Nomen';
+              else if (headingText.includes('Adjektive')) pos = 'Adjektiv';
+              else if (headingText.includes('Pronomen')) pos = 'Pronomen';
+              else if (headingText.includes('Begrüßung')) pos = 'Phrase';
+              else pos = headingText.split(' ')[0]; // Fallback
+              break;
+          }
+          prev = prev.previousElementSibling;
+      }
+
       const headers = Array.from(table.querySelectorAll('th')).map(th => th.textContent.trim().toLowerCase());
+      const originalHeaders = Array.from(table.querySelectorAll('th')).map(th => th.textContent.trim());
       const rows = table.querySelectorAll('tbody tr');
       
       const hasDeutsch = headers.includes('deutsch');
@@ -25,22 +43,32 @@ export function parseContentTables(htmlString) {
           const deIdx = headers.indexOf('deutsch');
           const enIdx = headers.indexOf('englisch');
           const articleIdx = headers.indexOf('artikel');
-          const pluralIdx = headers.indexOf('plural');
           
           rows.forEach(row => {
               const cells = row.querySelectorAll('td');
               if (cells.length > Math.max(deIdx, enIdx)) {
                   let de = cells[deIdx].textContent.trim();
                   const en = cells[enIdx].textContent.trim();
-                  let article = articleIdx >= 0 && cells.length > articleIdx ? cells[articleIdx].textContent.trim() : '';
-                  let plural = pluralIdx >= 0 && cells.length > pluralIdx ? cells[pluralIdx].textContent.trim() : '';
+                  const article = articleIdx >= 0 && cells.length > articleIdx ? cells[articleIdx].textContent.trim() : '';
                   
                   if (de && en) {
+                      const details = {};
+                      // Extract all other columns
+                      for (let i = 0; i < headers.length; i++) {
+                          if (i !== deIdx && i !== enIdx) {
+                              const val = cells.length > i ? cells[i].textContent.trim() : '';
+                              if (val && val !== '-') {
+                                  details[originalHeaders[i]] = val;
+                              }
+                          }
+                      }
+
                       data.vocabulary.push({ 
                           front: article ? `${article} ${de}` : de, 
                           back: en,
                           type: 'vocab',
-                          extra: plural ? `Plural: ${plural}` : ''
+                          pos: pos,
+                          details: details
                       });
                   }
               }

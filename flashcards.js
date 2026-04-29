@@ -9,7 +9,8 @@ export class FlashcardSystem {
       this.card = document.getElementById('fc-card');
       this.frontText = document.getElementById('fc-front-text');
       this.backText = document.getElementById('fc-back-text');
-      this.extraText = document.getElementById('fc-extra-text');
+      this.posBadge = document.getElementById('fc-pos-badge');
+      this.detailsGrid = document.getElementById('fc-details-grid');
       
       this.btnFlip = document.getElementById('fc-flip-btn');
       this.gradeRow = document.getElementById('fc-grade-row');
@@ -87,11 +88,26 @@ export class FlashcardSystem {
       setTimeout(() => {
           this.frontText.textContent = card.front;
           this.backText.textContent = card.back;
-          if (card.extra) {
-              this.extraText.textContent = card.extra;
-              this.extraText.style.display = 'block';
+          
+          if (card.pos) {
+              this.posBadge.textContent = card.pos;
+              this.posBadge.className = `fc-pos-badge pos-${card.pos.toLowerCase()}`;
+              this.posBadge.style.display = 'inline-block';
           } else {
-              this.extraText.style.display = 'none';
+              this.posBadge.style.display = 'none';
+          }
+          
+          this.detailsGrid.innerHTML = '';
+          if (card.details && Object.keys(card.details).length > 0) {
+              for (const [key, val] of Object.entries(card.details)) {
+                  const detailItem = document.createElement('div');
+                  detailItem.className = 'fc-detail-item';
+                  detailItem.innerHTML = `
+                    <div class="fc-detail-label">${key}</div>
+                    <div class="fc-detail-val">${val}</div>
+                  `;
+                  this.detailsGrid.appendChild(detailItem);
+              }
           }
       }, 150); // Wait for unflip animation
   }
@@ -141,7 +157,8 @@ export class FlashcardSystem {
       this.progressBar.style.width = '100%';
       this.frontText.innerHTML = `Fertig! 🎉<br><span style="font-size:16px;font-weight:400;color:var(--text-secondary);">${this.currentIndex} Karten gelernt</span>`;
       this.backText.textContent = '';
-      this.extraText.textContent = '';
+      this.detailsGrid.innerHTML = '';
+      this.posBadge.style.display = 'none';
       this.card.classList.remove('flipped');
       
       this.btnFlip.classList.remove('hidden');
