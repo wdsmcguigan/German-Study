@@ -73,6 +73,32 @@ export function parseContentTables(htmlString) {
                   }
               }
           });
+      } else if (headers.includes('infinitiv')) {
+          const infIdx = headers.indexOf('infinitiv');
+          rows.forEach(row => {
+              const cells = row.querySelectorAll('td');
+              if (cells.length > infIdx) {
+                  let inf = cells[infIdx].textContent.trim();
+                  if (inf) {
+                      const details = {};
+                      for (let i = 0; i < headers.length; i++) {
+                          if (i !== infIdx) {
+                              const val = cells.length > i ? cells[i].textContent.trim() : '';
+                              if (val && val !== '-') {
+                                  details[originalHeaders[i]] = val;
+                              }
+                          }
+                      }
+                      data.vocabulary.push({ 
+                          front: inf, 
+                          back: '-',
+                          type: 'vocab',
+                          pos: 'Verb',
+                          details: details
+                      });
+                  }
+              }
+          });
       } else if (headers.includes('person') && headers.length >= 2) {
           const personIdx = headers.indexOf('person');
           for (let col = 1; col < headers.length; col++) {

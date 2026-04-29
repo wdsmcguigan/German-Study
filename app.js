@@ -1,6 +1,6 @@
-import { parseContentTables } from './parser.js?v=13';
-import { FlashcardSystem } from './flashcards.js?v=13';
-import { ProgressSystem } from './progress.js?v=13';
+import { parseContentTables } from './parser.js?v=14';
+import { FlashcardSystem } from './flashcards.js?v=14';
+import { ProgressSystem } from './progress.js?v=14';
 
 // Global State
 window.progressSystem = new ProgressSystem();
@@ -10,7 +10,7 @@ window.allGrammarTables = [];
 
 let navData = null;
 let allVocab = [];
-let vocabByLevel = { a1: [], a2: [], b1: [] };
+let vocabByLevel = { a1: [], a2: [], b1: [], referenz: [] };
 const flashcardSystem = new FlashcardSystem();
 
 marked.use({ breaks: true, gfm: true });
