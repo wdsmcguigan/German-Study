@@ -1,62 +1,85 @@
-# Grammatik – Lektion 13: Technik und Wissenschaft
+# Grammatik – Lektion 13: Arbeit und Ausbildung
 
-## Passiv mit Modalverben (Revision + Vertiefung)
+## Passiv Präteritum
 
-| Formel | Beispiel |
-|--------|---------|
-| Modal + P.II + **werden** | Daten **müssen** geschützt **werden**. |
-| | Roboter **können** eingesetzt **werden**. |
-| | Experimente **sollen** wiederholt **werden**. |
-| | Ergebnisse **dürfen** nicht verfälscht **werden**. |
+The **Passiv Präteritum** (simple past passive) is used in written German and narration to describe passive events in the past.
 
-**Passiv mit Modalverb in Vergangenheit:**
+**Formula:** wurde(n) + Partizip II
 
-| Formel | Beispiel |
-|--------|---------|
-| Modal (Prät.) + P.II + werden | Die App **musste** aktualisiert **werden**. |
-| | Das System **konnte** nicht repariert **werden**. |
+### Konjugation: werden (Präteritum) as passive auxiliary
 
-## Partizipial-Attribute als Ersatz für Relativsätze
+| Person | Passiv Präteritum |
+|--------|-------------------|
+| ich | **wurde** + P.II |
+| du | **wurdest** + P.II |
+| er/sie/es | **wurde** + P.II |
+| wir | **wurden** + P.II |
+| ihr | **wurdet** + P.II |
+| sie/Sie | **wurden** + P.II |
 
-Partizip can replace a relative clause before a noun:
+**Beispiele (Examples):**
+- 1975 **wurde** das Lehrlingswesen eingeführt.
+- Die Bewerbung **wurde** nicht angenommen.
+- Die Schüler **wurden** gut ausgebildet.
+- Das Gebäude **wurde** renoviert.
 
-| Relativsatz | Partizipialattribut |
-|------------|---------------------|
-| die Technologie, die entwickelt wird | die **entwickelte** Technologie |
-| der Forscher, der bekannt ist | der **bekannte** Forscher |
-| das System, das automatisiert wurde | das **automatisierte** System |
-| die Daten, die gesammelt werden | die **gesammelten** Daten |
-| ein Experiment, das laufend ist | ein **laufendes** Experiment |
+**Passiv Präteritum with agent (von + Dativ):**
+- Der Brief **wurde von** der Chefin **unterschrieben**.
+- Die Aufgabe **wurde von** den Mitarbeitern **erledigt**.
 
-**Partizip I** (ongoing): laufend-, wachsend-, steigend-
-**Partizip II** (completed/passive): entwickelt-, bekannt-, automatisiert-
+---
 
-## Kausalangaben: da vs. weil
+## Passiv Perfekt
 
-| Konjunktion | Verwendung | Beispiel |
-|-------------|-----------|---------|
-| **weil** | answers the question "why?" | Wir testen es, **weil** es wichtig ist. |
-| **da** | known reason, often at start | **Da** die Technik versagt hat, … |
+The **Passiv Perfekt** describes a completed passive action and is common in spoken German.
 
-**Unterschied:**
-- **weil** → new information about the cause
-- **da** → the reason is already known or obvious
+**Formula:** ist/sind + Partizip II + worden
 
-**da** often begins the sentence:
-- **Da** keine Daten vorhanden sind, können wir nicht testen.
-- **Da** es teuer ist, verzichten wir darauf.
+> Note: **worden** is the special Partizip II of **werden** used only in passive Perfekt (not *geworden*).
 
-## Nominalisierung: Verben → Nomen
+### Konjugation: Passiv Perfekt
 
-| Verb | Nomen | Artikel |
-|------|-------|---------|
-| erfinden | die Erfindung | die |
-| entwickeln | die Entwicklung | die |
-| forschen | die Forschung | die |
-| entdecken | die Entdeckung | die |
-| automatisieren | die Automatisierung | die |
-| digitalisieren | die Digitalisierung | die |
-| analysieren | die Analyse | die |
-| programmieren | die Programmierung | die |
+| Person | Passiv Perfekt |
+|--------|---------------|
+| ich | **bin** + P.II + worden |
+| du | **bist** + P.II + worden |
+| er/sie/es | **ist** + P.II + worden |
+| wir | **sind** + P.II + worden |
+| ihr | **seid** + P.II + worden |
+| sie/Sie | **sind** + P.II + worden |
 
-> Verb + **-ung** → always feminine (die)
+**Beispiele (Examples):**
+- Der 2. Lehrlingswohnung **ist** gebaut **worden**.
+- Die Prüfung **ist** bestanden **worden**.
+- Er **ist** als Bürgermeister **gewählt worden**.
+- Die Dokumente **sind** unterschrieben **worden**.
+
+---
+
+## Comparing Passive Tenses
+
+| Zeitform | Formel | Beispiel |
+|---------|--------|---------|
+| Passiv Präsens | wird + P.II | Die Post **wird** gebracht. |
+| Passiv Präteritum | wurde + P.II | Die Post **wurde** gebracht. |
+| Passiv Perfekt | ist + P.II + worden | Die Post **ist** gebracht **worden**. |
+| Passiv Plusquamperfekt | war + P.II + worden | Die Post **war** gebracht **worden**. |
+| Passiv Futur I | wird + P.II + werden | Die Post **wird** gebracht **werden**. |
+
+> In spoken German, Passiv Perfekt is preferred for completed actions.
+> In written/narrative German, Passiv Präteritum is more common.
+
+---
+
+## Verben mit Präpositionen (Revision)
+
+Some verbs are commonly found in passive constructions and take fixed prepositions:
+
+| Verb | Präposition | Kasus | Beispiel (Passiv) |
+|------|-------------|-------|-------------------|
+| sich freuen | über | Akk. | Darüber **wird** sich gefreut. |
+| sich kümmern | um | Akk. | Um alles **wird** sich gekümmert. |
+| warten | auf | Akk. | Auf eine Antwort **wird** gewartet. |
+| sprechen | über | Akk. | Über das Problem **wurde** gesprochen. |
+
+> Passive of reflexive/prepositional verbs is possible but sounds formal. The preposition stays with the verb.

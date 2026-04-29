@@ -1,46 +1,60 @@
-# Grammatik – Lektion 3: Heimat
+# Grammatik – Lektion 3: Genitiv und Passiv
 
-## Konjunktion: als (when – single past event)
+## Genitiv: Artikelwörter und Pronomen
 
-| Konjunktion | Verwendung | Beispiel |
-|-------------|-----------|---------|
-| **als** | single event in the past | **Als** ich Kind war, lebte ich in Bayern. |
-| **wenn** | repeated past events / present / future | **Wenn** ich Heimweh hatte, rief ich meine Mutter an. |
+The Genitive case expresses possession or belonging ("of the …"). It is required after certain prepositions and in formal/written German.
 
-**Wichtiger Unterschied:**
-- **Als** ich das erste Mal nach Deutschland kam, war ich nervös. (once)
-- **Wenn** ich nach Hause fuhr, freute ich mich immer. (every time)
+### Bestimmter und unbestimmter Artikel im Genitiv
 
-**Als-Satz (Verb → Ende):**
-- Als ich in der Schule war, lernte ich viel.
-- Als sie ankam, warteten wir bereits.
+| | maskulin | feminin | neutral | Plural |
+|--|----------|---------|---------|--------|
+| bestimmter Artikel | **des** Rückens | **der** Fitness | **des** Trainings | **der** Beine |
+| unbestimmter Artikel | **eines**/meines Fachmanns | **einer**/meiner Spezialistin | **eines**/meines Medikaments | **–**/meiner Medikamente |
 
-## Genitiv: Erweiterte Verwendung
+> Nouns ending in a consonant in **maskulin/neutral**: add **-s** or **-es** in the Genitiv (des Rücken**s**, des Training**s**).
 
-### Genitiv-Präpositionen (Wiederholung und Erweiterung)
+**Beispiele (Examples):**
+- die Meinung **des Fachmanns**
+- die Empfehlung **einer Spezialistin**
+- die Wirkung **des Medikaments**
+- die Stärke **meiner Medikamente**
 
-| Präposition | Bedeutung | Beispiel |
-|-------------|-----------|---------|
-| **wegen** | because of | **Wegen** der Sprache fiel die Integration schwer. |
-| **trotz** | despite | **Trotz** der Schwierigkeiten blieb er positiv. |
-| **während** | during | **Während** des Sommers besuchte er die Heimat. |
-| **aufgrund** | due to | **Aufgrund** seiner Herkunft wurde er gefragt. |
-| **anstatt / statt** | instead of | **Anstatt** der Tradition wählte er einen neuen Weg. |
-| **innerhalb** | within | **Innerhalb** eines Jahres sprach er gut Deutsch. |
-| **außerhalb** | outside of | **Außerhalb** der Stadt gibt es viel Natur. |
+Also applies to: so-, dein-, sein-, ihr-, Ihr-, unser-, euer-, kein- …
 
-## Plusquamperfekt (Past Perfect)
+---
 
-Used for actions that happened **before** another past action.
+## Passiv Präsens mit Modalverben (Passive with Modal Verbs)
 
-| Formel | Beispiel |
-|--------|---------|
-| **hatte/war** + Partizip II | Er **hatte** bereits gepackt, als das Taxi kam. |
-| | Nachdem sie **angekommen war**, rief sie an. |
+The passive voice with a modal verb describes what **can**, **must**, **may**, or **should** be done. The agent performing the action is often not mentioned.
 
-**Vergleich:**
-- Er **hatte** die Heimat verlassen (Plusquamperfekt) → dann begann er ein neues Leben (Präteritum).
+### Struktur
 
-**Nach "nachdem" → Plusquamperfekt:**
-- **Nachdem** sie die Sprache **gelernt hatte**, fand sie Arbeit.
-- **Nachdem** er **angekommen war**, meldete er sich an.
+| Struktur | Formel |
+|---------|--------|
+| Aktiv mit Modal | Man **soll** die Medikamente **einnehmen**. |
+| Passiv mit Modal | Die Medikamente **sollen** **eingenommen werden**. |
+
+**Formel:** Modalverb (konjugiert) + Partizip II + **werden**
+
+### Beispiele mit verschiedenen Modalverben
+
+| Modalverb | Passiv-Beispiel | Bedeutung |
+|-----------|----------------|-----------|
+| **dürfen** | Das darf nicht gemacht werden. | must not be done |
+| **müssen** | Das muss sofort erledigt werden. | must be done |
+| **können** | Das kann geändert werden. | can be changed |
+| **sollen** | Die Medikamente sollen täglich eingenommen werden. | should be taken |
+| **wollen** | Das will beachtet werden. | wants to be noted |
+
+**Aus dem Buch:**
+- Auf ausreichend Bewegung **sollte** geachtet werden.
+- Dadurch **können** neue Kräfte **gesammelt werden**.
+- auch so: dürfen, müssen, wollen …
+
+**Beispiele (Examples):**
+- Das Formular **muss** ausgefüllt **werden**.
+- Die Aufgabe **kann** bis morgen **erledigt werden**.
+- Hier **darf** nicht geraucht **werden**.
+
+> In Passiv + Modal sentences, **werden** always comes at the very end in a main clause.
+> In a subordinate clause (Nebensatz): … dass das Formular ausgefüllt werden **muss**.

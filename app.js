@@ -6,6 +6,56 @@ import { ProgressSystem } from './progress.js?v=14';
 window.progressSystem = new ProgressSystem();
 window.progressSystem.init();
 
+const DB_NAME = 'GermanStudyDB';
+const STORE_NAME = 'customCheatsheets';
+const CustomCheatsheetsDB = {
+  async init() {
+    return new Promise((resolve, reject) => {
+      const req = indexedDB.open(DB_NAME, 1);
+      req.onupgradeneeded = (e) => {
+        const db = e.target.result;
+        if (!db.objectStoreNames.contains(STORE_NAME)) {
+          db.createObjectStore(STORE_NAME, { keyPath: 'id' });
+        }
+      };
+      req.onsuccess = () => resolve(req.result);
+      req.onerror = () => reject(req.error);
+    });
+  },
+  async add(file) {
+    const db = await this.init();
+    return new Promise((resolve, reject) => {
+      const reader = new FileReader();
+      reader.onload = () => {
+        const tx = db.transaction(STORE_NAME, 'readwrite');
+        const store = tx.objectStore(STORE_NAME);
+        const item = {
+          id: 'custom_' + Date.now() + '_' + Math.random().toString(36).substr(2, 9),
+          name: file.name,
+          type: file.type,
+          dataUrl: reader.result,
+          timestamp: Date.now()
+        };
+        store.put(item);
+        tx.oncomplete = () => resolve(item);
+        tx.onerror = () => reject(tx.error);
+      };
+      reader.onerror = () => reject(reader.error);
+      reader.readAsDataURL(file);
+    });
+  },
+  async getAll() {
+    const db = await this.init();
+    return new Promise((resolve, reject) => {
+      const tx = db.transaction(STORE_NAME, 'readonly');
+      const store = tx.objectStore(STORE_NAME);
+      const req = store.getAll();
+      req.onsuccess = () => resolve(req.result);
+      req.onerror = () => reject(req.error);
+    });
+  }
+};
+
 window.allGrammarTables = [];
 
 let navData = null;
@@ -172,6 +222,35 @@ function setupUI() {
     fcSettingsModal.classList.add('hidden');
     flashcardSystem.start(deck);
   });
+
+  // Cheatsheet Upload
+  const csUploadBtn = document.getElementById('cs-upload-btn');
+  const csUploadInput = document.getElementById('cs-upload-input');
+  
+  csUploadBtn?.addEventListener('click', () => {
+    csUploadInput?.click();
+  });
+  
+  csUploadInput?.addEventListener('change', async (e) => {
+    if (!e.target.files || e.target.files.length === 0) return;
+    
+    const files = Array.from(e.target.files);
+    showToast(`${files.length} Datei(en) werden hochgeladen...`);
+    
+    try {
+      for (const file of files) {
+        await CustomCheatsheetsDB.add(file);
+      }
+      showToast('Hochladen erfolgreich!');
+      loadCheatsheets();
+    } catch (err) {
+      console.error(err);
+      showToast('Fehler beim Hochladen.');
+    }
+    
+    // Clear input
+    e.target.value = '';
+  });
 }
 
 function switchPage(pageId) {
@@ -291,26 +370,65 @@ async function loadCheatsheets() {
     const files = await res.json();
     
     // Filter out DS_Store
-    const mediaFiles = files.filter(f => !f.includes('.DS_Store'));
+    let mediaFiles = files.filter(f => !f.includes('.DS_Store'));
     
+    // Merge with custom uploads
+    try {
+      const customUploads = await CustomCheatsheetsDB.getAll();
+      const customPaths = customUploads.map(c => c.dataUrl);
+      mediaFiles = [...customPaths, ...mediaFiles];
+    } catch (e) {
+      console.error('Failed to load custom cheatsheets', e);
+    }
+    
+    // Sort so favorites are at the top
+    if (window.progressSystem) {
+      mediaFiles.sort((a, b) => {
+        const aFav = window.progressSystem.isCheatsheetFavorited(a);
+        const bFav = window.progressSystem.isCheatsheetFavorited(b);
+        if (aFav && !bFav) return -1;
+        if (!aFav && bFav) return 1;
+        return 0; // preserve original order otherwise
+      });
+    }
+
     gallery.innerHTML = mediaFiles.map(path => {
-      const isVideo = path.toLowerCase().endsWith('.mp4');
-      const filename = path.split('/').pop();
+      const isVideo = path.toLowerCase().includes('.mp4') || path.startsWith('data:video');
+      const filename = path.startsWith('data:') ? 'Custom Upload' : path.split('/').pop();
+      const isFav = window.progressSystem && window.progressSystem.isCheatsheetFavorited(path);
       
       if (isVideo) {
         return `
           <div class="cs-item video" onclick="openLightbox('${path}', true)">
+            <button class="cs-fav-btn ${isFav ? 'active' : ''}" data-path="${path}">★</button>
             <video class="cs-media" src="${path}" muted playsinline></video>
           </div>
         `;
       } else {
         return `
           <div class="cs-item" onclick="openLightbox('${path}', false)">
+            <button class="cs-fav-btn ${isFav ? 'active' : ''}" data-path="${path}">★</button>
             <img class="cs-media" src="${path}" loading="lazy" alt="${filename}">
           </div>
         `;
       }
     }).join('');
+    
+    // Bind favorite buttons
+    gallery.querySelectorAll('.cs-fav-btn').forEach(btn => {
+      btn.addEventListener('click', (e) => {
+        e.stopPropagation(); // prevent opening lightbox
+        const path = e.target.dataset.path;
+        if (window.progressSystem) {
+          const added = window.progressSystem.toggleFavoriteCheatsheet(path);
+          e.target.classList.toggle('active', added);
+          e.target.style.color = added ? '#3b82f6' : 'var(--text-muted)';
+          showToast(added ? 'Zu Favoriten hinzugefügt' : 'Aus Favoriten entfernt');
+          // Reload gallery to re-sort
+          loadCheatsheets();
+        }
+      });
+    });
     
   } catch (e) {
     gallery.innerHTML = '<div style="color:var(--text-muted);">Cheatsheets konnten nicht geladen werden.</div>';

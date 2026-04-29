@@ -1,69 +1,123 @@
-# Wortschatz – Lektion 14: Zukunft und Pläne
+# Wortschatz – Lektion 14: Alte und neue Heimat
 
-## Zukunftspläne
+## Politik (D4 – Ende Lektion 13)
 
-| Deutsch | Artikel | Englisch |
-|---------|---------|----------|
-| Zukunft | die | future |
-| Plan | der | plan |
-| Ziel | das | goal |
-| Traum | der | dream |
-| Vorhaben | das | intention / project |
-| Lebensplanung | die | life planning |
-| Perspektive | die | perspective |
-| Chance | die | chance / opportunity |
-| Risiko | das | risk |
-| Herausforderung | die | challenge |
-| Hoffnung | die | hope |
-| Erwartung | die | expectation |
-| Wunsch | der | wish |
-| Ambition | die | ambition |
-| Priorität | die | priority |
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
+| Regierung | die | -en | government |
+| Macht | die | ¨-e | power |
 
-## Gesellschaftliche Zukunft
-
-| Deutsch | Artikel | Englisch |
-|---------|---------|----------|
-| Klimakrise | die | climate crisis |
-| Bevölkerungswachstum | das | population growth |
-| Urbanisierung | die | urbanisation |
-| Globalisierung | die | globalisation |
-| Digitale Transformation | die | digital transformation |
-| Generationenkonflikt | der | generational conflict |
-| Altersarmut | die | old-age poverty |
-| Rentensystem | das | pension system |
-| Gesundheitssystem | das | health system |
-| Bildungssystem | das | education system |
-
-## Szenarien und Visionen
-
-| Deutsch | Artikel | Englisch |
-|---------|---------|----------|
-| Szenario | das | scenario |
-| Vision | die | vision |
-| Utopie | die | utopia |
-| Dystopie | die | dystopia |
-| Prognose | die | forecast / prognosis |
-| Trend | der | trend |
-| Innovation | die | innovation |
-| Wandel | der | change |
-| Entwicklung | die | development |
-| Fortschritt | der | progress |
-| Rückschritt | der | regression |
-
-## Verben
+## D4 – Adjektive
 
 | Deutsch | Englisch |
 |---------|----------|
-| planen | to plan |
-| vorhaben | to intend |
-| anstreben | to strive for |
-| verwirklichen | to realise / achieve |
-| sich vornehmen | to make up one's mind to |
-| träumen von | to dream of |
-| hoffen auf | to hope for |
-| rechnen mit | to expect / count on |
-| voraussagen | to predict |
-| prognostizieren | to forecast |
-| sich verpflichten | to commit |
-| investieren in | to invest in |
+| offiziell | official |
+| national | national |
+| folgend- | following |
+| politisch | political |
+| wählen | to vote / elect |
+
+## Politik – Nomen (Personen)
+
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
+| Bürgermeister / Bürgermeisterin | der / die | -/–nen | mayor |
+| Bundeskanzler / Bundeskanzlerin | der / die | -/–nen | Federal Chancellor |
+| Präsident / Präsidentin | der / die | -en/–nen | president |
+
+## Ellas Kolumne – Alte und neue Heimat
+
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
+| Gebäck | das | -e | pastry / baked goods |
+
+## Ellas Kolumne – Adjektive / Adverbien
+
+| Deutsch | Englisch |
+|---------|----------|
+| diesmal | this time |
+| traditionell | traditional |
+| speziell | special / specific |
+
+## A3 – Verben
+
+| Deutsch | Englisch |
+|---------|----------|
+| braten (du brätst, er brät / hat gebraten) | to fry / roast |
+
+## A4
+
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
+| Zutaten | die (Pl.) | – | ingredients |
+| Rezept | das | -e | recipe |
+| Gewürz | das | -e | spice |
+| Gericht | das | -e | dish / court |
+
+## A4 – Verben
+
+| Deutsch | Englisch |
+|---------|----------|
+| rühren (hat gerührt) | to stir |
+| trocknen (hat getrocknet) | to dry |
+| zubereiten (hat zubereitet) | to prepare (food) |
+| braten | to fry / roast |
+| rühren | to stir |
+| kochen | to cook |
+| backen | to bake |
+
+## D – Nomen
+
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
+| Zuwanderer | der | – | immigrant |
+| Nachtisch | der | -e | dessert |
+| Gebäck | das | -e | pastry / baked goods |
+| Kuchen | der | – | cake |
+
+## B2
+
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
+| Zuhause | das | (Sg.) | home |
+| Tradition | die | -en | tradition |
+| Gegend | die | -en | area / region |
+| Mobilität | die | (Sg.) | mobility |
+| Migration | die | (Sg.) | migration |
+| Volk | das | ¨-er | people / nation |
+
+## B2 – Adjektive
+
+| Deutsch | Englisch |
+|---------|----------|
+| ursprünglich | original / originally |
+
+## B3
+
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
+| Staatsangehörigkeit | die | -en | nationality / citizenship |
+| Profi | der | -s | professional |
+
+## B4
+
+| Deutsch | Englisch |
+|---------|----------|
+| integrieren (hat integriert) | to integrate |
+| ordnen (hat geordnet) | to sort / arrange |
+
+## C2
+
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
+| Fläche | die | -n | area / surface |
+| Einwohner | der | – | inhabitant |
+| Kontinent | der | -e | continent |
+| EU | die | (Sg.) | EU (European Union) |
+
+## C3
+
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
+| Freiheit | die | -en | freedom |
+| Demokratie | die | -n | democracy |

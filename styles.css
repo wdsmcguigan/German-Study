@@ -768,6 +768,35 @@ body.menu-open {
   border-radius: 50%;
   font-size: 14px;
   backdrop-filter: blur(4px);
+  pointer-events: none;
+}
+
+.cs-fav-btn {
+  position: absolute;
+  top: 12px;
+  left: 12px;
+  background: rgba(0,0,0,0.5);
+  border: none;
+  border-radius: 50%;
+  width: 32px;
+  height: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--text-muted);
+  font-size: 20px;
+  cursor: pointer;
+  z-index: 10;
+  transition: all 0.2s;
+  backdrop-filter: blur(4px);
+}
+.cs-fav-btn.active {
+  color: var(--accent-blue);
+  background: rgba(0,0,0,0.8);
+}
+.cs-fav-btn:hover {
+  transform: scale(1.1);
+  color: var(--text-primary);
 }
 
 /* Lightbox Modal */

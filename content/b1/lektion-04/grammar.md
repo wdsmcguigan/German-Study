@@ -1,44 +1,83 @@
-# Grammatik – Lektion 4: Kulturelles Leben
+# Grammatik – Lektion 4: Konjunktiv II und Genitiv-Präpositionen
 
-## Relativsätze mit Präposition
+## Konjunktiv II: Irreale Bedingungen (Unreal Conditionals)
 
-When the relative pronoun follows a preposition, the preposition comes first:
+The Konjunktiv II is used to express unreal, hypothetical, or wishful situations — things that are NOT actually happening. Irreale Bedingungssätze use **wenn** in the subordinate clause.
 
-| Bezugsnomen | Relativsatz | Beispiel |
-|-------------|-------------|---------|
-| das Museum (n) | in dem ich war | Das Museum, **in dem** ich war, war toll. |
-| die Ausstellung (f) | über die wir sprachen | Die Ausstellung, **über die** wir sprachen, war interessant. |
-| der Künstler (m) | mit dem ich sprach | Der Künstler, **mit dem** ich sprach, war freundlich. |
-| die Werke (Pl.) | von denen ich las | Die Werke, **von denen** ich las, sind bekannt. |
+### Struktur
 
-**Wo- + Präposition (für Sachen, alternativ):**
-- Die Ausstellung, **worüber** wir sprachen, …
-- Das Thema, **womit** er sich beschäftigt, …
+| Teil | Inhalt |
+|------|--------|
+| Nebensatz (wenn-Satz) | Wenn + Konjunktiv II (Verb → Ende) |
+| Hauptsatz (Folge) | Konjunktiv II (würde / wäre / hätte …) |
 
-## Infinitivkonstruktionen: um … zu / ohne … zu / anstatt … zu
+### Beispiele aus dem Buch
 
-| Konstruktion | Bedeutung | Beispiel |
-|-------------|-----------|---------|
-| **um … zu** + Inf. | in order to | Er geht ins Museum, **um** Kunst **zu** sehen. |
-| **ohne … zu** + Inf. | without (doing) | Sie ging, **ohne** ein Wort **zu** sagen. |
-| **anstatt … zu** + Inf. | instead of (doing) | Er liest, **anstatt** fernzusehen. |
+| Nebensatz | Hauptsatz |
+|-----------|-----------|
+| Wenn ich ihn richtig toll fände, | hätte ich ... für ihn. |
+| Wenn sie am Wochenende nichts vorhätte, | könnte sie arbeiten müsste. |
+| Wenn sie nicht so viel arbeiten müsste, | könnte sie ... |
+| Wenn er nicht so anstrengend wäre, | würde ... |
+| Wenn ... würde | ... |
 
-**Regeln:**
-- Same subject in both clauses → use **um/ohne/anstatt … zu**
-- Different subjects → use **damit/ohne dass/anstatt dass**
+> The **wenn-clause** can come first (verb to end) or second (after the main clause).
+> When the wenn-clause comes first, the main clause begins with the **conjugated verb**.
 
-**Beispiele:**
-- Ich spare, **um** in die Oper **zu** gehen. (same subject: ich)
-- Ich spare, **damit** meine Frau in die Oper gehen kann. (different subjects)
+### Konjunktiv II Formen: sein, haben, Modalverben
 
-## Präteritum der schwachen Verben (Regular Past Tense)
+| Person | sein (wäre) | haben (hätte) | können (könnte) | müssen (müsste) | dürfen (dürfte) |
+|--------|------------|--------------|----------------|----------------|----------------|
+| ich | wäre | hätte | könnte | müsste | dürfte |
+| du | wärst | hättest | könntest | müsstest | dürftest |
+| er/sie/es | wäre | hätte | könnte | müsste | dürfte |
+| wir | wären | hätten | könnten | müssten | dürften |
+| ihr | wärt | hättet | könntet | müsstet | dürftet |
+| sie/Sie | wären | hätten | könnten | müssten | dürften |
 
-| Infinitiv | Präteritum (ich) | Beispiel |
-|-----------|-----------------|---------|
-| malen | malte | Er **malte** jeden Tag. |
-| spielen | spielte | Sie **spielte** Klavier. |
-| arbeiten | arbeitete | Er **arbeitete** als Künstler. |
-| öffnen | öffnete | Das Museum **öffnete** um 9 Uhr. |
+**Beispiele (Examples):**
+- **Wenn** ich mehr Zeit **hätte**, würde ich mehr Sport machen.
+- **Wenn** es nicht so teuer **wäre**, würden wir es kaufen.
+- **Wenn** ich besser Deutsch **könnte**, würde ich dort arbeiten.
 
-> Weak verbs: stem + **-te** + personal ending
-> Stems ending in -t/-d: add **-ete**
+> For most other verbs, use **würde** + Infinitiv instead of the Konjunktiv II form:
+> Wenn ich Geld hätte, **würde** ich reisen. (NOT: reiste)
+
+---
+
+## Passiv Präsens mit Modalverben (continued from Lektion 3)
+
+**Formel:** Modalverb (konjugiert) + Partizip II + **werden**
+
+| Aktiv | Passiv mit Modal |
+|-------|-----------------|
+| Man muss die Baugenehmigung beantragen. | Die Baugenehmigung **muss** beantragt **werden**. |
+| Man darf das hier nicht machen. | Das **darf** hier nicht gemacht **werden**. |
+| Man kann das ändern. | Das **kann** geändert **werden**. |
+
+**Beispiele (Examples):**
+- Die Baugenehmigung **muss** beim Amt beantragt **werden**.
+- Das Formular **soll** vollständig ausgefüllt **werden**.
+- Der Antrag **kann** online gestellt **werden**.
+
+---
+
+## Präposition: wegen + Genitiv
+
+**wegen** = because of / due to. It takes the **Genitiv** case.
+
+| Genitiv nach wegen | Beispiel |
+|-------------------|---------|
+| wegen + des/eines ... (m/n) | **Wegen** meines Berufs bin ich viel unterwegs. |
+| wegen + der/einer ... (f) | **Wegen** meiner Arbeit komme ich spät. |
+| wegen + meiner/deiner ... | **Warum** haben Sie Deutsch gelernt? **Wegen** meines Praktikums. |
+
+**Beispiele aus dem Buch:**
+- Warum haben Sie Deutsch gelernt? **Wegen** meines Berufs / meines Praktikums / meiner Arbeit / meiner Interviews.
+
+**Beispiele (Examples):**
+- **Wegen** des schlechten Wetters blieben wir zu Hause.
+- **Wegen** meiner Arbeit habe ich keine Zeit.
+- Sie konnte nicht kommen, **wegen** einer Krankheit.
+
+> In spoken German, **wegen** is often used with Dativ (wegen dem), but Genitiv is correct in formal/written German.

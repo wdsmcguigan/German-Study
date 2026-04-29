@@ -1,57 +1,73 @@
-# Grammatik – Lektion 12: Beruf und Karriere
+# Grammatik – Lektion 12: Zusammenleben
 
-## Nomen-Verb-Verbindungen (Funktionsverbgefüge)
+## Präposition: außer + Dativ
 
-Fixed combinations of noun + verb that function as a unit:
+**außer** = "except for / apart from / besides" — always takes the **dative** case.
 
-| Kombination | Bedeutung | Einfaches Verb |
-|-------------|-----------|----------------|
-| eine Entscheidung **treffen** | to make a decision | entscheiden |
-| einen Vorschlag **machen** | to make a suggestion | vorschlagen |
-| Kritik **üben** | to criticise | kritisieren |
-| ein Gespräch **führen** | to have a conversation | sprechen |
-| eine Frage **stellen** | to ask a question | fragen |
-| Einfluss **nehmen** auf | to influence | beeinflussen |
-| zur Verfügung **stehen** | to be available | verfügbar sein |
-| in Frage **kommen** | to be possible / eligible | möglich sein |
-| in Betracht **ziehen** | to consider | berücksichtigen |
-| Rücksicht **nehmen** auf | to consider / respect | berücksichtigen |
+| Artikel (Dativ) | Beispiel |
+|-----------------|---------|
+| außer **dem** (m./n.) | außer **dem** Kollegen |
+| außer **der** (f.) | außer **der** Chefin |
+| außer **den** (Pl.) | außer **den** Kindern |
 
-## Adjektivdeklination: Alle Typen (Zusammenfassung)
+**Beispiele (Examples):**
+- Alle waren da, **außer** meiner Schwester.
+- **Außer** dir weiß das niemand.
+- **Außer** meinem Freund mag niemand diesen Film.
+- Alle außer **den** Kindern dürfen rein.
 
-**Typ 1: nach bestimmtem Artikel (der/die/das/die)**
+> **außer** is commonly used in everyday speech to make exceptions. It is always followed by dative.
 
-| | m | f | n | Pl. |
-|--|---|---|---|-----|
-| Nom. | -e | -e | -e | -en |
-| Akk. | -en | -e | -e | -en |
-| Dat. | -en | -en | -en | -en |
+---
 
-**Typ 2: nach unbestimmtem Artikel (ein/eine/kein)**
+## Konjunktion: indem
 
-| | m | f | n | Pl. |
-|--|---|---|---|-----|
-| Nom. | **-er** | -e | **-es** | -en |
-| Akk. | -en | -e | **-es** | -en |
-| Dat. | -en | -en | -en | -en |
+**indem** = "by (doing something)" — describes the **means or method** by which an action is carried out. It answers the question "How?"
 
-**Typ 3: ohne Artikel (starke Endungen)**
+**Structure:** indem + Nebensatz (verb at end), Hauptsatz
 
-| | m | f | n | Pl. |
-|--|---|---|---|-----|
-| Nom. | **-er** | **-e** | **-es** | **-e** |
-| Akk. | **-en** | **-e** | **-es** | **-e** |
-| Dat. | **-em** | **-er** | **-em** | **-en** |
+**Beispiele (Examples):**
+- Man kann helfen, **indem** man Geld spendet.
+- Er lernt Deutsch, **indem** er täglich übt.
+- **Indem** sie laut spricht, macht sie auf sich aufmerksam.
+- Du kannst Energie sparen, **indem** du das Licht ausmachst.
 
-**Merksatz:** Der bestimmte Artikel „trägt" die Endung — nach ihm braucht das Adjektiv nur -e oder -en.
+> **indem** clauses describe the simultaneous method or instrument of the main action. Both actions happen at the same time.
 
-## Präpositionen mit Genitiv (B1-Niveau)
+---
 
-| Präposition | Bedeutung | Beispiel |
-|-------------|-----------|---------|
-| **aufgrund** | due to | **Aufgrund** seiner Erfahrung wurde er eingestellt. |
-| **angesichts** | in view of | **Angesichts** der Situation muss man handeln. |
-| **infolge** | as a result of | **Infolge** des Fehlers musste er kündigen. |
-| **mithilfe** | with the help of | **Mithilfe** des Teams schafften sie es. |
-| **hinsichtlich** | with regard to | **Hinsichtlich** des Gehalts sind wir einig. |
-| **bezüglich** | regarding | **Bezüglich** Ihrer Bewerbung… |
+## Konjunktionen: ohne dass / ohne … zu + Infinitiv
+
+These structures express that something happens **without** an accompanying action taking place.
+
+### ohne dass (different subjects)
+
+Used when the subject of the main clause and the subordinate clause are **different**.
+
+**Structure:** ohne dass + Nebensatz (verb at end)
+
+**Beispiele (Examples):**
+- Er verließ das Haus, **ohne dass** jemand es bemerkte.
+- Sie Mahlberg kommen helfen, **ohne dass** sie Migräne bekam.
+- Er aß alles, **ohne dass** er gefragt wurde.
+
+### ohne … zu + Infinitiv (same subject)
+
+Used when **both clauses share the same subject**.
+
+**Structure:** ohne + … + zu + Infinitiv
+
+**Beispiele (Examples):**
+- Er ging weg, **ohne** etwas **zu sagen**.
+- Sie verließ das Meeting, **ohne** sich **zu verabschieden**.
+- Er aß, **ohne** zu bezahlen.
+- Sie können helfen, **ohne** selbst Geld **zu spenden**.
+
+### Summary: ohne dass vs. ohne … zu
+
+| Struktur | Subjekte | Beispiel |
+|----------|---------|---------|
+| **ohne dass** + Nebensatz | different subjects | Er kam, ohne dass ich ihn einlud. |
+| **ohne … zu** + Infinitiv | same subject | Er kam, ohne eingeladen zu werden. |
+
+> This pattern parallels **damit / um … zu**: **ohne dass** = different subjects; **ohne … zu** = same subject.

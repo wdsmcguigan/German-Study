@@ -11,7 +11,8 @@ export class ProgressSystem {
             lastStudyDate: null,
             sessionsCompleted: 0,
             recentSessions: [],
-            favoriteTables: []
+            favoriteTables: [],
+            favoriteCheatsheets: []
         };
     }
 
@@ -213,6 +214,27 @@ export class ProgressSystem {
                 });
             }
         }
+    }
+
+    // ── FAVORITE CHEATSHEETS ───────────────────────────────
+
+    isCheatsheetFavorited(path) {
+        if (!this.data.favoriteCheatsheets) this.data.favoriteCheatsheets = [];
+        return this.data.favoriteCheatsheets.includes(path);
+    }
+
+    toggleFavoriteCheatsheet(path) {
+        if (!this.data.favoriteCheatsheets) this.data.favoriteCheatsheets = [];
+        const index = this.data.favoriteCheatsheets.indexOf(path);
+        
+        if (index === -1) {
+            this.data.favoriteCheatsheets.push(path);
+        } else {
+            this.data.favoriteCheatsheets.splice(index, 1);
+        }
+        
+        this.save();
+        return index === -1; // returns true if added, false if removed
     }
 
     // ── FAVORITE TABLES ────────────────────────────────────

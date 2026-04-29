@@ -1,58 +1,145 @@
-# Wortschatz – Lektion 2: Arbeit und Geld
+# Wortschatz – Lektion 2: Unterhaltung
 
-## Beruf und Karriere
+## Foto-Hörgeschichte
 
-| Deutsch | Artikel | Englisch |
-|---------|---------|----------|
-| Karriere | die | career |
-| Beförderung | die | promotion |
-| Kündigung | die | dismissal / resignation |
-| Gehalt | das | salary |
-| Lohn | der | wage |
-| Gehaltserhöhung | die | pay rise |
-| Überstunde | die | overtime |
-| Teilzeit | die | part-time |
-| Vollzeit | die | full-time |
-| Selbstständigkeit | die | self-employment |
-| Unternehmen | das | company / enterprise |
-| Abteilung | die | department |
-| Vorgesetzter / Vorgesetzte | der / die | superior / boss |
-| Kollege / Kollegin | der / die | colleague |
-| Praktikum | das | internship |
-| Bewerbung | die | application |
-| Lebenslauf | der | CV |
-| Zeugnis | das | reference / certificate |
-| Erfahrung | die | experience |
-| Qualifikation | die | qualification |
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
+| Serie | die | -n | TV series |
+| Folge | die | -n | episode |
 
-## Finanzen
+## Ellas Kolumne
 
-| Deutsch | Artikel | Englisch |
-|---------|---------|----------|
-| Einkommen | das | income |
-| Ausgaben | die (Pl.) | expenses |
-| Ersparnisse | die (Pl.) | savings |
-| Schulden | die (Pl.) | debts |
-| Kredit | der | loan / credit |
-| Zinsen | die (Pl.) | interest |
-| Steuer | die | tax |
-| Versicherung | die | insurance |
-| Rente | die | pension |
-| Sozialleistungen | die (Pl.) | social benefits |
-| Arbeitslosengeld | das | unemployment benefit |
-| Mindestlohn | der | minimum wage |
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
+| Charakter | der | -e | character |
+| Verlierer | der | – | loser |
+| Typ | der | -en | type / guy |
+| Figur | die | -en | figure / character |
+| Operation | die | -en | operation |
+| Blut | das | – (Sg.) | blood |
 
-## Verben
+## Adjektive / Adverbien (Ellas Kolumne)
 
 | Deutsch | Englisch |
 |---------|----------|
-| verdienen | to earn |
-| investieren | to invest |
-| sparen | to save |
-| ausgeben | to spend |
-| sich bewerben um | to apply for |
-| kündigen | to resign / give notice |
-| einstellen | to hire |
-| entlassen | to dismiss |
-| verhandeln | to negotiate |
-| sich selbstständig machen | to become self-employed |
+| obwohl | although (conjunction) |
+| dauernd | constantly |
+| optimistisch | optimistic |
+| unglaublich | unbelievably |
+| kriminell | criminal |
+| veröffentlicht | published |
+
+## Verben (Ellas Kolumne)
+
+| Deutsch | Englisch |
+|---------|----------|
+| erfinden (hat erfunden) | to invent |
+
+## A2
+
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
+| Fall | der | -¨e | case / fall |
+
+## B1 – Musik / Hip-Hop
+
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
+| Sänger / Sängerin | der / die | – | singer |
+| Band | die | -s | band |
+| Großstadt | die | -¨e | big city |
+| Song | der | -s | song |
+| Hit | der | -s | hit |
+| Humor | der | – (Sg.) | humor |
+
+## Verben (B)
+
+| Deutsch | Englisch |
+|---------|----------|
+| handeln (hat gehandelt) | to act / to deal / to be about |
+| entstehen (ist entstanden) | to develop / to come into being |
+| rappen (hat gerappt) | to rap |
+
+## Adjektive / Adverbien (B)
+
+| Deutsch | Englisch |
+|---------|----------|
+| heutig | present-day / today's |
+| elektronisch | electronic |
+| anfangs | at first / initially |
+| völlig | completely |
+| alltäglich | everyday / ordinary |
+| sogenannt | so-called |
+| produziert | produced |
+
+## C – Gewalt / Kritik
+
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
+| Gewalt | die | – (Sg.) | violence |
+| Star | der | -s | star (celebrity) |
+| Szene | die | -n | scene |
+
+## Verben (C)
+
+| Deutsch | Englisch |
+|---------|----------|
+| kritisieren (hat kritisiert) | to criticize |
+| beschäftigen (hat beschäftigt) | to occupy / to keep busy |
+| erfolgreich | successful |
+
+## C1 – Arbeit / Lager
+
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
+| Verhältnis | das | -se | relationship / proportion |
+| Rat | der | – (Sg.) | advice |
+| Lager | das | – | camp / warehouse |
+
+## Verben (C1)
+
+| Deutsch | Englisch |
+|---------|----------|
+| gelingen (ist gelungen) | to succeed |
+| verlassen (hat verlassen) | to leave / to abandon |
+| begleiten (hat begleitet) | to accompany |
+
+## Adverbien (C1)
+
+| Deutsch | Englisch |
+|---------|----------|
+| zuletzt | finally / last |
+
+## C2
+
+| Deutsch | Englisch |
+|---------|----------|
+| einfallen (ist eingefallen) | to occur to someone |
+| zustimmen (hat zugestimmt) | to agree |
+| dafür | for it / in favour |
+
+## D – Medien / Rundfunk
+
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
+| Krone | die | -n | crown |
+| Ufer | das | – | riverbank / shore |
+| Rundfunk | der | – (Sg.) | radio / broadcasting |
+| Medien | die | Pl. | media |
+
+## Verben (D)
+
+| Deutsch | Englisch |
+|---------|----------|
+| stülpen (hat gestülpt) | to pull over / to turn inside out |
+| begegnen (ist begegnet) | to meet / to encounter |
+
+## Adjektive / Adverbien (D)
+
+| Deutsch | Englisch |
+|---------|----------|
+| außen | outside |
+| innen | inside |
+| knapp | barely / tight |
+| doppelt | double |
+| relativ | relatively |

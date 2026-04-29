@@ -21,7 +21,7 @@ const ROOT   = join(__dir, '..');
 const WLIST  = join(ROOT, 'data', 'wordlist.json');
 const VOCAB  = join(ROOT, 'data', 'vocab.json');
 const API    = 'https://en.wiktionary.org/w/api.php';
-const DELAY  = 1100; // ms between requests
+const DELAY  = 1500; // ms between requests (increased for politeness)
 
 // ── CLI flags ────────────────────────────────────────────
 const args  = process.argv.slice(2);
@@ -38,7 +38,7 @@ function stripLinks(s) {
 
 // ── Wiktionary fetch ─────────────────────────────────────
 
-async function fetchWikitext(word) {
+async function fetchWikitext(word, retries = 4) {
   const url = new URL(API);
   url.searchParams.set('action', 'query');
   url.searchParams.set('titles', word);
@@ -48,12 +48,21 @@ async function fetchWikitext(word) {
   url.searchParams.set('format', 'json');
   url.searchParams.set('formatversion', '2');
 
-  const res = await fetch(url, { headers: { 'User-Agent': 'GermanStudyApp/1.0 (educational)' } });
-  if (!res.ok) throw new Error(`HTTP ${res.status} for "${word}"`);
-  const data = await res.json();
-  const page = data.query.pages[0];
-  if (page.missing || !page.revisions) return null;
-  return page.revisions[0].slots.main.content;
+  for (let attempt = 0; attempt <= retries; attempt++) {
+    const res = await fetch(url, { headers: { 'User-Agent': 'GermanStudyApp/1.0 (educational)' } });
+    if (res.status === 429) {
+      if (attempt === retries) throw new Error(`HTTP 429 for "${word}" (gave up after ${retries + 1} attempts)`);
+      const backoff = 10000 * Math.pow(2, attempt); // 10s, 20s, 40s, 80s
+      process.stdout.write(`429 — waiting ${backoff / 1000}s before retry ${attempt + 1}/${retries}... `);
+      await sleep(backoff);
+      continue;
+    }
+    if (!res.ok) throw new Error(`HTTP ${res.status} for "${word}"`);
+    const data = await res.json();
+    const page = data.query.pages[0];
+    if (page.missing || !page.revisions) return null;
+    return page.revisions[0].slots.main.content;
+  }
 }
 
 // ── Wikitext parser ──────────────────────────────────────

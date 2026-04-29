@@ -1,56 +1,92 @@
-# Grammatik – Lektion 1: Zusammen leben
+# Grammatik – Lektion 1: Verben und Zeitformen
 
-## Relativsätze (Relative Clauses)
+## Präteritum: Konjugation
 
-Relative clauses describe a noun more precisely. The relative pronoun agrees in gender and number with the noun it refers to, but takes the case required by its role in the relative clause.
+The Präteritum (simple past) is used mainly in writing and formal narration. Three important verb types have distinct patterns.
 
-### Relativpronomen
+### Typ "tanken" (regular weak verbs)
 
-| | maskulin | feminin | neutral | Plural |
-|--|----------|---------|---------|--------|
-| Nom. | **der** | **die** | **das** | **die** |
-| Akk. | **den** | **die** | **das** | **die** |
-| Dat. | **dem** | **der** | **dem** | **denen** |
-| Gen. | **dessen** | **deren** | **dessen** | **deren** |
+| Person | tanken |
+|--------|--------|
+| ich | tankte |
+| du | tanktest |
+| er/sie/es | tankte |
+| wir | tankten |
+| ihr | tanktet |
+| sie/Sie | tankten |
 
-**Beispiele:**
+> Regular weak verbs: add **-te** to the stem, then personal endings.
 
-| Bezugsnomen | Relativsatz | Vollständig |
-|-------------|-------------|-------------|
-| der Mann (m, Nom.) | der dort wohnt | Das ist der Mann, **der** dort wohnt. |
-| die Frau (f, Akk.) | ich kenne | Die Frau, **die** ich kenne, ist nett. |
-| das Kind (n, Dat.) | dem ich helfe | Das Kind, **dem** ich helfe, heißt Tim. |
-| die Leute (Pl., Nom.) | dort wohnen | Die Leute, **die** dort wohnen, sind nett. |
+### Typ "lassen" (irregular strong verbs)
 
-> Verb in the relative clause goes to the END.
-> The relative clause is separated by commas.
+| Person | lassen |
+|--------|--------|
+| ich | ließ |
+| du | ließest |
+| er/sie/es | ließ |
+| wir | ließen |
+| ihr | ließt |
+| sie/Sie | ließen |
 
-### Relativsatz mit Präposition
+> Strong verbs change their stem vowel — no **-te** added.
 
-| Beispiel | Erklärung |
-|---------|-----------|
-| Die WG, **in der** ich wohne, ist groß. | in + der (f, Dat.) |
-| Der Nachbar, **mit dem** ich spreche, ist freundlich. | mit + dem (m, Dat.) |
-| Das Haus, **für das** wir zahlen, ist alt. | für + das (n, Akk.) |
+### Typ "bringen" (mixed/irregular verbs)
 
-## Genitiv (Genitive Case)
+| Person | bringen |
+|--------|---------|
+| ich | brachte |
+| du | brachtest |
+| er/sie/es | brachte |
+| wir | brachten |
+| ihr | brachtet |
+| sie/Sie | brachten |
 
-Used to show possession or belonging.
+> Mixed verbs change the stem vowel AND add **-te**.
+> Other verbs like this: denken → dachte, kennen → kannte, nennen → nannte, wissen → wusste.
 
-| | maskulin | feminin | neutral | Plural |
-|--|----------|---------|---------|--------|
-| Bestimmt | des Mannes | der Frau | des Kindes | der Leute |
-| Unbestimmt | eines Mannes | einer Frau | eines Kindes | – |
+**Beispiele (Examples):**
+- früher/gestern/letztes Jahr / er spielte, er gewann, er ist gekommen / er kam
+- ich habe geholfen, ich habe geholt, ich war/hatte/wollte ...
+- hört man oft in Gesprächen
+- liest man oft in persönlichen Briefen, in Büchern, in Berichten, in der Zeitung, in Nachrichten
 
-**Nomen im Genitiv:** maskulin/neutral add **-s** or **-es**.
+---
 
-**Beispiele:**
-- Das ist das Auto **des Nachbarn**.
-- Die Meinung **der Gesellschaft** ist wichtig.
-- Die Rechte **der Bürger** müssen geschützt werden.
+## Plusquamperfekt (Past Perfect)
 
-**Genitiv-Präpositionen:**
-- **wegen** + Genitiv: wegen des Lärms
-- **trotz** + Genitiv: trotz der Probleme
-- **während** + Genitiv: während des Sommers
-- **aufgrund** + Genitiv: aufgrund der Situation
+The Plusquamperfekt describes an action that happened **before** another past action. It is formed with **hatte** or **war** + Partizip II.
+
+| Person | haben (hatte) | sein (war) |
+|--------|--------------|-----------|
+| ich | hatte | war |
+| du | hattest | warst |
+| er/sie/es | hatte | war |
+| wir | hatten | waren |
+| ihr | hattet | wart |
+| sie/Sie | hatten | waren |
+
+**Formation:** hatte/war + Partizip II
+
+**Beispiele (Examples):**
+- Ich musste auf der Bank sitzen und zusehen, denn ich hatte mir den Fuß gebrochen.
+- Er hatte trainiert. / Sie war gelaufen.
+
+> Use **hatte** + P.II for most verbs; use **war** + P.II for verbs of motion/change of state (gehen, kommen, fahren, etc.).
+
+---
+
+## Konjunktion: als (when – single past event)
+
+**als** introduces a subordinate clause referring to a **single, completed event in the past**. The verb goes to the end of the clause.
+
+| Struktur | Beispiel |
+|---------|---------|
+| als + Nebensatz (Verb → Ende) | **Als** ich das erste Mal nach Deutschland kam, war ich sehr aufgeregt. |
+
+**Beispiele (Examples):**
+- Als ich in der Schule war, lernte ich viel.
+- Als sie ankam, warteten wir bereits.
+- Als er jung war, spielte er viel Fußball.
+
+> **als** = one specific moment or period in the past (use once)
+> **wenn** = repeated past events, or present/future situations

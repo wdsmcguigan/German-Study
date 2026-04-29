@@ -1,1 +1,1162 @@
-{}
+{
+  "Abend": {
+    "word": "Abend",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Abendessen": {
+    "word": "Abendessen",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Abenteuer": {
+    "word": "Abenteuer",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Abitur": {
+    "word": "Abitur",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Abschluss": {
+    "word": "Abschluss",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Adresse": {
+    "word": "Adresse",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Akzent": {
+    "word": "Akzent",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Amt": {
+    "word": "Amt",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Anwalt": {
+    "word": "Anwalt",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Apfel": {
+    "word": "Apfel",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Artikel": {
+    "word": "Artikel",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Arzt": {
+    "word": "Arzt",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Arztbesuch": {
+    "word": "Arztbesuch",
+    "pos": "unknown",
+    "translations": [],
+    "examples": [],
+    "related": [],
+    "source": "wiktionary"
+  },
+  "Aufenthaltserlaubnis": {
+    "word": "Aufenthaltserlaubnis",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Aufzug": {
+    "word": "Aufzug",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Ausbildung": {
+    "word": "Ausbildung",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Ausdruck": {
+    "word": "Ausdruck",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Ausländer": {
+    "word": "Ausländer",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Ausstellung": {
+    "word": "Ausstellung",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Ausweis": {
+    "word": "Ausweis",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Bürger": {
+    "word": "Bürger",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Bürgermeister": {
+    "word": "Bürgermeister",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Bürgerrecht": {
+    "word": "Bürgerrecht",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Büro": {
+    "word": "Büro",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "CO2-Ausstoß": {
+    "word": "CO2-Ausstoß",
+    "pos": "unknown",
+    "translations": [],
+    "examples": [],
+    "related": [],
+    "source": "wiktionary"
+  },
+  "Cent": {
+    "word": "Cent",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Chance": {
+    "word": "Chance",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Charakter": {
+    "word": "Charakter",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Chef": {
+    "word": "Chef",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Computer": {
+    "word": "Computer",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Fahrkarte": {
+    "word": "Fahrkarte",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Fahrrad": {
+    "word": "Fahrrad",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Familie": {
+    "word": "Familie",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Farbe": {
+    "word": "Farbe",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Fasching": {
+    "word": "Fasching",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Feiertag": {
+    "word": "Feiertag",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Fenster": {
+    "word": "Fenster",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Fernsehen": {
+    "word": "Fernsehen",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Fest": {
+    "word": "Fest",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Film": {
+    "word": "Film",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Gesetz": {
+    "word": "Gesetz",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Gesundheit": {
+    "word": "Gesundheit",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Gewerkschaft": {
+    "word": "Gewerkschaft",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Gewohnheit": {
+    "word": "Gewohnheit",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Glaube": {
+    "word": "Glaube",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Gleichberechtigung": {
+    "word": "Gleichberechtigung",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Globalisierung": {
+    "word": "Globalisierung",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Grundgesetz": {
+    "word": "Grundgesetz",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Größe": {
+    "word": "Größe",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Hand": {
+    "word": "Hand",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Kind": {
+    "word": "Kind",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Kindheit": {
+    "word": "Kindheit",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Kino": {
+    "word": "Kino",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Klage": {
+    "word": "Klage",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Klasse": {
+    "word": "Klasse",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Kleidung": {
+    "word": "Kleidung",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Klimawandel": {
+    "word": "Klimawandel",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Koalition": {
+    "word": "Koalition",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Kollege": {
+    "word": "Kollege",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Kommunikation": {
+    "word": "Kommunikation",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Mietvertrag": {
+    "word": "Mietvertrag",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Milch": {
+    "word": "Milch",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Mindestlohn": {
+    "word": "Mindestlohn",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Misserfolg": {
+    "word": "Misserfolg",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Missverständnis": {
+    "word": "Missverständnis",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Mittag": {
+    "word": "Mittag",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Mittagessen": {
+    "word": "Mittagessen",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Mittwoch": {
+    "word": "Mittwoch",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Mode": {
+    "word": "Mode",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Montag": {
+    "word": "Montag",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Pflege": {
+    "word": "Pflege",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Pflicht": {
+    "word": "Pflicht",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Philosophie": {
+    "word": "Philosophie",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Platz": {
+    "word": "Platz",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Pläne": {
+    "word": "Pläne",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Politik": {
+    "word": "Politik",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Post": {
+    "word": "Post",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Praktikum": {
+    "word": "Praktikum",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Praxis": {
+    "word": "Praxis",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Problem": {
+    "word": "Problem",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Schule": {
+    "word": "Schule",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Schulsystem": {
+    "word": "Schulsystem",
+    "pos": "unknown",
+    "translations": [],
+    "examples": [],
+    "related": [],
+    "source": "wiktionary"
+  },
+  "Schwester": {
+    "word": "Schwester",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Schüler": {
+    "word": "Schüler",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "See": {
+    "word": "See",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Selbstreflexion": {
+    "word": "Selbstreflexion",
+    "pos": "unknown",
+    "translations": [],
+    "examples": [],
+    "related": [],
+    "source": "wiktionary"
+  },
+  "Semester": {
+    "word": "Semester",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Seminar": {
+    "word": "Seminar",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Sinn": {
+    "word": "Sinn",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Smartphone": {
+    "word": "Smartphone",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Tarifvertrag": {
+    "word": "Tarifvertrag",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Team": {
+    "word": "Team",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Technik": {
+    "word": "Technik",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Technologie": {
+    "word": "Technologie",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Tee": {
+    "word": "Tee",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Teilzeit": {
+    "word": "Teilzeit",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Telefon": {
+    "word": "Telefon",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Temperatur": {
+    "word": "Temperatur",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Tennis": {
+    "word": "Tennis",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Termin": {
+    "word": "Termin",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Vorstellungsgespräch": {
+    "word": "Vorstellungsgespräch",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Vorurteil": {
+    "word": "Vorurteil",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Wachstum": {
+    "word": "Wachstum",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Wahl": {
+    "word": "Wahl",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Wasser": {
+    "word": "Wasser",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Weihnachten": {
+    "word": "Weihnachten",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Wein": {
+    "word": "Wein",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Weltanschauung": {
+    "word": "Weltanschauung",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Welthandel": {
+    "word": "Welthandel",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Werk": {
+    "word": "Werk",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "aufwachsen": {
+    "word": "aufwachsen",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "ausfüllen": {
+    "word": "ausfüllen",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "ausgehen": {
+    "word": "ausgehen",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "ausruhen": {
+    "word": "ausruhen",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "ausziehen": {
+    "word": "ausziehen",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "automatisieren": {
+    "word": "automatisieren",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "beantragen": {
+    "word": "beantragen",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "befürchten": {
+    "word": "befürchten",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "beginnen": {
+    "word": "beginnen",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "bestellen": {
+    "word": "bestellen",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Abdomen": {
+    "word": "Abdomen",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Akku": {
+    "word": "Akku",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Allee": {
+    "word": "Allee",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Altenheim": {
+    "word": "Altenheim",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Alternative": {
+    "word": "Alternative",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Angabe": {
+    "word": "Angabe",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Anlage": {
+    "word": "Anlage",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Ansicht": {
+    "word": "Ansicht",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Anspruch": {
+    "word": "Anspruch",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Anzahl": {
+    "word": "Anzahl",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Anzeige": {
+    "word": "Anzeige",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Apotheke": {
+    "word": "Apotheke",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "App": {
+    "word": "App",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Aprikose": {
+    "word": "Aprikose",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Arbeitsagentur": {
+    "word": "Arbeitsagentur",
+    "pos": "unknown",
+    "translations": [],
+    "examples": [],
+    "related": [],
+    "source": "wiktionary"
+  },
+  "Arbeitsatmosphäre": {
+    "word": "Arbeitsatmosphäre",
+    "pos": "unknown",
+    "translations": [],
+    "examples": [],
+    "related": [],
+    "source": "wiktionary"
+  },
+  "Arbeitszeit": {
+    "word": "Arbeitszeit",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Architekt": {
+    "word": "Architekt",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Arm": {
+    "word": "Arm",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Atmosphäre": {
+    "word": "Atmosphäre",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Aufforderung": {
+    "word": "Aufforderung",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Aufgabe": {
+    "word": "Aufgabe",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Auftrag": {
+    "word": "Auftrag",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Augenblick": {
+    "word": "Augenblick",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  },
+  "Ausbildungsplatz": {
+    "word": "Ausbildungsplatz",
+    "pos": "other",
+    "source": "wiktionary",
+    "translations": [],
+    "examples": [],
+    "related": []
+  }
+}
