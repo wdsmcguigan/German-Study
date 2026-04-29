@@ -70,8 +70,10 @@ async function fetchWikitext(word, retries = 4) {
 function extractGermanSection(wikitext) {
   const start = wikitext.indexOf('==German==');
   if (start === -1) return null;
-  const after = wikitext.indexOf('\n==', start + 10);
-  return after === -1 ? wikitext.slice(start) : wikitext.slice(start, after);
+  // Find next top-level section (==X== but NOT ===X===)
+  const rest = wikitext.slice(start + 10);
+  const nextTop = rest.search(/\n==[^=]/);
+  return nextTop === -1 ? wikitext.slice(start) : wikitext.slice(start, start + 10 + nextTop);
 }
 
 function parseIPA(section) {
