@@ -106,6 +106,12 @@ async function loadFile(path) {
         if (!res.ok) throw new Error(`HTTP ${res.status}`);
         const text = await res.text();
         el.innerHTML = marked.parse(text);
+        el.querySelectorAll('table').forEach(table => {
+            const wrapper = document.createElement('div');
+            wrapper.className = 'table-wrapper';
+            table.parentNode.insertBefore(wrapper, table);
+            wrapper.appendChild(table);
+        });
     } catch {
         el.innerHTML = `
             <div class="state-empty">
@@ -170,11 +176,13 @@ function setupMobileMenu() {
     const open = () => {
         sidebar.classList.add('open');
         overlay.classList.add('visible');
+        document.body.classList.add('sidebar-open');
     };
 
     const close = () => {
         sidebar.classList.remove('open');
         overlay.classList.remove('visible');
+        document.body.classList.remove('sidebar-open');
     };
 
     menuBtn?.addEventListener('click', open);

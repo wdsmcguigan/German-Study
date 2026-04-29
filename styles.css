@@ -23,11 +23,22 @@
     --radius: 6px;
 }
 
+html {
+    overflow-x: hidden;
+}
+
 body {
     font-family: var(--font);
     color: var(--text-primary);
     background: var(--bg);
     min-height: 100vh;
+    overflow-x: hidden;
+    overscroll-behavior-x: none;
+}
+
+body.sidebar-open {
+    overflow: hidden;
+    touch-action: none;
 }
 
 /* ── Layout ─────────────────────────────────────────── */
@@ -236,6 +247,7 @@ body {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
+    overflow-x: hidden;
 }
 
 .topbar {
@@ -367,13 +379,16 @@ body {
 
 /* ── Tables ───────────────────────────────────────────── */
 
+.table-wrapper {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    margin: 20px 0;
+}
+
 .content-area table {
     width: 100%;
     border-collapse: collapse;
-    margin: 20px 0;
     font-size: 14px;
-    overflow-x: auto;
-    display: block;
 }
 
 .content-area thead th {
