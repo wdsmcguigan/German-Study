@@ -40,14 +40,16 @@ function setupUI() {
       const page = e.target.dataset.page;
       switchPage(page);
       document.getElementById('mobile-menu').classList.add('hidden');
-      
+      document.body.classList.remove('menu-open');
+
       document.querySelectorAll('.nav-link, .mob-link').forEach(l => l.classList.remove('active'));
       document.querySelectorAll(`.nav-link[data-page="${page}"], .mob-link[data-page="${page}"]`).forEach(l => l.classList.add('active'));
     });
   });
 
   document.getElementById('hamburger').addEventListener('click', () => {
-    document.getElementById('mobile-menu').classList.toggle('hidden');
+    const isHidden = document.getElementById('mobile-menu').classList.toggle('hidden');
+    document.body.classList.toggle('menu-open', !isHidden);
   });
 
   // Reference Tabs

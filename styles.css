@@ -43,6 +43,10 @@
 
 * { box-sizing: border-box; margin: 0; padding: 0; }
 
+html {
+  overflow-x: hidden;
+}
+
 body {
   font-family: 'Inter', system-ui, -apple-system, sans-serif;
   background-color: var(--bg-dark);
@@ -50,6 +54,12 @@ body {
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
   overflow-x: hidden;
+  overscroll-behavior-x: none;
+}
+
+body.menu-open {
+  overflow: hidden;
+  touch-action: none;
 }
 
 .hidden { display: none !important; }
