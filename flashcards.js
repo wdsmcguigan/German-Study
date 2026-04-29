@@ -74,6 +74,7 @@ export class FlashcardSystem {
       
       const card = this.deck[this.currentIndex];
       this.isFlipped = false;
+      this.hasBeenRevealed = false;
       this.card.classList.remove('flipped');
       
       // Reset UI
@@ -113,13 +114,21 @@ export class FlashcardSystem {
   }
   
   flipCard() {
-      if (this.isFlipped) return;
+      if (this.currentIndex >= this.deck.length) return;
       
-      this.isFlipped = true;
-      this.card.classList.add('flipped');
+      this.isFlipped = !this.isFlipped;
       
-      this.btnFlip.classList.add('hidden');
-      this.gradeRow.classList.remove('hidden');
+      if (this.isFlipped) {
+          this.card.classList.add('flipped');
+      } else {
+          this.card.classList.remove('flipped');
+      }
+      
+      if (!this.hasBeenRevealed) {
+          this.hasBeenRevealed = true;
+          this.btnFlip.classList.add('hidden');
+          this.gradeRow.classList.remove('hidden');
+      }
   }
   
   gradeCard(grade) {
