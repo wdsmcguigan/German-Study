@@ -1,6 +1,6 @@
-import { parseContentTables } from './parser.js?v=8';
-import { FlashcardSystem } from './flashcards.js?v=8';
-import { ProgressSystem } from './progress.js?v=8';
+import { parseContentTables } from './parser.js?v=9';
+import { FlashcardSystem } from './flashcards.js?v=9';
+import { ProgressSystem } from './progress.js?v=9';
 
 // Global State
 window.progressSystem = new ProgressSystem();
@@ -391,8 +391,11 @@ function buildDashboardGrammarList() {
         e.stopPropagation();
         if (window.progressSystem) {
           const added = window.progressSystem.toggleFavoriteTable(table.id);
-          favBtn.style.color = added ? 'var(--accent-blue)' : 'var(--text-muted)';
+          favBtn.style.color = added ? '#3b82f6' : 'var(--text-muted)';
           renderFavoriteTables();
+          showToast(added ? 'Zu Favoriten hinzugefügt' : 'Aus Favoriten entfernt');
+        } else {
+          showToast('Fehler: Fortschrittssystem nicht geladen');
         }
       });
       
