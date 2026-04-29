@@ -1,6 +1,6 @@
-import { parseContentTables } from './parser.js?v=11';
-import { FlashcardSystem } from './flashcards.js?v=11';
-import { ProgressSystem } from './progress.js?v=11';
+import { parseContentTables } from './parser.js?v=13';
+import { FlashcardSystem } from './flashcards.js?v=13';
+import { ProgressSystem } from './progress.js?v=13';
 
 // Global State
 window.progressSystem = new ProgressSystem();
@@ -88,17 +88,32 @@ function setupUI() {
     countLabel.textContent = `${results.length} Ergebnisse`;
     
     if (results.length === 0) {
-      tbody.innerHTML = '<tr><td colspan="3" style="text-align:center;color:var(--text-muted);padding:32px;">Keine Wörter gefunden.</td></tr>';
+      tbody.innerHTML = '<tr><td colspan="4" style="text-align:center;color:var(--text-muted);padding:32px;">Keine Wörter gefunden.</td></tr>';
       return;
     }
 
-    tbody.innerHTML = results.map(r => `
-      <tr>
-        <td class="col-de">${r.front} ${r.extra ? `<span style="font-size:12px;color:var(--text-muted)">(${r.extra})</span>` : ''}</td>
-        <td class="col-en">${r.back}</td>
-        <td class="col-lek">${r.sourceLevel.toUpperCase()} / ${r.sourceLektion}</td>
-      </tr>
-    `).join('');
+    tbody.innerHTML = results.map(r => {
+      let detailsHtml = '';
+      if (r.details && Object.keys(r.details).length > 0) {
+        detailsHtml = `<div style="display:flex; flex-wrap:wrap; gap:8px; font-size:12px; color:var(--text-muted);">` +
+          Object.entries(r.details).map(([k, v]) => `<span><strong style="color:var(--text-secondary);">${k}:</strong> ${v}</span>`).join('') +
+          `</div>`;
+      }
+      
+      let posHtml = '';
+      if (r.pos) {
+        posHtml = `<span class="fc-pos-badge pos-${r.pos.toLowerCase()}" style="margin-left:8px;">${r.pos}</span>`;
+      }
+
+      return `
+        <tr>
+          <td class="col-de">${r.front}${posHtml}</td>
+          <td class="col-en">${r.back}</td>
+          <td class="col-details">${detailsHtml}</td>
+          <td class="col-lek">${r.sourceLevel.toUpperCase()} / ${r.sourceLektion}</td>
+        </tr>
+      `;
+    }).join('');
   };
 
   searchInput.addEventListener('input', (e) => doSearch(e.target.value));
@@ -172,32 +187,42 @@ async function loadAllContent() {
   const fetchPromises = [];
 
   navData.levels.forEach(level => {
-    if (level.id === 'referenz') return;
-    
     level.lektionen.forEach(lektion => {
       // 1. Fetch Vocabulary
-      const vocabPath = `content/${level.id}/${lektion.id}/vocabulary.md`;
-      fetchPromises.push(
-        fetch(vocabPath)
-          .then(res => res.ok ? res.text() : null)
-          .then(text => {
-            if (!text) return;
-            const html = marked.parse(text);
-            const parsed = parseContentTables(html);
-            
-            parsed.vocabulary.forEach(v => {
-              v.sourceLevel = level.id;
-              v.sourceLektion = lektion.label;
-            });
+      let vocabPath = `content/${level.id}/${lektion.id}/vocabulary.md`;
+      if (level.id === 'referenz' && lektion.id === 'cheatsheets') {
+         vocabPath = `content/${level.id}/${lektion.id}/vocabulary.md`; // Fallback, not really used
+      }
 
-            vocabByLevel[level.id].push(...parsed.vocabulary);
-            allVocab.push(...parsed.vocabulary);
-          })
-          .catch(() => {})
-      );
+      if (level.id !== 'referenz') {
+        fetchPromises.push(
+          fetch(vocabPath)
+            .then(res => res.ok ? res.text() : null)
+            .then(text => {
+              if (!text) return;
+              const html = marked.parse(text);
+              const parsed = parseContentTables(html);
+              
+              parsed.vocabulary.forEach(v => {
+                v.sourceLevel = level.id;
+                v.sourceLektion = lektion.label;
+              });
+
+              vocabByLevel[level.id].push(...parsed.vocabulary);
+              allVocab.push(...parsed.vocabulary);
+            })
+            .catch(() => {})
+        );
+      }
 
       // 2. Fetch Grammar
-      const grammarPath = `content/${level.id}/${lektion.id}/grammar.md`;
+      let grammarPath = `content/${level.id}/${lektion.id}/grammar.md`;
+      if (level.id === 'referenz' && (lektion.id === 'irregular-verbs' || lektion.id === 'prefix-verbs')) {
+          grammarPath = `content/${level.id}/${lektion.id}/verben.md`;
+      } else if (level.id === 'referenz' && lektion.id === 'cheatsheets') {
+          return; // Skip cheatsheets grammar parsing for the table
+      }
+
       fetchPromises.push(
         fetch(grammarPath)
           .then(res => res.ok ? res.text() : null)
@@ -217,7 +242,7 @@ async function loadAllContent() {
                 }
                 
                 // Exclude the main title (usually H1, but just in case)
-                if (node.textContent.includes('Grammatik – Lektion')) return;
+                if (node.textContent.includes('Grammatik – Lektion') || node.textContent.includes('Vollständige Liste')) return;
                 
                 currentSection = {
                   id: `${level.id}-${lektion.id}-table-${tableIndex++}`,
