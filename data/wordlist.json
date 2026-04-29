@@ -1,0 +1,51 @@
+{
+  "a1": {
+    "ankommen": ["hallo", "ich", "du", "er", "sie", "wir", "ihr", "Name", "kommen", "sein", "heißen", "sprechen", "verstehen", "buchstabieren", "Entschuldigung", "bitte", "danke", "ja", "nein", "woher", "Land", "Sprache"],
+    "lektion-01": ["Herr", "Frau", "Vorname", "Nachname", "Adresse", "Telefon", "E-Mail", "Geburtsort", "Geburtstag", "Beruf", "Schüler", "Lehrerin", "Arzt", "Ingenieur", "wohnen", "arbeiten", "lernen", "schreiben", "lesen"],
+    "lektion-02": ["Familie", "Mutter", "Vater", "Kind", "Sohn", "Tochter", "Mann", "Frau", "Bruder", "Schwester", "Oma", "Opa", "verheiratet", "ledig", "Foto", "alt", "jung", "groß", "klein", "haben"],
+    "lektion-03": ["Supermarkt", "Brot", "Butter", "Milch", "Käse", "Fleisch", "Obst", "Gemüse", "Apfel", "Banane", "kaufen", "kosten", "Euro", "Cent", "teuer", "billig", "brauchen", "nehmen", "geben", "möchten"],
+    "lektion-04": ["Wohnung", "Zimmer", "Küche", "Badezimmer", "Schlafzimmer", "Wohnzimmer", "Tisch", "Stuhl", "Bett", "Schrank", "Fenster", "Tür", "groß", "klein", "schön", "mieten", "suchen", "finden", "hier", "dort"],
+    "lektion-05": ["Uhr", "Morgen", "Mittag", "Abend", "Nacht", "früh", "spät", "aufstehen", "frühstücken", "arbeiten", "schlafen", "gehen", "fahren", "kommen", "Montag", "Dienstag", "Mittwoch", "Donnerstag", "Freitag", "Wochenende"],
+    "lektion-06": ["Freizeit", "Sport", "Fußball", "Tennis", "schwimmen", "laufen", "lesen", "Musik", "Film", "Kino", "spielen", "hören", "sehen", "treffen", "gern", "lieber", "am liebsten", "Hobby", "interessant", "langweilig"],
+    "lektion-07": ["Schule", "Universität", "Kurs", "Klasse", "Student", "Studentin", "Lehrer", "Hausaufgabe", "Prüfung", "Zeugnis", "studieren", "machen", "beginnen", "enden", "schwer", "einfach", "Büro", "Firma", "Chef", "Kollege"],
+    "lektion-08": ["Frühstück", "Mittagessen", "Abendessen", "Hunger", "Durst", "essen", "trinken", "kochen", "schmecken", "Wasser", "Kaffee", "Tee", "Bier", "Wein", "Suppe", "Salat", "Kuchen", "lecker", "Restaurant", "bestellen"],
+    "lektion-09": ["Gesundheit", "krank", "gesund", "Arzt", "Ärztin", "Krankenhaus", "Apotheke", "Medikament", "Schmerz", "Kopf", "Bauch", "Rücken", "Bein", "Arm", "Hand", "Fuß", "wehtun", "Termin", "Rezept", "Tablette"],
+    "lektion-10": ["Freund", "Freundin", "Nachbar", "Nachbarin", "einladen", "feiern", "Geburtstag", "Party", "Geschenk", "Blumen", "gratulieren", "besuchen", "treffen", "zusammen", "allein", "nett", "freundlich", "höflich", "anrufen", "schreiben"],
+    "lektion-11": ["Stadt", "Straße", "Platz", "Bahnhof", "Bushaltestelle", "Bank", "Post", "Supermarkt", "Apotheke", "links", "rechts", "geradeaus", "weit", "nah", "Bus", "U-Bahn", "Zug", "fragen", "erklären", "fahren"],
+    "lektion-12": ["Urlaub", "Reise", "Hotel", "Zimmer", "Strand", "Berg", "See", "Flugzeug", "Zug", "Auto", "buchen", "packen", "ankommen", "abreisen", "schön", "toll", "Wetter", "Sonne", "Regen", "warm"],
+    "lektion-13": ["Theater", "Konzert", "Museum", "Ausstellung", "Eintrittskarte", "Programm", "beginnen", "enden", "gefallen", "mögen", "ausgehen", "einladen", "Verabredung", "Uhrzeit", "wann", "wo", "wie lange", "interessant", "langweilig", "empfehlen"],
+    "lektion-14": ["Haus", "Wohnung", "Miete", "Nebenkosten", "Nachbar", "ruhig", "laut", "hell", "dunkel", "Balkon", "Garten", "Keller", "Etage", "Aufzug", "umziehen", "renovieren", "putzen", "Hausmeister", "Vertrag", "kündigen"]
+  },
+  "a2": {
+    "lektion-01": ["vorstellen", "Heimat", "Erfahrung", "Sprache", "Kultur", "Integration", "Ausländer", "Staatsbürgerschaft", "ankommen", "eingewöhnen", "vermissen", "Gewohnheit", "anders", "gleich", "verschieden"],
+    "lektion-02": ["Vergangenheit", "Erinnerung", "Kindheit", "früher", "damals", "erzählen", "erinnern", "vergessen", "aufwachsen", "erleben", "Geschichte", "Abenteuer", "spannend", "langweilig", "unvergesslich"],
+    "lektion-03": ["Umwelt", "Natur", "Energie", "Strom", "Recycling", "Müll", "sparen", "schützen", "nachhaltig", "umweltfreundlich", "Klimawandel", "Temperatur", "Jahreszeit", "Frühling", "Sommer", "Herbst", "Winter"],
+    "lektion-04": ["Körper", "Pflege", "schminken", "kämmen", "rasieren", "anziehen", "ausziehen", "Mode", "Kleidung", "Hemd", "Hose", "Rock", "Jacke", "Schuhe", "Größe", "Farbe", "passen", "stehen", "tragen"],
+    "lektion-05": ["Medien", "Zeitung", "Internet", "Fernsehen", "Radio", "Nachrichten", "Bericht", "Artikel", "recherchieren", "informieren", "Meinung", "Diskussion", "zustimmen", "widersprechen", "glauben"],
+    "lektion-06": ["Technik", "Computer", "Smartphone", "App", "herunterladen", "installieren", "speichern", "löschen", "Problem", "Lösung", "funktionieren", "kaputtgehen", "reparieren", "Hilfe", "erklären"],
+    "lektion-07": ["Ausbildung", "Praktikum", "Bewerbung", "Lebenslauf", "Vorstellungsgespräch", "Stelle", "Gehalt", "Arbeitszeit", "Kollege", "Team", "Erfahrung", "Qualifikation", "bewerben", "einstellen", "kündigen"],
+    "lektion-08": ["Gesundheit", "Ernährung", "Diät", "abnehmen", "zunehmen", "Sport treiben", "Stress", "entspannen", "schlafen", "ausruhen", "Arztbesuch", "Behandlung", "Operation", "Krankenversicherung", "gesund leben"],
+    "lektion-09": ["Wohnen", "Einrichtung", "Möbel", "einrichten", "dekorieren", "renovieren", "Handwerker", "Reparatur", "Mieter", "Vermieter", "Mietvertrag", "Kaution", "Betriebskosten", "Hausordnung", "Kündigung"],
+    "lektion-10": ["Beziehung", "Liebe", "Freundschaft", "kennenlernen", "verlieben", "heiraten", "trennen", "Streit", "versöhnen", "unterstützen", "vertrauen", "ehrlich", "treu", "eifersüchtig", "einsam"],
+    "lektion-11": ["Dienstleistung", "Behörde", "Amt", "Formular", "ausfüllen", "beantragen", "genehmigen", "ablehnen", "Ausweis", "Pass", "Visum", "Aufenthaltserlaubnis", "Bürger", "Recht", "Pflicht"],
+    "lektion-12": ["Verkehr", "Stau", "Unfall", "Fahrrad", "Motorrad", "Straßenbahn", "Fähre", "Flughafen", "abfliegen", "landen", "verspäten", "Verspätung", "pünktlich", "Fahrkarte", "Reservierung"],
+    "lektion-13": ["Kultur", "Tradition", "Fest", "Feiertag", "Weihnachten", "Ostern", "Fasching", "feiern", "Bräuche", "typisch", "regional", "international", "vergleichen", "ähnlich", "unterschiedlich"],
+    "lektion-14": ["Zukunft", "Pläne", "Ziele", "träumen", "planen", "vorhaben", "hoffen", "wünschen", "befürchten", "optimistisch", "pessimistisch", "realistisch", "Karriere", "Erfolg", "scheitern"]
+  },
+  "b1": {
+    "lektion-01": ["Identität", "Persönlichkeit", "Charakter", "Eigenschaft", "selbstbewusst", "schüchtern", "kreativ", "zuverlässig", "pünktlich", "neugierig", "geduldig", "ungeduldig", "tolerant", "offen", "humorvoll"],
+    "lektion-02": ["Gesellschaft", "Gemeinschaft", "Solidarität", "Gerechtigkeit", "Gleichberechtigung", "Diskriminierung", "Vorurteil", "Toleranz", "Vielfalt", "Integration", "demonstrieren", "engagieren", "Bürgerrecht", "Demokratie", "Verantwortung"],
+    "lektion-03": ["Arbeitswelt", "Globalisierung", "Digitalisierung", "Flexibilität", "Homeoffice", "Teilzeit", "Vollzeit", "Überstunden", "Urlaub", "Krankenstand", "Gewerkschaft", "Streik", "Tarifvertrag", "Mindestlohn", "Rente"],
+    "lektion-04": ["Medizin", "Forschung", "Wissenschaft", "Experiment", "Ergebnis", "beweisen", "widerlegen", "Hypothese", "Theorie", "Praxis", "Diagnose", "Symptom", "Therapie", "Prävention", "Impfung"],
+    "lektion-05": ["Bildung", "Schulsystem", "Abitur", "Hochschule", "Studium", "Bachelor", "Master", "Promotion", "Stipendium", "Semester", "Vorlesung", "Seminar", "Prüfung", "Note", "Abschluss"],
+    "lektion-06": ["Kunst", "Literatur", "Roman", "Gedicht", "Drama", "Autor", "Werk", "Stil", "Interpretation", "Kritik", "Rezension", "Ausstellung", "Galerie", "Kulturveranstaltung", "Sponsoring"],
+    "lektion-07": ["Umweltschutz", "Klimawandel", "Nachhaltigkeit", "erneuerbare Energie", "Solarenergie", "Windkraft", "CO2-Ausstoß", "Treibhausgas", "Artensterben", "Biodiversität", "Umweltverschmutzung", "recyceln", "Kreislaufwirtschaft", "Naturschutz", "Ökologie"],
+    "lektion-08": ["Globalisierung", "Welthandel", "Export", "Import", "Wirtschaft", "Wachstum", "Krise", "Armut", "Reichtum", "Ungleichheit", "Entwicklungsland", "Industrienation", "Hilfsorganisation", "Spende", "Ehrenamt"],
+    "lektion-09": ["Psychologie", "Emotion", "Gefühl", "Stress", "Burnout", "Depression", "Therapie", "Beratung", "Selbstreflexion", "Motivation", "Ziel", "Erfolg", "Misserfolg", "Resilienz", "Wohlbefinden"],
+    "lektion-10": ["Politik", "Regierung", "Parlament", "Partei", "Wahl", "abstimmen", "Kandidat", "Programm", "Gesetz", "Grundgesetz", "Bundesrepublik", "föderalistisch", "Opposition", "Koalition", "Bürgermeister"],
+    "lektion-11": ["Recht", "Gesetz", "Paragraph", "Gericht", "Richter", "Anwalt", "Klage", "Urteil", "Strafe", "Unschuld", "Schuld", "Zeuge", "Beweis", "Verfahren", "Berufung"],
+    "lektion-12": ["Technologie", "Innovation", "Forschung", "Entwicklung", "Patent", "Start-up", "Investition", "Risiko", "Chance", "künstliche Intelligenz", "Roboter", "automatisieren", "digitalisieren", "Datenschutz", "Cybersicherheit"],
+    "lektion-13": ["Sprache", "Dialekt", "Akzent", "übersetzen", "dolmetschen", "Fremdsprache", "Muttersprache", "Sprachniveau", "Kommunikation", "Missverständnis", "Ausdruck", "Redewendung", "Sprichwort", "Bedeutung", "Kontext"],
+    "lektion-14": ["Philosophie", "Ethik", "Moral", "Wert", "Norm", "Glaube", "Religion", "Weltanschauung", "Sinn", "Zweck", "Freiheit", "Verantwortung", "Würde", "Respekt", "Menschenrecht"]
+  }
+}
