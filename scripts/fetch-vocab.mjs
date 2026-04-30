@@ -169,8 +169,6 @@ function parseTranslations(section) {
     if (/^====/.test(line))    inDef = false;
     if (inDef && /^# /.test(line)) {
       const raw = line.slice(2).trim();
-      // skip templated non-definitions
-      if (/^\{\{lb\|/.test(raw)) continue;
       const clean = stripLinks(raw)
         .replace(/\{\{[^}]+\}\}/g, '')
         .replace(/\s+/g, ' ')
