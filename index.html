@@ -220,7 +220,25 @@
     <div class="page-header">
       <div class="container">
         <h1>Grammatik</h1>
-        <p>Wähle eine Lektion um die Grammatiktabellen anzuzeigen</p>
+        <p>Wähle eine Lektion oder durchsuche alle Grammatiktabellen</p>
+        <div class="search-wrap grammar-search-wrap" id="grammar-search-wrap">
+          <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
+          </svg>
+          <input
+            type="text"
+            id="grammar-search"
+            class="search-input"
+            placeholder="Suche nach Grammatikthema, z.B. „Konjunktiv" oder „Relativsatz"…"
+            autocomplete="off"
+            spellcheck="false"
+          />
+          <button class="search-clear hidden" id="grammar-search-clear" aria-label="Clear">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+              <path d="M18 6 6 18M6 6l12 12"/>
+            </svg>
+          </button>
+        </div>
       </div>
     </div>
     <div class="container">

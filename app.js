@@ -175,6 +175,69 @@ function setupUI() {
     searchInput.focus();
   });
 
+  // Grammar Search
+  const grammarSearchInput = document.getElementById('grammar-search');
+  const grammarSearchClear = document.getElementById('grammar-search-clear');
+  const grammarContent = document.getElementById('grammar-content');
+
+  const GRAMMAR_EMPTY = `<div class="empty-state"><div class="empty-icon">📖</div><p>Wähle eine Lektion aus der Liste</p></div>`;
+
+  const doGrammarSearch = (query) => {
+    const q = query.trim().toLowerCase();
+    if (q.length === 0) {
+      grammarSearchClear.classList.add('hidden');
+      grammarContent.innerHTML = GRAMMAR_EMPTY;
+      return;
+    }
+    grammarSearchClear.classList.remove('hidden');
+
+    const results = (window.allGrammarTables || []).filter(t =>
+      t.title.toLowerCase().includes(q) ||
+      t.lektionLabel.toLowerCase().includes(q) ||
+      t.html.toLowerCase().includes(q)
+    );
+
+    if (results.length === 0) {
+      grammarContent.innerHTML = `<div class="empty-state"><div class="empty-icon">🔍</div><p>Keine Grammatikthemen gefunden für „${query}"</p></div>`;
+      return;
+    }
+
+    grammarContent.innerHTML = `
+      <div class="grammar-search-header">
+        <span class="result-count">${results.length} Ergebnis${results.length !== 1 ? 'se' : ''}</span>
+      </div>
+      ${results.map(t => `
+        <div class="grammar-result-card" data-level="${t.levelId}" data-lektion="${t.lektionId}">
+          <div class="grammar-result-meta">
+            <span class="grammar-result-level">${t.levelId.toUpperCase()}</span>
+            <span class="grammar-result-lektion">${t.lektionLabel}</span>
+          </div>
+          <h3 class="grammar-result-title">${t.title}</h3>
+          <div class="grammar-result-content">${t.html}</div>
+        </div>
+      `).join('')}
+    `;
+
+    grammarContent.querySelectorAll('.grammar-result-card').forEach(card => {
+      card.addEventListener('click', () => {
+        const { level, lektion } = card.dataset;
+        grammarSearchInput.value = '';
+        doGrammarSearch('');
+        document.querySelectorAll('.gs-link').forEach(l => l.classList.remove('active'));
+        const link = document.querySelector(`.gs-link[data-level="${level}"][data-lektion="${lektion}"]`);
+        if (link) { link.classList.add('active'); link.scrollIntoView({ behavior: 'smooth', block: 'nearest' }); }
+        loadGrammarContent(level, lektion);
+      });
+    });
+  };
+
+  grammarSearchInput.addEventListener('input', (e) => doGrammarSearch(e.target.value));
+  grammarSearchClear.addEventListener('click', () => {
+    grammarSearchInput.value = '';
+    doGrammarSearch('');
+    grammarSearchInput.focus();
+  });
+
   // Flashcard Settings Modal
   const fcSettingsModal = document.getElementById('fc-settings-modal');
   const fcOpenSettings = document.getElementById('fc-open-settings');
@@ -491,6 +554,8 @@ function buildGrammarSidebar(data) {
         e.preventDefault();
         document.querySelectorAll('.gs-link').forEach(l => l.classList.remove('active'));
         link.classList.add('active');
+        const gsi = document.getElementById('grammar-search');
+        if (gsi && gsi.value) { gsi.value = ''; document.getElementById('grammar-search-clear').classList.add('hidden'); }
         loadGrammarContent(level.id, lektion.id);
       });
       sidebar.appendChild(link);
