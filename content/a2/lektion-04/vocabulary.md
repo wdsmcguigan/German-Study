@@ -4,7 +4,7 @@
 
 ### Nomen
 
-| Wort | Artikel | Plural | Englisch |
+| Deutsch | Artikel | Plural | Englisch |
 |------|---------|--------|----------|
 | Reservierung | die | -en | reservation |
 | Bestätigung | die | -en | confirmation |
@@ -12,13 +12,13 @@
 
 ### Verben
 
-| Wort | Englisch |
+| Deutsch | Englisch |
 |------|----------|
 | notieren (hat notiert) | to note (down) |
 
 ### Adjektive / Adverbien
 
-| Wort | Englisch |
+| Deutsch | Englisch |
 |------|----------|
 | online | online |
 | schwierig | difficult |
@@ -30,7 +30,7 @@
 
 ### Nomen
 
-| Wort | Artikel | Plural | Englisch |
+| Deutsch | Artikel | Plural | Englisch |
 |------|---------|--------|----------|
 | Fehler | der | – | mistake |
 | Material | das | Materialien | material |
@@ -39,7 +39,7 @@
 
 ### Adjektive / Adverbien
 
-| Wort | Englisch |
+| Deutsch | Englisch |
 |------|----------|
 | wenn | if / when |
 | sicher | sure / certainly |
@@ -48,7 +48,7 @@
 
 ### Nomen
 
-| Wort | Artikel | Plural | Englisch |
+| Deutsch | Artikel | Plural | Englisch |
 |------|---------|--------|----------|
 | Tipp | der | -s | tip |
 | Zettel | der | – | note / slip of paper |
@@ -61,7 +61,7 @@
 
 ### Verben
 
-| Wort | Englisch |
+| Deutsch | Englisch |
 |------|----------|
 | achten auf (+ Akk.) (hat geachtet) | to pay attention to |
 | nutzen (hat genutzt) | to use |
@@ -69,7 +69,7 @@
 
 ### Adjektive / Adverbien
 
-| Wort | Englisch |
+| Deutsch | Englisch |
 |------|----------|
 | regelmäßig | regularly |
 
@@ -77,7 +77,7 @@
 
 ### Nomen
 
-| Wort | Artikel | Plural | Englisch |
+| Deutsch | Artikel | Plural | Englisch |
 |------|---------|--------|----------|
 | Gewerkschaft | die | -en | trade union |
 | Sicherheit | die | – (Sg.) | safety / security |
@@ -100,7 +100,7 @@
 
 ### Verben
 
-| Wort | Englisch |
+| Deutsch | Englisch |
 |------|----------|
 | in Rente gehen | to retire |
 | wenden (hat gewandt) | to turn / refer |
@@ -113,7 +113,7 @@
 
 ### Adjektive / Adverbien
 
-| Wort | Englisch |
+| Deutsch | Englisch |
 |------|----------|
 | ohne | without |
 
@@ -121,7 +121,7 @@
 
 ### Nomen
 
-| Wort | Artikel | Plural | Englisch |
+| Deutsch | Artikel | Plural | Englisch |
 |------|---------|--------|----------|
 | Export | der | -e | export |
 | Feierabend | der | -e | end of the working day |
@@ -129,14 +129,14 @@
 
 ### Verben
 
-| Wort | Englisch |
+| Deutsch | Englisch |
 |------|----------|
 | aus·richten (hat ausgerichtet) | to pass on (a message) |
 | versuchen (hat versucht) | to try |
 
 ### Adjektive / Adverbien
 
-| Wort | Englisch |
+| Deutsch | Englisch |
 |------|----------|
 | niemand | nobody |
 
@@ -144,7 +144,7 @@
 
 ### Nomen
 
-| Wort | Artikel | Plural | Englisch |
+| Deutsch | Artikel | Plural | Englisch |
 |------|---------|--------|----------|
 | Arbeitnehmer | der | – | employee (m.) |
 | Arbeitnehmerin | die | -nen | employee (f.) |
@@ -158,14 +158,14 @@
 
 ### Verben
 
-| Wort | Englisch |
+| Deutsch | Englisch |
 |------|----------|
 | bieten (hat geboten) | to offer |
 | gelten, er gilt (hat gegolten) | to be valid / apply |
 
 ### Adjektive / Adverbien
 
-| Wort | Englisch |
+| Deutsch | Englisch |
 |------|----------|
 | durchschnittlich | on average |
 | meiste, -n | most |

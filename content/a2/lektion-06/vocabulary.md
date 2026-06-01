@@ -4,29 +4,29 @@
 
 ### Nomen
 
-| Wort | Plural | Artikel | Englisch |
-|------|--------|---------|----------|
-| Zeugnis | -se | das | report card |
-| Fach | ¨er | das | subject |
-| Note | -n | die | grade |
-| Gymnasium | Gymnasien | das | high school (academic) |
-| Referat | -e | das | presentation |
-| Abitur | – (Sg.) | das | diploma / school-leaving exam |
-| Abschluss | ¨e | der | graduation / qualification |
-| Prüfung | -en | die | exam |
-| Verhalten | – (Sg.) | das | behaviour |
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
+| Zeugnis | das | -se | report card |
+| Fach | das | ¨er | subject |
+| Note | die | -n | grade |
+| Gymnasium | das | Gymnasien | high school (academic) |
+| Referat | das | -e | presentation |
+| Abitur | das | – (Sg.) | diploma / school-leaving exam |
+| Abschluss | der | ¨e | graduation / qualification |
+| Prüfung | die | -en | exam |
+| Verhalten | das | – (Sg.) | behaviour |
 
 ### Verben
 
-| Verb | Englisch |
-|------|----------|
+| Deutsch | Englisch |
+|---------|----------|
 | (sich) streiten (hat gestritten) | to argue |
 | (sich) verbessern (hat verbessert) | to improve |
 
 ### Adjektive/Adverbien
 
-| Wort | Englisch |
-|------|----------|
+| Deutsch | Englisch |
+|---------|----------|
 | faul | lazy |
 | schrecklich | terrible |
 | fleißig | diligent |
@@ -35,32 +35,32 @@
 
 ### dass
 
-| Wort | Englisch |
-|------|----------|
+| Deutsch | Englisch |
+|---------|----------|
 | dass | that |
 
 ## A2–A3
 
 ### Nomen
 
-| Wort | Plural | Artikel | Englisch |
-|------|--------|---------|----------|
-| Wunsch | ¨e | der | wish |
-| Plan | ¨e | der | plan |
-| Astronaut / Astronautin | -en / -nen | der / die | astronaut |
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
+| Wunsch | der | ¨e | wish |
+| Plan | der | ¨e | plan |
+| Astronaut / Astronautin | der / die | -en / -nen | astronaut |
 
 ## B1–B2
 
 ### Nomen
 
-| Wort | Plural | Artikel | Englisch |
-|------|--------|---------|----------|
-| Aktivität | -en | die | activity |
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
+| Aktivität | die | -en | activity |
 
 ### Adjektive/Adverbien
 
-| Wort | Englisch |
-|------|----------|
+| Deutsch | Englisch |
+|---------|----------|
 | vorhin | earlier |
 | mittler- | medium / average |
 
@@ -68,58 +68,58 @@
 
 ### Nomen
 
-| Wort | Plural | Artikel | Englisch |
-|------|--------|---------|----------|
-| System | -e | das | system |
-| (Fach-)Hochschule | -n | die | (technical) college |
-| Universität | -en | die | university |
-| Gesamtschule | -n | die | comprehensive school |
-| Realschule | -n | die | secondary school |
-| Hauptschule / Mittelschule | -n / -n | die / die | secondary modern / middle school |
-| Berufsschule | -n | die | vocational school |
-| Krippe | -n | die | crèche |
-| Physik | – (Sg.) | die | physics |
-| Sozialkunde | – (Sg.) | die | social studies |
-| Biologie | – (Sg.) | die | biology |
-| Chemie | – (Sg.) | die | chemistry |
-| Geografie | – (Sg.) | die | geography |
-| Kunst | – (Sg.) | die | art |
-| Geschichte | – (Sg.) | die | history |
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
+| System | das | -e | system |
+| (Fach-)Hochschule | die | -n | (technical) college |
+| Universität | die | -en | university |
+| Gesamtschule | die | -n | comprehensive school |
+| Realschule | die | -n | secondary school |
+| Hauptschule / Mittelschule | die / die | -n / -n | secondary modern / middle school |
+| Berufsschule | die | -n | vocational school |
+| Krippe | die | -n | crèche |
+| Physik | die | – (Sg.) | physics |
+| Sozialkunde | die | – (Sg.) | social studies |
+| Biologie | die | – (Sg.) | biology |
+| Chemie | die | – (Sg.) | chemistry |
+| Geografie | die | – (Sg.) | geography |
+| Kunst | die | – (Sg.) | art |
+| Geschichte | die | – (Sg.) | history |
 
 ### Verben
 
-| Verb | Englisch |
-|------|----------|
+| Deutsch | Englisch |
+|---------|----------|
 | hassen (hat gehasst) | to hate |
 
 ### Adjektive/Adverbien
 
-| Wort | Englisch |
-|------|----------|
+| Deutsch | Englisch |
+|---------|----------|
 | freiwillig | voluntary |
 
 ## D1
 
 ### Nomen
 
-| Wort | Plural | Artikel | Englisch |
-|------|--------|---------|----------|
-| Frühjahr | – (Sg.) | das | spring |
-| Beginn | – (Sg.) | der | beginning |
-| Theorie | -n | die | theory |
-| Einführung | -en | die | introduction |
-| Migrant / Migrantin | -en / -nen | der / die | migrant |
-| Vortrag | ¨e | der | lecture / talk |
-| Experte / Expertin | -n / -nen | der / die | expert |
-| Vorbereitung | -en | die | preparation |
-| Zertifikat | -e | das | certificate |
-| Förderung | -en | die | funding / support |
-| Beratung | -en | die | consultation / advice |
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
+| Frühjahr | das | – (Sg.) | spring |
+| Beginn | der | – (Sg.) | beginning |
+| Theorie | die | -n | theory |
+| Einführung | die | -en | introduction |
+| Migrant / Migrantin | der / die | -en / -nen | migrant |
+| Vortrag | der | ¨e | lecture / talk |
+| Experte / Expertin | der / die | -n / -nen | expert |
+| Vorbereitung | die | -en | preparation |
+| Zertifikat | das | -e | certificate |
+| Förderung | die | -en | funding / support |
+| Beratung | die | -en | consultation / advice |
 
 ### Verben
 
-| Verb | Englisch |
-|------|----------|
+| Deutsch | Englisch |
+|---------|----------|
 | speichern (hat gespeichert) | to save |
 | (sich) bewerben (du bewirbst, er bewirbt, hat beworben) | to apply |
 | präsentieren (hat präsentiert) | to present |
@@ -128,8 +128,8 @@
 
 ### Adjektive/Adverbien
 
-| Wort | Englisch |
-|------|----------|
+| Deutsch | Englisch |
+|---------|----------|
 | sozial | social |
 | möglich | possible |
 
@@ -137,28 +137,28 @@
 
 ### Nomen
 
-| Wort | Plural | Artikel | Englisch |
-|------|--------|---------|----------|
-| Studium | – (Sg.) | das | studies |
-| Tagesablauf | ¨e | der | daily routine |
-| Migrationshintergrund | – (Sg.) | der | migration background |
-| Technik | – (Sg.) | die | technology |
-| Kontakt | -e | der | contact |
-| Bäcker / Bäckerin | - / -nen | der / die | baker |
-| Schauspieler / Schauspielerin | - / -nen | der / die | actor / actress |
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
+| Studium | das | – (Sg.) | studies |
+| Tagesablauf | der | ¨e | daily routine |
+| Migrationshintergrund | der | – (Sg.) | migration background |
+| Technik | die | – (Sg.) | technology |
+| Kontakt | der | -e | contact |
+| Bäcker / Bäckerin | der / die | - / -nen | baker |
+| Schauspieler / Schauspielerin | der / die | - / -nen | actor / actress |
 
 ### Verben
 
-| Verb | Englisch |
-|------|----------|
+| Deutsch | Englisch |
+|---------|----------|
 | bestehen (hat bestanden) | to pass |
 | an·erkennen (hat anerkannt) | to recognise / accredit |
 | prüfen (hat geprüft) | to check |
 
 ### Adjektive/Adverbien
 
-| Wort | Englisch |
-|------|----------|
+| Deutsch | Englisch |
+|---------|----------|
 | stolz | proud |
 | elektrisch | electric |
 | kompliziert | complicated |
@@ -167,18 +167,18 @@
 
 ### Nomen
 
-| Wort | Plural | Artikel | Englisch |
-|------|--------|---------|----------|
-| Physik | – (Sg.) | die | physics |
-| Biologie | – (Sg.) | die | biology |
-| Chemie | – (Sg.) | die | chemistry |
-| Geografie | – (Sg.) | die | geography |
-| Kunst | – (Sg.) | die | art |
-| Geschichte | – (Sg.) | die | history |
-| Musik | – (Sg.) | die | music |
-| Mathematik | – (Sg.) | die | maths |
-| Sport | – (Sg.) | der | sport / PE |
-| Sozialkunde | – (Sg.) | die | social studies |
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
+| Physik | die | – (Sg.) | physics |
+| Biologie | die | – (Sg.) | biology |
+| Chemie | die | – (Sg.) | chemistry |
+| Geografie | die | – (Sg.) | geography |
+| Kunst | die | – (Sg.) | art |
+| Geschichte | die | – (Sg.) | history |
+| Musik | die | – (Sg.) | music |
+| Mathematik | die | – (Sg.) | maths |
+| Sport | der | – (Sg.) | sport / PE |
+| Sozialkunde | die | – (Sg.) | social studies |
 
 <!--
 UNSURE / NOTES:

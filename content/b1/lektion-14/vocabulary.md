@@ -2,136 +2,136 @@
 
 ## ELLAS KOLUMNE
 
-| Adjektiv/Adverb | Beispiel |
+| Deutsch | Englisch |
 | --- | --- |
-| diesmal | Wer diesmal nicht dabei sein konnte, muss nicht traurig sein. |
+| diesmal | this time |
 
 ## A2
 
-| Adjektiv/Adverb | Beispiel |
+| Deutsch | Englisch |
 | --- | --- |
-| traditionell | Lebkuchen sind ein traditionelles süßes Gebäck, das besonders gern zur Weihnachtszeit gegessen wird. |
-| speziell | Die Thüringer Rostbratwurst gibt es nur in speziellen Restaurants. |
+| traditionell | traditional |
+| speziell | special, specialized |
 
-| Deutsch | Artikel | Plural | Beispiel |
+| Deutsch | Artikel | Plural | Englisch |
 | --- | --- | --- | --- |
-| Gebäck | das | -e | Lebkuchen sind ein traditionelles süßes Gebäck, das besonders gern zur Weihnachtszeit gegessen wird. |
+| Gebäck | das | -e | baked goods, pastry |
 
 ## A3
 
-| Verb | Beispiel |
+| Deutsch | Englisch |
 | --- | --- |
-| braten, du brätst, er brät (hat gebraten) | braten + die Wurst = die Bratwurst |
+| braten, du brätst, er brät (hat gebraten) | to fry, to roast |
 
 ## A4
 
-| Verb | Beispiel |
+| Deutsch | Englisch |
 | --- | --- |
-| rühren (hat gerührt) | rühren + das Ei = das Rührei |
-| trocknen (hat getrocknet) | Bei uns in Südafrika isst man gern Biltong, das ist getrocknetes Rindfleisch und das schmeckt sehr lecker. |
+| rühren (hat gerührt) | to stir |
+| trocknen (hat getrocknet) | to dry |
 
 ## B2
 
-| Deutsch | Artikel | Plural | Beispiel |
+| Deutsch | Artikel | Plural | Englisch |
 | --- | --- | --- | --- |
-| Zuhause | das | – (Sg.) | Mit „Zuhause" verbinde ich … |
-| Tradition | die | -en | Mit „Tradition" verbinde ich … |
-| Gegend | die | -en | Mit Heimat verbinde ich die Gegend, in der ich aufgewachsen bin. |
+| Zuhause | das | – (Sg.) | home |
+| Tradition | die | -en | tradition |
+| Gegend | die | -en | area, region |
 
 ## B3
 
-| Deutsch | Artikel | Plural | Beispiel |
+| Deutsch | Artikel | Plural | Englisch |
 | --- | --- | --- | --- |
-| Mobilität | die | – (Sg.) | Wer weiß heute noch genau, wohin er gehört – in Zeiten von Mobilität und Migration? |
-| Migration | die | – (Sg.) | Wer weiß heute noch genau, wohin er gehört – in Zeiten von Mobilität und Migration? |
-| Volk | das | ¨er | Libanesen sind ein sehr gastfreundliches Volk. |
-| Staatsangehörigkeit | die | -en | Meine Eltern kommen aus der Türkei und ich habe die türkische Staatsangehörigkeit. |
-| Profi | der | -s | Als kleiner Junge habe ich immer von einer Karriere als Profi-Fußballer bei den Bayern geträumt. |
+| Mobilität | die | – (Sg.) | mobility |
+| Migration | die | – (Sg.) | migration |
+| Volk | das | ¨er | people, nation |
+| Staatsangehörigkeit | die | -en | citizenship, nationality |
+| Profi | der | -s | professional, pro |
 
-| Adjektiv/Adverb | Beispiel |
+| Deutsch | Englisch |
 | --- | --- |
-| ursprünglich | Meine Wurzeln sind im Libanon, denn meine Familie stammt ursprünglich aus Beirut. |
+| ursprünglich | original(ly) |
 
-| Verb | Beispiel |
+| Deutsch | Englisch |
 | --- | --- |
-| integrieren (hat integriert) | Ich würde schon sagen, dass wir gut integriert sind. |
+| integrieren (hat integriert) | to integrate |
 
 ## B4
 
-| Verb | Beispiel |
+| Deutsch | Englisch |
 | --- | --- |
-| ordnen (hat geordnet) | Sammeln Sie Ideen. Ordnen Sie dann. |
+| ordnen (hat geordnet) | to arrange, to organize |
 
 ## C2
 
-| Deutsch | Artikel | Plural | Beispiel |
+| Deutsch | Artikel | Plural | Englisch |
 | --- | --- | --- | --- |
-| Fläche | die | -n | Europa hat eine Fläche von … |
-| Einwohner | der | – | Wie viele Einwohner hat Europa? |
-| Kontinent | der | -e | Europa ist ein Kontinent. |
+| Fläche | die | -n | area, surface |
+| Einwohner | der | – | inhabitant, resident |
+| Kontinent | der | -e | continent |
 
 ## C3
 
-| Deutsch | Artikel | Plural | Beispiel |
+| Deutsch | Artikel | Plural | Englisch |
 | --- | --- | --- | --- |
-| EU | die | – (Sg.) | Sehen die Personen die EU eher positiv oder negativ? |
-| Freiheit | die | -en | Welche Person spricht über Reisefreiheit? |
-| Demokratie | die | -n | Welche Person spricht über Frieden und Demokratie? |
+| EU | die | – (Sg.) | EU (European Union) |
+| Freiheit | die | -en | freedom |
+| Demokratie | die | -n | democracy |
 
 ## D
 
-| Deutsch | Artikel | Plural | Beispiel |
+| Deutsch | Artikel | Plural | Englisch |
 | --- | --- | --- | --- |
-| Zuwanderer | der | – | Auch der Deutsch-Test für Zuwanderer sollte nun kein Problem mehr für Sie sein. |
+| Zuwanderer | der | – | immigrant |
 
 ## In der Küche
 
-| Deutsch | Artikel | Plural |
-| --- | --- | --- |
-| Gewürz | das | -e |
-| Rezept | das | -e |
-| Zutat | die | -en |
-| Gericht | das | -e |
-| Nachtisch | der | -e |
-| Gebäck | das | -e |
-| Kuchen | der | – |
+| Deutsch | Artikel | Plural | Englisch |
+| --- | --- | --- | --- |
+| Gewürz | das | -e | spice, seasoning |
+| Rezept | das | -e | recipe |
+| Zutat | die | -en | ingredient |
+| Gericht | das | -e | dish |
+| Nachtisch | der | -e | dessert |
+| Gebäck | das | -e | baked goods, pastry |
+| Kuchen | der | – | cake |
 
-| Verb |
-| --- |
-| braten |
-| rühren |
-| kochen |
-| backen |
-| zubereiten |
+| Deutsch | Englisch |
+| --- | --- |
+| braten | to fry, to roast |
+| rühren | to stir |
+| kochen | to cook |
+| backen | to bake |
+| zubereiten | to prepare |
 
 ## D4
 
-| Adjektiv/Adverb | Beispiel |
+| Deutsch | Englisch |
 | --- | --- |
-| offiziell | Der deutsche Nationalfeiertag feiert die offizielle Wiedervereinigung der beiden Staaten im Jahr 1990. |
-| national | Welche nationalen Symbole verbinden Sie mit dem Land? |
-| folgend- | Wir haben uns mit folgenden Fragen beschäftigt: … |
+| offiziell | official |
+| national | national |
+| folgend- | following |
 
 ## Politik
 
-| Adjektiv/Adverb |
-| --- |
-| politisch |
+| Deutsch | Englisch |
+| --- | --- |
+| politisch | political |
 
-| Verb |
-| --- |
-| wählen |
+| Deutsch | Englisch |
+| --- | --- |
+| wählen | to vote, to choose |
 
-| Deutsch | Artikel | Plural |
-| --- | --- | --- |
-| Regierung | die | -en |
-| Macht | die | ¨e |
-| Bürgermeister | der | – |
-| Bürgermeisterin | die | -nen |
-| Bundeskanzler | der | – |
-| Bundeskanzlerin | die | -nen |
-| Präsident | der | -en |
-| Präsidentin | die | -nen |
+| Deutsch | Artikel | Plural | Englisch |
+| --- | --- | --- | --- |
+| Regierung | die | -en | government |
+| Macht | die | ¨e | power |
+| Bürgermeister | der | – | mayor |
+| Bürgermeisterin | die | -nen | mayor (female) |
+| Bundeskanzler | der | – | federal chancellor |
+| Bundeskanzlerin | die | -nen | federal chancellor (female) |
+| Präsident | der | -en | president |
+| Präsidentin | die | -nen | president (female) |
 
 > UNSURE / NOTES:
 > - "zubereiten" listed in the "In der Küche" picture box without a printed `(hat …)` form; given as bare infinitive. It is separable (zu·bereiten) but the dot is NOT applied here because the box prints plain infinitives only.

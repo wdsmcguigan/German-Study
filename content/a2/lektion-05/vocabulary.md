@@ -2,221 +2,221 @@
 
 ## FOTO-HÖRGESCHICHTE 1
 
-| Nomen | Artikel | Plural | Beispiel |
+| Deutsch | Artikel | Plural | Englisch |
 |-------|---------|--------|----------|
-| Tanz | der | ¨e | Ich interessiere mich sehr für den Tanzsport. |
-| Basketball | der | (Sg.) | Wann findet denn das Basketballtraining statt? |
+| Tanz | der | ¨e | dance |
+| Basketball | der | (Sg.) | basketball |
 
-| Verb | Beispiel |
+| Deutsch | Englisch |
 |------|----------|
-| sich bewegen (hat bewegt) | Ich bewege mich zurzeit nicht genug. |
-| sich interessieren für (hat interessiert) | Ich interessiere mich sehr für den Tanzsport. |
+| sich bewegen (hat bewegt) | to move (oneself) |
+| sich interessieren für (hat interessiert) | to be interested in |
 
 ## FOTO-HÖRGESCHICHTE 2
 
-| Nomen | Artikel | Plural | Beispiel |
+| Deutsch | Artikel | Plural | Englisch |
 |-------|---------|--------|----------|
-| Video | das | -s | Sandra schickt Tim ein Trainingsvideo. |
-| Lust | die | (Sg.) | Auf Tanzen hat Tim keine Lust. |
-| Verein | der | -e | Er möchte lieber Basketball spielen und ruft bei einem Sportverein an. |
-| Versuch | der | -e | Tim erzählt Sandra von dem Training und seinen Tanzversuchen. |
+| Video | das | -s | video |
+| Lust | die | (Sg.) | desire, inclination |
+| Verein | der | -e | club, association |
+| Versuch | der | -e | attempt, try |
 
-| Verb | Beispiel |
+| Deutsch | Englisch |
 |------|----------|
-| sich fühlen (hat gefühlt) | Tim fühlt sich nicht so gut. |
-| hin·fallen, du fällst hin, er fällt hin (ist hingefallen) | Doch das ist gar nicht so einfach, er fällt dabei hin. |
+| sich fühlen (hat gefühlt) | to feel |
+| hin·fallen, du fällst hin, er fällt hin (ist hingefallen) | to fall down |
 
-| Adjektive/Adverbien | Beispiel |
+| Deutsch | Englisch |
 |---------------------|----------|
-| zu wenig | Tim fühlt sich nicht so gut, weil er zu wenig Sport macht. |
+| zu wenig | too little |
 
 ## 3
 
-| Nomen | Artikel | Plural | Beispiel |
+| Deutsch | Artikel | Plural | Englisch |
 |-------|---------|--------|----------|
-| Meister | der | – | Übung macht den Meister! |
-| Sportart | die | -en | Welche Sportart können Sie besonders gut? |
+| Meister | der | – | master, champion |
+| Sportart | die | -en | type of sport |
 
 ## A2
 
-| Nomen | Artikel | Plural | Beispiel |
+| Deutsch | Artikel | Plural | Englisch |
 |-------|---------|--------|----------|
-| Entspannung | die | (Sg.) | Entspannung: Machen Sie Pausen und entspannen Sie sich. |
-| Ernährung | die | (Sg.) | Ernährung: Trinken Sie viel Wasser oder Tee und essen Sie viel Obst und Gemüse. |
-| Bewegung | die | -en | Bewegung: Bewegen Sie sich regelmäßig! |
-| Spaziergang | der | ¨e | Schon ein kurzer Spaziergang hilft. |
+| Entspannung | die | (Sg.) | relaxation |
+| Ernährung | die | (Sg.) | nutrition, diet |
+| Bewegung | die | -en | movement, exercise |
+| Spaziergang | der | ¨e | walk, stroll |
 
-| Verb | Beispiel |
+| Deutsch | Englisch |
 |------|----------|
-| sich verabreden mit (hat verabredet) | Verabreden Sie sich mit Freunden. |
-| sich aus·ruhen (hat ausgeruht) | Ruhen Sie sich regelmäßig aus. |
-| sich ernähren (hat ernährt) | Sie sollten sich gesund ernähren. |
+| sich verabreden mit (hat verabredet) | to arrange to meet with |
+| sich aus·ruhen (hat ausgeruht) | to rest |
+| sich ernähren (hat ernährt) | to eat, to nourish oneself |
 
-| Adjektive/Adverbien | Beispiel |
+| Deutsch | Englisch |
 |---------------------|----------|
-| fit | So werden Sie wieder fit. |
+| fit | fit |
 
 ## A3
 
-| Verb | Beispiel |
+| Deutsch | Englisch |
 |------|----------|
-| sich ärgern (über) (hat geärgert) | Vielleicht ärgerst du dich zu viel. |
+| sich ärgern (über) (hat geärgert) | to be annoyed (about) |
 
 ## A4
 
-| Verb | Beispiel |
+| Deutsch | Englisch |
 |------|----------|
-| sich schminken (hat geschminkt) | Was mache ich? – Schminkst du dich? |
-| sich rasieren (hat rasiert) | Rasierst du dich? – Ja, das ist richtig. |
-| sich um·ziehen (hat umgezogen) | Er zieht sich um. |
-| sich kämmen (hat gekämmt) | Sie kämmt sich. |
-| sich waschen, du wäschst, er wäscht (hat gewaschen) | Er wäscht sich. |
-| sich beeilen (hat beeilt) | Wir müssen uns beeilen. |
-| sich konzentrieren (auf) (hat konzentriert) | Ich kann mich heute nicht konzentrieren. |
-| sich beschweren (über) (hat beschwert) | Dein Klassenlehrer hat sich über dich beschwert. |
+| sich schminken (hat geschminkt) | to put on make-up |
+| sich rasieren (hat rasiert) | to shave |
+| sich um·ziehen (hat umgezogen) | to get changed |
+| sich kämmen (hat gekämmt) | to comb one's hair |
+| sich waschen, du wäschst, er wäscht (hat gewaschen) | to wash (oneself) |
+| sich beeilen (hat beeilt) | to hurry |
+| sich konzentrieren (auf) (hat konzentriert) | to concentrate (on) |
+| sich beschweren (über) (hat beschwert) | to complain (about) |
 
 ## B1
 
-| Nomen | Artikel | Plural | Beispiel |
+| Deutsch | Artikel | Plural | Englisch |
 |-------|---------|--------|----------|
-| Zeitschrift | die | -en | Interessierst du dich für Modezeitschriften? |
+| Zeitschrift | die | -en | magazine |
 
-| Adjektive/Adverbien | Beispiel |
+| Deutsch | Englisch |
 |---------------------|----------|
-| überhaupt | Nein, überhaupt nicht. |
+| überhaupt | at all |
 
 ## B2
 
-| Nomen | Artikel | Plural | Beispiel |
+| Deutsch | Artikel | Plural | Englisch |
 |-------|---------|--------|----------|
-| Geschichte | die | (Sg.) | Interessierst du dich für die deutsche Geschichte? |
-| Theater | das | – | Interessierst du dich für das Theater? |
-| Nachrichten | die | (Pl.) | Interessierst du dich für die Sportnachrichten? |
-| Weltmeisterschaft | die | -en | Interessierst du dich für die Fußballweltmeisterschaft? |
-| Wettervorhersage | die | -n | Interessierst du dich für die Wettervorhersage? |
-| Mannschaft | die | -en | Morgen treffe ich mich mit ein paar Mannschaftskollegen. |
+| Geschichte | die | (Sg.) | history |
+| Theater | das | – | theater |
+| Nachrichten | die | (Pl.) | news |
+| Weltmeisterschaft | die | -en | world championship |
+| Wettervorhersage | die | -n | weather forecast |
+| Mannschaft | die | -en | team |
 
 ## B3
 
-| Nomen | Artikel | Plural | Beispiel |
+| Deutsch | Artikel | Plural | Englisch |
 |-------|---------|--------|----------|
-| Besuch | der | -e | Ich freue mich schon sehr auf deinen Besuch! |
-| Angst | die | ¨e | Ich habe Angst vor Hunden. |
+| Besuch | der | -e | visit |
+| Angst | die | ¨e | fear |
 
-| Verb | Beispiel |
+| Deutsch | Englisch |
 |------|----------|
-| sich kümmern um (hat gekümmert) | Arbeitgeber müssen sich um den Gesundheitsschutz im Betrieb kümmern. |
-| träumen von (hat geträumt) | Ich träume oft von meinem Urlaub. |
+| sich kümmern um (hat gekümmert) | to take care of, to look after |
+| träumen von (hat geträumt) | to dream of |
 
 ## C1
 
-| Adjektive/Adverbien | Beispiel |
+| Deutsch | Englisch |
 |---------------------|----------|
-| ehrlich | Ehrlich gesagt: nein. |
+| ehrlich | honest |
 
 ## C2
 
-| Nomen | Artikel | Plural | Beispiel |
+| Deutsch | Artikel | Plural | Englisch |
 |-------|---------|--------|----------|
-| Gold | das | (Sg.) | Ich träume von einer Goldmedaille für Kroatien. |
-| Saison | die | -s | Morgen beginnt die Eishockey-Saison. |
+| Gold | das | (Sg.) | gold |
+| Saison | die | -s | season |
 
-| Verb | Beispiel |
+| Deutsch | Englisch |
 |------|----------|
-| sich erinnern an (hat erinnert) | Daran kann ich mich gar nicht mehr erinnern. |
+| sich erinnern an (hat erinnert) | to remember |
 
 ## C3
 
-| Nomen | Artikel | Plural | Beispiel |
+| Deutsch | Artikel | Plural | Englisch |
 |-------|---------|--------|----------|
-| Ferien | die | (Pl.) | Ich denke gern an die Ferien. |
+| Ferien | die | (Pl.) | holidays, vacation |
 
-| Verb | Beispiel |
+| Deutsch | Englisch |
 |------|----------|
-| denken an (hat gedacht) | Ich denke gern an die Ferien. |
+| denken an (hat gedacht) | to think of/about |
 
 ## D1
 
-| Nomen | Artikel | Plural | Beispiel |
+| Deutsch | Artikel | Plural | Englisch |
 |-------|---------|--------|----------|
-| Gymnastik | die | (Sg.) | Die Anrufer interessieren sich für Rückengymnastik. |
-| Tischtennis | das | (Sg.) | Die Anrufer interessieren sich für Tischtennis. |
-| Volleyball | der | (Sg.) | Ich interessiere mich für Volleyball. |
-| Fitness | die | (Sg.) | Ich möchte mich zum Fitnesstraining anmelden. |
+| Gymnastik | die | (Sg.) | gymnastics |
+| Tischtennis | das | (Sg.) | table tennis |
+| Volleyball | der | (Sg.) | volleyball |
+| Fitness | die | (Sg.) | fitness |
 
 ## D2
 
-| Nomen | Artikel | Plural | Beispiel |
+| Deutsch | Artikel | Plural | Englisch |
 |-------|---------|--------|----------|
-| Beitrag | der | ¨e | Mitgliedsbeitrag: 5 Euro pro Monat |
+| Beitrag | der | ¨e | contribution, fee |
 
-| Verb | Beispiel |
+| Deutsch | Englisch |
 |------|----------|
-| betragen, er beträgt (hat betragen) | Der Mitgliedsbeitrag beträgt 5 Euro pro Monat. |
+| betragen, er beträgt (hat betragen) | to amount to |
 
 ## D3
 
-| Nomen | Artikel | Plural | Beispiel |
+| Deutsch | Artikel | Plural | Englisch |
 |-------|---------|--------|----------|
-| Gruppe | die | -n | Es gibt verschiedene Gruppen. |
-| Ermäßigung | die | -en | Gibt es eine Ermäßigung für Schüler? |
-| Azubi | der | -s | Mitgliedsbeitrag: Azubis/Studenten: 6 Euro pro Monat |
+| Gruppe | die | -n | group |
+| Ermäßigung | die | -en | discount, reduction |
+| Azubi | der | -s | trainee, apprentice |
 
-| Adjektive/Adverbien | Beispiel |
+| Deutsch | Englisch |
 |---------------------|----------|
-| kostenlos | Die erste Stunde ist kostenlos. |
-| zusätzlich | Für weitere Sportangebote muss man eine zusätzliche Gebühr bezahlen |
+| kostenlos | free of charge |
+| zusätzlich | additional |
 
 ## E1
 
-| Nomen | Artikel | Plural | Beispiel |
+| Deutsch | Artikel | Plural | Englisch |
 |-------|---------|--------|----------|
-| Ursache | die | -n | Zu wenig Bewegung ist eine häufige Ursache für Krankheiten. |
-| Krankheit | die | -en | Zu wenig Bewegung ist eine häufige Ursache für Krankheiten. |
-| Bildschirm | der | -e | Die meisten Menschen sitzen zu viel: am Schreibtisch, vor dem Bildschirm, vor dem Fernseher. |
-| Körper | der | – | Etwas mehr Bewegung im Alltag tut dem Körper und der Gesundheit gut. |
-| Luft | die | (Sg.) | Gehen Sie in der Mittagspause kurz an der frischen Luft spazieren. |
-| Untersuchung | die | -en | Untersuchungen haben gezeigt: … |
-| Trend | der | -s | Ein Trend ist das sogenannte Nordic-Walking. |
-| Spielplatz | der | ¨e | In vielen deutschen Städten gibt es Tischtennisplatten auf Spielplätzen und in Parks. |
+| Ursache | die | -n | cause |
+| Krankheit | die | -en | illness, disease |
+| Bildschirm | der | -e | screen |
+| Körper | der | – | body |
+| Luft | die | (Sg.) | air |
+| Untersuchung | die | -en | study, examination |
+| Trend | der | -s | trend |
+| Spielplatz | der | ¨e | playground |
 
-| Verb | Beispiel |
+| Deutsch | Englisch |
 |------|----------|
-| joggen (ist gejoggt) | Sehr einfach und effektiv ist das Joggen. |
-| sich halten, du hältst, er hält (hat gehalten) | Wie halten Sie sich gesund und fit? |
-| schaffen (hat geschafft) | Wer schnell geht, schafft 1000 Schritte in 10 Minuten. |
-| laufen, du läufst, er läuft (ist gelaufen) | Wenn Sie nicht gern laufen, können Sie auch einfach schnell gehen. |
+| joggen (ist gejoggt) | to jog |
+| sich halten, du hältst, er hält (hat gehalten) | to keep (oneself) |
+| schaffen (hat geschafft) | to manage, to accomplish |
+| laufen, du läufst, er läuft (ist gelaufen) | to run, to walk |
 
-| Adjektive/Adverbien | Beispiel |
+| Deutsch | Englisch |
 |---------------------|----------|
-| aktiv | Aktiv bleiben |
-| häufig | Abends habe ich häufig Rückenschmerzen. |
-| außerdem | Nehmen Sie außerdem öfter mal die Treppe und nicht den Aufzug. |
-| preiswert | Sport muss nicht teuer sein. Es geht auch preiswert. |
+| aktiv | active |
+| häufig | frequent, often |
+| außerdem | besides, in addition |
+| preiswert | inexpensive, good value |
 
 ## E2
 
-| Nomen | Artikel | Plural | Beispiel |
+| Deutsch | Artikel | Plural | Englisch |
 |-------|---------|--------|----------|
-| Umwelt | die | (Sg.) | Radfahren ist gut für die Umwelt. |
-| Krankenkasse | die | -n | Bei vielen Krankenkassen gibt es kostenlose Sportangebote. |
-| Strecke | die | -n | Für Kurzstrecken bis 5 Kilometer gilt: Mit dem Auto spart man meistens keine Zeit. |
+| Umwelt | die | (Sg.) | environment |
+| Krankenkasse | die | -n | health insurance fund |
+| Strecke | die | -n | route, distance |
 
-| Verb | Beispiel |
+| Deutsch | Englisch |
 |------|----------|
-| übertreiben (hat übertrieben) | Das finde ich etwas übertrieben. |
+| übertreiben (hat übertrieben) | to exaggerate, to overdo |
 
-| Adjektive/Adverbien | Beispiel |
+| Deutsch | Englisch |
 |---------------------|----------|
-| extra | Wer tagsüber neun Kilometer Fahrrad fährt, muss abends nicht noch extra Sport machen. |
-| flexibel | Außerdem ist man mit dem Rad flexibel. |
-| beliebt | In Deutschland ist das Radfahren sehr beliebt. |
-| klar | Das ist doch klar. |
-| selbstverständlich | Das ist doch selbstverständlich. |
+| extra | extra, additionally |
+| flexibel | flexible |
+| beliebt | popular |
+| klar | clear, obvious |
+| selbstverständlich | obvious, self-evident |
 
 ## Sportarten
 
-| Ausdruck | Englisch |
+| Deutsch | Englisch |
 |----------|----------|
 | Tennis spielen | to play tennis |
 | Ski fahren | to ski |

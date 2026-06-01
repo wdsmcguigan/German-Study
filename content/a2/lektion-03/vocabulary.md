@@ -4,7 +4,7 @@
 
 ### Nomen
 
-| Wort | Artikel | Plural | Englisch |
+| Deutsch | Artikel | Plural | Englisch |
 |------|---------|--------|----------|
 | Nachspeise | die | –n | dessert |
 | Honig | der | – (Sg.) | honey |
@@ -13,7 +13,7 @@
 
 ### Nomen
 
-| Wort | Artikel | Plural | Englisch |
+| Deutsch | Artikel | Plural | Englisch |
 |------|---------|--------|----------|
 | Mahlzeit | die | –en | meal |
 | Tasse | die | –n | cup |
@@ -26,14 +26,14 @@
 
 ### Verben
 
-| Wort | Englisch |
+| Deutsch | Englisch |
 |------|----------|
 | stimmen (hat gestimmt) | to be correct / agree |
 | übernehmen, du übernimmst, er übernimmt (hat übernommen) | to take over |
 
 ### Adjektive / Adverbien
 
-| Wort | Englisch |
+| Deutsch | Englisch |
 |------|----------|
 | meistens | mostly / usually |
 | selten | rarely / seldom |
@@ -48,7 +48,7 @@
 
 ### Nomen
 
-| Wort | Artikel | Plural | Englisch |
+| Deutsch | Artikel | Plural | Englisch |
 |------|---------|--------|----------|
 | Schwein | das | –e | pig / pork |
 | Alkohol | der | – (Sg.) | alcohol |
@@ -64,7 +64,7 @@
 
 ### Adjektive / Adverbien
 
-| Wort | Englisch |
+| Deutsch | Englisch |
 |------|----------|
 | deutsch | German |
 | zweimal | twice |
@@ -73,21 +73,21 @@
 
 ### Nomen
 
-| Wort | Artikel | Plural | Englisch |
+| Deutsch | Artikel | Plural | Englisch |
 |------|---------|--------|----------|
 | Appetit | der | – (Sg.) | appetite |
 | Diät | die | –en | diet |
 
 ### Verben
 
-| Wort | Englisch |
+| Deutsch | Englisch |
 |------|----------|
 | riechen (hat gerochen) | to smell |
 | (sich) aus·ziehen (hat ausgezogen) | to undress / take off |
 
 ### Adjektive / Adverbien
 
-| Wort | Englisch |
+| Deutsch | Englisch |
 |------|----------|
 | voll | full |
 | okay | okay |
@@ -107,7 +107,7 @@
 
 ### Nomen
 
-| Wort | Artikel | Plural | Englisch |
+| Deutsch | Artikel | Plural | Englisch |
 |------|---------|--------|----------|
 | Art | die | –en | type / kind |
 | Müsli | das | –s | muesli / cereal |
@@ -121,13 +121,13 @@
 
 ### Verben
 
-| Wort | Englisch |
+| Deutsch | Englisch |
 |------|----------|
 | leiten (hat geleitet) | to lead / manage |
 
 ### Adjektive / Adverbien
 
-| Wort | Englisch |
+| Deutsch | Englisch |
 |------|----------|
 | frisch | fresh |
 | rund | round / about |
@@ -139,7 +139,7 @@
 
 ### Nomen
 
-| Wort | Artikel | Plural | Englisch |
+| Deutsch | Artikel | Plural | Englisch |
 |------|---------|--------|----------|
 | Fabrik | die | –en | factory |
 | Schnitzel | das | – | schnitzel |
@@ -153,13 +153,13 @@
 
 ### Verben
 
-| Wort | Englisch |
+| Deutsch | Englisch |
 |------|----------|
 | planen (hat geplant) | to plan |
 
 ### Adjektive / Adverbien
 
-| Wort | Englisch |
+| Deutsch | Englisch |
 |------|----------|
 | gegen | around (time) / against |
 | täglich | daily |
@@ -170,6 +170,6 @@
 
 ### Nomen
 
-| Wort | Artikel | Plural | Englisch |
+| Deutsch | Artikel | Plural | Englisch |
 |------|---------|--------|----------|
 | Frühstück | das | –e | breakfast |

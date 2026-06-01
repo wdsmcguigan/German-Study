@@ -4,158 +4,158 @@
 
 ### Verben
 
-| Verb | Perfekt |
+| Deutsch | Englisch |
 |------|---------|
-| (sich) vor·bereiten | (hat vorbereitet) |
-| basteln | (hat gebastelt) |
-| entscheiden | (hat entschieden) |
+| (sich) vor·bereiten (hat vorbereitet) | to prepare (oneself) |
+| basteln (hat gebastelt) | to do handicrafts, to make/craft |
+| entscheiden (hat entschieden) | to decide |
 
 ### Adjektive / Adverbien
 
-| Wort | |
+| Deutsch | Englisch |
 |------|---|
-| unbekannt | |
+| unbekannt | unknown |
 
 ## A
 
 ### Nomen
 
-| Nomen | Artikel | Plural | |
+| Deutsch | Artikel | Plural | Englisch |
 |-------|---------|--------|---|
-| Baby | das | -s | |
-| Kette | die | -n | |
-| Puppe | die | -n | |
-| DVD | die | -s | |
-| Parfüm | das | -e / -s | |
-| Creme | die | -s | |
-| Geldbeutel | der | – | |
+| Baby | das | -s | baby |
+| Kette | die | -n | necklace, chain |
+| Puppe | die | -n | doll |
+| DVD | die | -s | DVD |
+| Parfüm | das | -e / -s | perfume |
+| Creme | die | -s | cream, lotion |
+| Geldbeutel | der | – | wallet, purse |
 
 ### Verben
 
-| Verb | Perfekt |
+| Deutsch | Englisch |
 |------|---------|
-| schenken | (hat geschenkt) |
-| raten, du rätst, er rät | (hat geraten) |
+| schenken (hat geschenkt) | to give (as a gift) |
+| raten, du rätst, er rät (hat geraten) | to guess; to advise |
 
 ## B
 
 ### Nomen
 
-| Nomen | Artikel | Plural | |
+| Deutsch | Artikel | Plural | Englisch |
 |-------|---------|--------|---|
-| Nudel | die | -n | |
-| Gericht | das | -e | |
-| Schachtel | die | -n | |
-| Briefmarke | die | -n | |
+| Nudel | die | -n | noodle |
+| Gericht | das | -e | dish (food); court (of law) |
+| Schachtel | die | -n | box |
+| Briefmarke | die | -n | postage stamp |
 
 ### Verben
 
-| Verb | Perfekt |
+| Deutsch | Englisch |
 |------|---------|
-| probieren | (hat probiert) |
-| liefern | (hat geliefert) |
-| aus·drucken | (hat ausgedruckt) |
-| nennen | (hat genannt) |
+| probieren (hat probiert) | to try, to taste |
+| liefern (hat geliefert) | to deliver |
+| aus·drucken (hat ausgedruckt) | to print (out) |
+| nennen (hat genannt) | to name, to call |
 
 ### Adjektive / Adverbien
 
-| Wort | |
+| Deutsch | Englisch |
 |------|---|
-| zuverlässig | |
-| Sonder- | |
+| zuverlässig | reliable, dependable |
+| Sonder- | special (prefix) |
 
 ## C
 
 ### Nomen
 
-| Nomen | Artikel | Plural | |
+| Deutsch | Artikel | Plural | Englisch |
 |-------|---------|--------|---|
-| Leute (Pl.) | die | – | |
-| Kirche | die | -n | |
-| Trauung | die | -en | |
-| Stimmung | die | – (Sg.) | |
-| Torte | die | -n | |
+| Leute (Pl.) | die | – | people |
+| Kirche | die | -n | church |
+| Trauung | die | -en | wedding ceremony |
+| Stimmung | die | – (Sg.) | mood, atmosphere |
+| Torte | die | -n | cake, gâteau |
 
 ### Verben
 
-| Verb | Perfekt |
+| Deutsch | Englisch |
 |------|---------|
-| grüßen | (hat gegrüßt) |
-| weinen | (hat geweint) |
-| treten, du trittst, er tritt | (ist getreten) |
-| tragen, du trägst, er trägt | (hat getragen) |
+| grüßen (hat gegrüßt) | to greet |
+| weinen (hat geweint) | to cry, to weep |
+| treten, du trittst, er tritt (ist getreten) | to step, to tread |
+| tragen, du trägst, er trägt (hat getragen) | to carry; to wear |
 
 ### Adjektive / Adverbien
 
-| Wort | |
+| Deutsch | Englisch |
 |------|---|
-| wahnsinnig | |
-| blöd | |
-| wunderschön | |
-| typisch | |
-| übrigens | |
-| wohl | |
-| nervös | |
-| wenigstens | |
-| wach | |
-| wild | |
+| wahnsinnig | insane, crazy; incredibly |
+| blöd | stupid, silly |
+| wunderschön | beautiful, gorgeous |
+| typisch | typical |
+| übrigens | by the way |
+| wohl | probably; well |
+| nervös | nervous |
+| wenigstens | at least |
+| wach | awake |
+| wild | wild |
 
 ## D
 
 ### Nomen
 
-| Nomen | Artikel | Plural | |
+| Deutsch | Artikel | Plural | Englisch |
 |-------|---------|--------|---|
-| Herz | das | -en | |
-| Tod | der | – (Sg.) | |
-| Heimat | die | – (Sg.) | |
+| Herz | das | -en | heart |
+| Tod | der | – (Sg.) | death |
+| Heimat | die | – (Sg.) | home, homeland |
 
 ### Verben
 
-| Verb | Perfekt |
+| Deutsch | Englisch |
 |------|---------|
-| aus·geben, du gibst aus, er gibt aus | (hat ausgegeben) |
+| aus·geben, du gibst aus, er gibt aus (hat ausgegeben) | to spend (money) |
 
 ### Adjektive / Adverbien
 
-| Wort | |
+| Deutsch | Englisch |
 |------|---|
-| persönlich | |
+| persönlich | personal, personally |
 
 ## E
 
 ### Nomen
 
-| Nomen | Artikel | Plural | |
+| Deutsch | Artikel | Plural | Englisch |
 |-------|---------|--------|---|
-| SMS | die | – | |
-| Unterhaltung | die | -en | |
+| SMS | die | – | text message, SMS |
+| Unterhaltung | die | -en | conversation; entertainment |
 
 ### Verben
 
-| Verb | Perfekt |
+| Deutsch | Englisch |
 |------|---------|
-| (sich) unterhalten, du unterhältst, er unterhält | (hat unterhalten) |
-| dekorieren | (hat dekoriert) |
-| überzeugen | (hat überzeugt) |
+| (sich) unterhalten, du unterhältst, er unterhält (hat unterhalten) | to talk, to converse; to entertain |
+| dekorieren (hat dekoriert) | to decorate |
+| überzeugen (hat überzeugt) | to convince |
 
 ### Adjektive / Adverbien
 
-| Wort | |
+| Deutsch | Englisch |
 |------|---|
-| per | |
+| per | by, via (per) |
 
 ## Geschenke (Bildwortschatz)
 
-| Nomen | Artikel | Plural | |
+| Deutsch | Artikel | Plural | Englisch |
 |-------|---------|--------|---|
-| Kette | die | -n | |
-| Puppe | die | -n | |
-| DVD | die | -s | |
-| Parfüm | das | -e / -s | |
-| Geldbeutel | der | – | |
-| Creme | die | -s | |
-| Praline | die | -n | |
-| Schokolade | die | -n | |
-| Buch | das | ¨er | |
-| Herz | das | -en | |
+| Kette | die | -n | necklace, chain |
+| Puppe | die | -n | doll |
+| DVD | die | -s | DVD |
+| Parfüm | das | -e / -s | perfume |
+| Geldbeutel | der | – | wallet, purse |
+| Creme | die | -s | cream, lotion |
+| Praline | die | -n | (filled) chocolate, praline |
+| Schokolade | die | -n | chocolate |
+| Buch | das | ¨er | book |
+| Herz | das | -en | heart |
