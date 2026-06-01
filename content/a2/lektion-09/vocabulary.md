@@ -1,72 +1,168 @@
 # Wortschatz – Lektion 9: Meine Sachen
 
-## Gegenstände beschreiben (Describing Objects)
+## FOTO-HÖRGESCHICHTE
 
-| Deutsch | Artikel | Englisch |
-|---------|---------|----------|
-| Kerze | die | candle |
-| Briefkasten | der | letterbox |
-| Kamera | die | camera |
-| Rucksack | der | rucksack / backpack |
-| Roman | der | novel |
-| Hut | der | hat |
-| Liebe | die | love |
-| Erinnerung | die | memory / souvenir |
-| Gedanke | der | thought / idea |
+### Verben
 
-## Materialien (Materials)
+| Verb | Perfekt |
+|------|---------|
+| ein·richten | (hat eingerichtet) |
 
-| Deutsch | Artikel | Englisch |
-|---------|---------|----------|
-| Metall | das | metal |
-| Stoff | der | fabric / material |
-| Plastik | das | plastic |
-| Holz | das | wood |
-| Glas | das | glass |
-| Papier | das | paper |
+### Nomen
 
-## Haushaltsgegenstände (Household Items)
+| Nomen | Artikel | Plural | Englisch |
+|-------|---------|--------|----------|
+| Poster | das | – | poster |
+| Kerze | die | -n | candle |
 
-| Deutsch | Artikel | Englisch |
-|---------|---------|----------|
-| Bikini | der | bikini |
-| Hammer | der | hammer |
-| Lampe | die | lamp |
-| Schüssel | die | bowl |
-| Besteck | das | cutlery |
-| Eintrittskarte | die | ticket |
-| Schaufenster | das | shop window |
-| Pudding | der | pudding / dessert |
+### Adjektive / Adverbien
 
-## Adjektive für Beschreibungen
+| Wort | Englisch |
+|------|----------|
+| scheußlich | hideous |
 
-| Deutsch | Englisch |
-|---------|----------|
+## A
+
+### Adjektive / Adverbien
+
+| Wort | Englisch |
+|------|----------|
 | bunt | colourful |
-| hübsch | pretty |
+
+### Verben
+
+| Verb | Perfekt |
+|------|---------|
+| gucken | (hat geguckt) |
+
+### Nomen
+
+| Nomen | Artikel | Plural | Englisch |
+|-------|---------|--------|----------|
+| Brieftasche | die | -n | wallet |
+| Feuerzeug | das | -e | lighter |
+| Kamera | die | -s | camera |
+| Bikini | der | -s | bikini |
+
+### Adjektive / Adverbien
+
+| Wort | Englisch |
+|------|----------|
 | praktisch | practical |
-| dick | thick / fat |
-| hoch | high / tall |
+| hübsch | pretty |
+
+## B
+
+### Adjektive / Adverbien
+
+| Wort | Englisch |
+|------|----------|
+| dick | thick |
+
+### Nomen
+
+| Nomen | Artikel | Plural | Englisch |
+|-------|---------|--------|----------|
+| Platte | die | -n | top / slab / plate |
+| Höhe | die | -n | height |
+| Zustand | der | ¨e | condition |
+| Qualität | die | -en | quality |
+| Besteck | das | -e | cutlery |
+| Metall | das | -e | metal |
+| Stoff | der | -e | fabric / material |
+
+## C
+
+### Nomen
+
+| Nomen | Artikel | Plural | Englisch |
+|-------|---------|--------|----------|
+| Rucksack | der | ¨e | rucksack / backpack |
+| Hut | der | ¨e | hat |
+| Liebe | die | – (Sg.) | love |
+| Roman | der | -e | novel |
+| Stadion | das | Stadien | stadium |
+| PC | der | -s | PC |
+| Pudding | der | -s | pudding |
+| Schaufenster | das | – | shop window |
+
+### Verben
+
+| Verb | Perfekt |
+|------|---------|
+| vor·schlagen | (hat vorgeschlagen) |
+
+### Adjektive / Adverbien
+
+| Wort | Englisch |
+|------|----------|
+| spannend | exciting |
+| als | than |
+| entfernt | away / distant |
+
+## D
+
+### Nomen
+
+| Nomen | Artikel | Plural | Englisch |
+|-------|---------|--------|----------|
+| Statistik | die | -en | statistic(s) |
+| Nahrungsmittel | das | – | food / foodstuff |
+| Gas | das | -e | gas |
+| Kredit | der | -e | loan / credit |
+
+### Verben
+
+| Verb | Perfekt |
+|------|---------|
+| auf·nehmen, du nimmst auf, er nimmt auf | (hat aufgenommen) |
+| sparen | (hat gespart) |
+
+## E
+
+### Adjektive / Adverbien
+
+| Wort | Englisch |
+|------|----------|
+| manch- | some |
+
+## Lernwortschatz (Erinnerungen)
+
+### Nomen
+
+| Nomen | Artikel | Plural | Englisch |
+|-------|---------|--------|----------|
+| Erinnerung | die | -en | memory |
+| Gedanke | der | -n | thought |
+
+### Adjektive / Adverbien
+
+| Wort | Englisch |
+|------|----------|
 | wertvoll | valuable |
 | damals | back then |
-| lieb | dear / kind |
-| dafür | for it / in return |
-| denn | because / then (particle) |
+| lieb | dear |
+| deshalb | therefore |
+| drin | in it / inside |
 
-## Einkauf und Konsum
+## Sachen und Materialien (Bildwortschatz)
 
-| Deutsch | Artikel | Englisch |
-|---------|---------|----------|
-| Statistik | die | statistics |
-| Nahrungsmittel | das | food / foodstuff |
-| Gas | das | gas |
-| Kredit | der | credit / loan |
-| Rucksack | der | rucksack |
-| Hut | der | hat |
-| Liebe | die | love (for a person) |
-| sparen | – | to save (money) |
-| auf·nehmen | – | to take up / take out (loan) |
-| vor·schlagen | – | to suggest |
-| entfernen | – | to remove |
-| manch- | – | some / many a |
-| erzählen | – | to tell / narrate |
+| Nomen | Artikel | Plural | Englisch |
+|-------|---------|--------|----------|
+| Bikini | der | -s | bikini |
+| Stoff | der | -e | fabric / material |
+| Besteck | das | -e | cutlery |
+| Metall | das | -e | metal |
+| Hammer | der | ¨ | hammer |
+| Holz | das | ¨er | wood |
+| Schüssel (Salat-) | die | -n | (salad) bowl |
+| Plastik | das | – (Sg.) | plastic |
+| Lampe | die | -n | lamp |
+| Glas | das | ¨er | glass |
+| Eintrittskarte | die | -n | (entry) ticket |
+| Papier | das | -e | paper |
+
+> UNSURE / NOTES:
+> - IMG_0880 (page 35) was not photographed. However, pages 32–34 carry the full Lernwortschatz for Lektion 9 and conclude on page 34 with the "Sachen und Materialien" picture box and the TIPP box (internationale Wörter). No section heading is left dangling, so the Lernwortschatz appears COMPLETE; the missing page 35 most likely held end-of-lesson material before Lektion 10 (begins IMG_0881). Flagged in case a late sub-section existed.
+> - "Schüssel" is printed as "die (Salat-) Schüssel, -n" in the picture box (the Salat- prefix is bracketed/optional).
+> - Hammer/Holz/Lampe/Glas/Schüssel/Plastik/Eintrittskarte/Papier appear only in the picture-box recap on page 34, not in the numbered exercise list; they are genuine lesson entries and are included.

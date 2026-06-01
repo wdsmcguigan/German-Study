@@ -1,71 +1,155 @@
 # Wortschatz – Lektion 10: Kommunikation
 
-## Post und Pakete (Post and Parcels)
+## FOTO-HÖRGESCHICHTE
 
-| Deutsch | Artikel | Englisch |
-|---------|---------|----------|
-| Paket | das | parcel / package |
-| Brief | der | letter |
-| Briefumschlag | der | envelope |
-| Postkarte | die | postcard |
-| Sendung | die | shipment / delivery |
-| Schachtel | die | box |
-| Briefmarke | die | stamp |
-| Briefkasten | der | letterbox |
+### Nomen
 
-## Verben (Post)
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
+| Paket | das | -e | parcel |
+| Briefumschlag | der | ¨e | envelope |
+| Postkarte | die | -n | postcard |
+| Schere | die | -n | scissors |
+| Sendung | die | -en | shipment / consignment |
+
+### Verben
 
 | Deutsch | Englisch |
 |---------|----------|
-| versenden / schicken | to send |
-| verschicken (hat verschickt) | to dispatch |
+| verschicken (hat verschickt) | to send |
+| versenden (hat versendet) | to send / dispatch |
+
+### Adjektive / Adverbien
+
+| Deutsch | Englisch |
+|---------|----------|
+| ordentlich | tidy |
+
+## A
+
+### Nomen
+
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
+| Schiff | das | -e | ship |
+| Ernte | die | -n | harvest |
+| Fantasie | die | -n | imagination |
+
+### Verben
+
+| Deutsch | Englisch |
+|---------|----------|
 | transportieren (hat transportiert) | to transport |
 | wiegen (hat gewogen) | to weigh |
-| verpacken (hat verpackt) | to pack / wrap |
-| ordentlich | neat / tidy |
+| verpacken (hat verpackt) | to pack |
 
-## Internet und Kommunikation
-
-| Deutsch | Artikel | Englisch |
-|---------|---------|----------|
-| Netzwerk | das | network |
-| Mobiltelefon | das | mobile phone |
-| Wissen | das | knowledge |
-| Quiz | das | quiz |
-| Mail | die | email |
-| Mailbox | die | mailbox |
-| Bericht | der | report |
-| sich melden | – | to report / get in touch |
-| weltweit | – | worldwide |
-| monatlich | – | monthly |
-| Grippe | die | flu |
-
-## Tiere und Symbole
-
-| Deutsch | Artikel | Englisch |
-|---------|---------|----------|
-| Elefant | der | elephant |
-| Rose | die | rose |
-| Stern | der | star |
-| Himmel | der | sky / heaven |
-| Vogel | der | bird |
-| Bär | der | bear |
-| Ente | die | duck |
-| Tier | das | animal |
-| Souvenir | das | souvenir |
-| orange | – | orange (colour) |
-
-## Sonstiges
+### Adjektive / Adverbien
 
 | Deutsch | Englisch |
 |---------|----------|
-| was für ein...? | what kind of...? |
+| hart | hard |
+| reif | ripe |
+| weich | soft |
+
+## B
+
+### Nomen
+
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
+| Möglichkeit | die | -en | possibility |
+| Einschreiben | das | – | registered mail |
+| Päckchen | das | – | small parcel |
+| Zoll | der | ¨e | customs / duty |
+
+### Verben
+
+| Deutsch | Englisch |
+|---------|----------|
+| senden (hat gesendet) | to send |
+
+### Adjektive / Adverbien
+
+| Deutsch | Englisch |
+|---------|----------|
+| was für ein- | what kind of |
+| denn | then / because |
+| her/her-/-her | here (toward speaker) |
+| wert | worth |
+| unbedingt | absolutely |
+
+## C
+
+### Nomen
+
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
+| Sorge | die | -n | worry |
+| Eisenbahn | die | -en | railway |
+| Blatt | das | ¨er | leaf |
+| Bär | der | -en | bear |
+| Münze | die | -n | coin |
+| Ente | die | -n | duck |
+| Souvenir | das | -e | souvenir |
+| Tier | das | -e | animal |
+| Vogel | der | ¨ | bird |
+| Punkt | der | -e | dot / point |
+| Elefant | der | -en | elephant |
+| Rose | die | -n | rose |
+| Stern | der | -e | star |
+| Himmel | der | – | sky |
+
+### Verben
+
+| Deutsch | Englisch |
+|---------|----------|
+| frieren (hat gefroren) | to freeze / be cold |
+
+### Adjektive / Adverbien
+
+| Deutsch | Englisch |
+|---------|----------|
+| un- | un- (prefix) |
+| orange | orange |
+
+## D
+
+### Nomen
+
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
+| Netzwerk | das | -e | network |
+| Wissen | das | (Sg.) | knowledge |
+| Quiz | das | (Sg.) | quiz |
+| Mobiltelefon | das | -e | mobile phone |
+| Mail | die | -s | email |
+
+### Verben
+
+| Deutsch | Englisch |
+|---------|----------|
 | testen (hat getestet) | to test |
-| der Punkt | point / dot |
-| das Gegenteil | opposite |
-| der Streit | argument / dispute |
-| der Ehemann / die Ehefrau | husband / wife |
-| das Paar | couple |
-| die Erziehung | upbringing / education |
-| die Meinung | opinion |
-| der Ratschlag | advice |
+
+### Adjektive / Adverbien
+
+| Deutsch | Englisch |
+|---------|----------|
+| weltweit | worldwide |
+
+## E
+
+### Nomen
+
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
+| Mailbox | die | -en | voicemail / mailbox |
+| Erfolg | der | -e | success |
+| Kneipe | die | -n | pub |
+| Elternbeirat | der | ¨e | parents' council |
+| Grippe | die | (Sg.) | flu |
+
+### Verben
+
+| Deutsch | Englisch |
+|---------|----------|
+| sich melden (hat gemeldet) | to get in touch / report back |
