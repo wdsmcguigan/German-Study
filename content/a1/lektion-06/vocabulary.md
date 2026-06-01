@@ -1,113 +1,236 @@
 # Wortschatz – Lektion 6: Freizeit
 
-## Freizeitaktivitäten (Leisure Activities)
+## A1
 
-| Deutsch | Englisch |
-|---------|----------|
-| wandern | to hike |
-| schwimmen | to swim |
-| tanzen | to dance |
-| grillen | to barbecue |
-| malen | to paint |
-| fotografieren | to photograph |
-| lesen | to read |
-| sammeln | to collect |
-| Fahrrad fahren | to cycle |
-| Ski fahren | to ski |
-| Tennis spielen | to play tennis |
-| Gitarre spielen | to play guitar |
-| Freunde treffen | to meet friends |
-| spazieren gehen | to go for a walk |
-| Sport machen | to do sport |
-
-## Nomen (Nouns)
+### Nomen
 
 | Deutsch | Artikel | Plural | Englisch |
 |---------|---------|--------|----------|
-| Ausflug | der | Ausflüge | trip / excursion |
-| Picknick | das | Picknicks | picnic |
-| Gitarre | die | Gitarren | guitar |
-| Hobby | das | Hobbys | hobby |
-| Freizeit | die | – | free time / leisure |
-| Krimi | der | Krimis | crime novel |
-| Film | der | Filme | film |
-| Spaß | der | – | fun |
-| Problem | das | Probleme | problem |
-| Würfel | der | Würfel | dice |
-| Smartphone | das | Smartphones | smartphone |
+| Grad | das | – (Sg.) | degree |
 
-## Wetter (Weather)
+### Adjektive / Adverbien
 
 | Deutsch | Englisch |
 |---------|----------|
-| das Wetter | weather |
-| die Sonne | sun |
-| der Regen | rain |
-| der Schnee | snow |
-| die Wolke, -n | cloud |
-| der Wind | wind |
-| das Grad | degree |
-| der Wetterbericht | weather report |
-| die Temperatur | temperature |
-| der Frühling | spring |
-| der Sommer | summer |
-| der Herbst | autumn |
-| der Winter | winter |
-
-| Adjektiv | Englisch |
-|----------|----------|
-| sonnig | sunny |
-| bewölkt | cloudy |
 | warm | warm |
-| kalt | cold |
 | windig | windy |
-| schlecht | bad |
-| hell | light / bright |
+| kalt | cold |
+| bewölkt | cloudy |
 
-| Verb | Englisch |
-|------|----------|
-| scheinen | to shine |
-| regnen | to rain |
-| schneien | to snow |
-| steigen | to rise |
-| bleiben | to stay |
-
-**Beispiele:**
-- Es ist sonnig. / Die Sonne scheint.
-- Es regnet. / Es gibt viele Wolken.
-- Es ist 20 Grad.
-- Es schneit. / Es ist minus 5 Grad.
-
-## Im Restaurant / Imbiss
-
-| Deutsch | Artikel | Plural | Englisch |
-|---------|---------|--------|----------|
-| Speisekarte | die | Speisekarten | menu |
-| Hamburger | der | Hamburger | hamburger |
-| Pommes | die | (Pl.) | French fries |
-| Portion | die | Portionen | portion |
-| Ketchup | der/das | – | ketchup |
-| Salat | der | Salate | salad |
-| Schinken | der | – | ham |
-| Getränk | das | Getränke | drink |
-| Cola | die | Colas | cola |
-| Eis | das | – | ice cream |
-
-## Sonstiges (Other)
+### Verben
 
 | Deutsch | Englisch |
 |---------|----------|
-| los·gehen | to set off |
-| vergessen | to forget |
-| der Durst | thirst |
-| der Hunger | hunger |
+| schneien | to snow |
+
+## A2
+
+### Nomen
+
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
+| Wetterbericht | der | -e | weather report |
+| Mitte | die | – (Sg.) | middle |
+| Temperatur | die | -en | temperature |
+| Regen | der | – (Sg.) | rain |
+| Schnee | der | – (Sg.) | snow |
+| Radio | das | -s | radio |
+| Internet | das | – (Sg.) | internet |
+
+### Adjektive / Adverbien
+
+| Deutsch | Englisch |
+|---------|----------|
 | überall | everywhere |
-| leider | unfortunately |
-| vielleicht | maybe |
-| immer | always |
-| oft | often |
-| besonders | especially |
+| sonnig | sunny |
+| leicht | light(ly) |
+| plus | plus |
+| minus | minus |
+
+### Verben
+
+| Deutsch | Englisch |
+|---------|----------|
+| steigen | (ist) to rise / climb |
+| bleiben | (ist) to stay / remain |
+
+## A3
+
+### Nomen
+
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
+| Sommer | der | – | summer |
+| Frühling | der | -e | spring |
+| Herbst | der | -e | autumn / fall |
+| Winter | der | – | winter |
+
+### Adjektive / Adverbien
+
+| Deutsch | Englisch |
+|---------|----------|
+| heiß | hot |
+| schlecht | bad |
+
+## A4
+
+### Nomen
+
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
+| Wind | der | -e | wind |
+
+### Adjektive / Adverbien
+
+| Deutsch | Englisch |
+|---------|----------|
+| angenehm | pleasant |
+
+## B3
+
+### Nomen
+
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
+| Speisekarte | die | -n | menu |
+| Hamburger | der | – | hamburger |
+| Speise | die | -n | dish / food |
+| Pommes frites (Pommes) | die | (Pl.) | French fries |
+| Portion | die | -en | portion |
+| Ketchup | der / das | -s | ketchup |
+| Salat | der | -e | salad |
+| Schinken | der | – | ham |
+| Getränk | das | -e | drink / beverage |
+| Cola | die | -s | cola |
+
+## C1
+
+### Adjektive / Adverbien
+
+| Deutsch | Englisch |
+|---------|----------|
+| doch | (on the contrary / yes) |
+| lieber | rather / preferably |
+
+## C2
+
+### Adjektive / Adverbien
+
+| Deutsch | Englisch |
+|---------|----------|
+| warum | why |
+
+### Verben
+
+| Deutsch | Englisch |
+|---------|----------|
+| nehmen | (hat) to take |
+
+## C3
+
+### Nomen
+
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
+| Hund | der | -e | dog |
+| Eis | das | – (Sg.) | ice / ice cream |
+
+## D1
+
+### Nomen
+
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
+| Fahrrad | das | Fahrräder (¨er) | bicycle |
+
+### Verben
+
+| Deutsch | Englisch |
+|---------|----------|
+| tanzen | (hat) to dance |
+| schwimmen | (ist) to swim |
+| treffen | (hat) to meet |
+| fahren | (ist) to drive / ride / go |
+| grillen | (hat) to barbecue / grill |
+
+## D2
+
+### Nomen
+
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
+| Freizeit | die | – (Sg.) | free time / leisure |
+| Hobby | das | -s | hobby |
+
+## D3
+
+### Nomen
+
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
+| Krimi | der | -s | crime novel / thriller |
+| Film | der | -e | film |
+| Grill | der | -s | grill / barbecue |
+
+### Adjektive / Adverbien
+
+| Deutsch | Englisch |
+|---------|----------|
+| Lieblings- | favourite (prefix) |
 | wichtig | important |
-| einfach | simple / simply |
-| schnell | fast |
-| Lieblings- | favourite- (Lieblingssport, Lieblingsfilm) |
+
+### Verben
+
+| Deutsch | Englisch |
+|---------|----------|
+| lesen | (hat) to read |
+
+## E1
+
+### Nomen
+
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
+| Beruf | der | -e | profession / job |
+| Foto | das | -s | photo |
+| Spaß | der | – (Sg.) | fun |
+| Smartphone | das | -s | smartphone |
+| Würfel | der | – | dice / cube |
+| Spiel | das | -e | game |
+| Problem | das | -e | problem |
+
+### Adjektive / Adverbien
+
+| Deutsch | Englisch |
+|---------|----------|
+| besonder- / besonders | special / especially |
+| dumm | stupid / silly |
+| oft | often |
+| leider | unfortunately |
+| immer | always |
+| vielleicht | maybe / perhaps |
+| einfach | simple / easy |
+| schnell | fast / quick(ly) |
+
+### Verben
+
+| Deutsch | Englisch |
+|---------|----------|
+| sammeln | (hat) to collect |
+| fotografieren | (hat) to photograph |
+| meinen | (hat) to mean / think |
+
+## Wetter (Zusammenfassung)
+
+| Deutsch | Artikel | Plural | Englisch | Ausdruck |
+|---------|---------|--------|----------|----------|
+| Sonne | die | – | sun | Es ist sonnig. |
+| Regen | der | – | rain | Es regnet. |
+| Wolke | die | -n | cloud | Es ist bewölkt. |
+| Schnee | der | – | snow | Es schneit. |
+| Wind | der | -e | wind | Es ist windig. |
+
+> UNSURE:
+> - Page header shows only the lesson number "6" and "Lernwortschatz"; no full lesson title is printed on these LWS pages. Title "Freizeit" retained from the prior file / standard Schritte A1 L6 name. The rotated margin label on the weather-summary page reads "Wetter".
+> - "Fahrrad" plural printed with the umlaut-marker "¨er" -> Fahrräder.
+> - Verb auxiliaries (hat/ist) are not printed in the workbook list; supplied from standard usage. "fahren", "schwimmen", "steigen", "bleiben" take *ist*; the rest take *hat*.
