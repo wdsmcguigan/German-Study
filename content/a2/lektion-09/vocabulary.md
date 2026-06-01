@@ -4,41 +4,41 @@
 
 ### Verben
 
-| Verb | Perfekt |
-|------|---------|
-| ein·richten | (hat eingerichtet) |
+| Deutsch | Englisch |
+|---------|----------|
+| ein·richten (hat eingerichtet) | to furnish / set up |
 
 ### Nomen
 
-| Nomen | Artikel | Plural | Englisch |
-|-------|---------|--------|----------|
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
 | Poster | das | – | poster |
 | Kerze | die | -n | candle |
 
 ### Adjektive / Adverbien
 
-| Wort | Englisch |
-|------|----------|
+| Deutsch | Englisch |
+|---------|----------|
 | scheußlich | hideous |
 
 ## A
 
 ### Adjektive / Adverbien
 
-| Wort | Englisch |
-|------|----------|
+| Deutsch | Englisch |
+|---------|----------|
 | bunt | colourful |
 
 ### Verben
 
-| Verb | Perfekt |
-|------|---------|
-| gucken | (hat geguckt) |
+| Deutsch | Englisch |
+|---------|----------|
+| gucken (hat geguckt) | to look |
 
 ### Nomen
 
-| Nomen | Artikel | Plural | Englisch |
-|-------|---------|--------|----------|
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
 | Brieftasche | die | -n | wallet |
 | Feuerzeug | das | -e | lighter |
 | Kamera | die | -s | camera |
@@ -46,8 +46,8 @@
 
 ### Adjektive / Adverbien
 
-| Wort | Englisch |
-|------|----------|
+| Deutsch | Englisch |
+|---------|----------|
 | praktisch | practical |
 | hübsch | pretty |
 
@@ -55,14 +55,14 @@
 
 ### Adjektive / Adverbien
 
-| Wort | Englisch |
-|------|----------|
+| Deutsch | Englisch |
+|---------|----------|
 | dick | thick |
 
 ### Nomen
 
-| Nomen | Artikel | Plural | Englisch |
-|-------|---------|--------|----------|
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
 | Platte | die | -n | top / slab / plate |
 | Höhe | die | -n | height |
 | Zustand | der | ¨e | condition |
@@ -75,8 +75,8 @@
 
 ### Nomen
 
-| Nomen | Artikel | Plural | Englisch |
-|-------|---------|--------|----------|
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
 | Rucksack | der | ¨e | rucksack / backpack |
 | Hut | der | ¨e | hat |
 | Liebe | die | – (Sg.) | love |
@@ -88,14 +88,14 @@
 
 ### Verben
 
-| Verb | Perfekt |
-|------|---------|
-| vor·schlagen | (hat vorgeschlagen) |
+| Deutsch | Englisch |
+|---------|----------|
+| vor·schlagen (hat vorgeschlagen) | to suggest / propose |
 
 ### Adjektive / Adverbien
 
-| Wort | Englisch |
-|------|----------|
+| Deutsch | Englisch |
+|---------|----------|
 | spannend | exciting |
 | als | than |
 | entfernt | away / distant |
@@ -104,8 +104,8 @@
 
 ### Nomen
 
-| Nomen | Artikel | Plural | Englisch |
-|-------|---------|--------|----------|
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
 | Statistik | die | -en | statistic(s) |
 | Nahrungsmittel | das | – | food / foodstuff |
 | Gas | das | -e | gas |
@@ -113,32 +113,32 @@
 
 ### Verben
 
-| Verb | Perfekt |
-|------|---------|
-| auf·nehmen, du nimmst auf, er nimmt auf | (hat aufgenommen) |
-| sparen | (hat gespart) |
+| Deutsch | Englisch |
+|---------|----------|
+| auf·nehmen, du nimmst auf, er nimmt auf (hat aufgenommen) | to take up / record / take in |
+| sparen (hat gespart) | to save |
 
 ## E
 
 ### Adjektive / Adverbien
 
-| Wort | Englisch |
-|------|----------|
+| Deutsch | Englisch |
+|---------|----------|
 | manch- | some |
 
 ## Lernwortschatz (Erinnerungen)
 
 ### Nomen
 
-| Nomen | Artikel | Plural | Englisch |
-|-------|---------|--------|----------|
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
 | Erinnerung | die | -en | memory |
 | Gedanke | der | -n | thought |
 
 ### Adjektive / Adverbien
 
-| Wort | Englisch |
-|------|----------|
+| Deutsch | Englisch |
+|---------|----------|
 | wertvoll | valuable |
 | damals | back then |
 | lieb | dear |
@@ -147,8 +147,8 @@
 
 ## Sachen und Materialien (Bildwortschatz)
 
-| Nomen | Artikel | Plural | Englisch |
-|-------|---------|--------|----------|
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
 | Bikini | der | -s | bikini |
 | Stoff | der | -e | fabric / material |
 | Besteck | das | -e | cutlery |
