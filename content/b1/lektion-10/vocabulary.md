@@ -1,195 +1,252 @@
 # Wortschatz – Lektion 10: Werbung und Konsum
 
-## Foto-Hörgeschichte (Abschnitt 1)
+## Foto-Hörgeschichte
 
 | Deutsch | Artikel | Plural | Englisch |
 |---------|---------|--------|----------|
-| Haut | die | (Sg.) | skin |
+| Haut | die | – (Sg.) | skin |
 | Gesicht | das | -er | face |
 | Nachteil | der | -e | disadvantage |
 
-## Ellas Kolumne (Abschnitt 4)
+## Ellas Kolumne
+
+### Nomen
 
 | Deutsch | Artikel | Plural | Englisch |
 |---------|---------|--------|----------|
 | Sieger | der | – | winner (male) |
 | Siegerin | die | -nen | winner (female) |
 
-## Verben / Adjektive (Abschnitt 4)
+### Verben
 
 | Deutsch | Englisch |
 |---------|----------|
 | verbieten (hat verboten) | to forbid / to ban |
-| live | live |
-| gerecht | fair / just |
 | behandeln (hat behandelt) | to treat |
-| vorig- | previous / last |
+| schalten (hat geschaltet) | to switch / to change (channel) |
 
-## Abschnitt 5
+### Adjektive / Adverbien
 
 | Deutsch | Englisch |
 |---------|----------|
-| schalten (hat geschaltet) | to switch / to change channel |
+| live | live |
+| gerecht | fair / just |
+| vorig- | previous / last |
 
 ## A1
+
+### Nomen
+
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
+| Limonade | die | -n | lemonade / soft drink |
+
+### Adverbien / Konjunktionen
 
 | Deutsch | Englisch |
 |---------|----------|
 | sowohl … als auch | both … and / as well as |
 | weder … noch | neither … nor |
 
-## A2 Nomen
+## A2
+
+### Nomen
 
 | Deutsch | Artikel | Plural | Englisch |
 |---------|---------|--------|----------|
-| Limonade | die | -n | lemonade / soft drink |
 | Lieferung | die | -en | delivery |
 | Zelt | das | -e | tent |
 | Bedingung | die | -en | condition / term |
 
-## Verben (A2)
+### Verben
 
 | Deutsch | Englisch |
 |---------|----------|
 | weg·werfen, du wirfst weg, er wirft weg (hat weggeworfen) | to throw away |
-| streichen (hat gestrichen) | to cross out / to paint / to cancel |
+| streichen (hat gestrichen) | to paint (a wall) |
 
-## A4 Nomen
+## A4
+
+### Nomen
 
 | Deutsch | Artikel | Plural | Englisch |
 |---------|---------|--------|----------|
 | Fotoapparat | der | -e | camera |
-| Beleg | der | -e | receipt / proof |
-| Umtausch | der | ¨-e | exchange / return |
+| Beleg | der | -e | receipt / proof of purchase |
+| Umtausch | der | ¨e | exchange / return |
 
-## Verben / Adverbien (A4)
+### Verben
 
 | Deutsch | Englisch |
 |---------|----------|
 | benötigen (hat benötigt) | to need / to require |
-| gratis | free of charge |
 
-## B1 Verben
+### Adjektive / Adverbien
+
+| Deutsch | Englisch |
+|---------|----------|
+| gratis | free (of charge) |
+
+## B1
+
+### Nomen
+
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
+| Schlange | die | -n | queue / line |
+
+### Verben
 
 | Deutsch | Englisch |
 |---------|----------|
 | schauen (hat geschaut) | to look |
 
-## B2 Nomen
+## B2
+
+### Nomen
 
 | Deutsch | Artikel | Plural | Englisch |
 |---------|---------|--------|----------|
 | Handtasche | die | -n | handbag |
-| Schlange | die | -n | snake / queue |
 
-## Verben / Ausdrücke (B2)
-
-| Deutsch | Englisch |
-|---------|----------|
-| sich an·stellen (hat sich angestellt) | to queue up / to get in line |
-| ein·fallen, dir fällt ein, ihm fällt ein (ist eingefallen) | to occur to / to come to mind |
-
-## Virtuelle Welt (Wiederholung)
-
-| Deutsch | Artikel | Plural | Englisch |
-|---------|---------|--------|----------|
-| Computer | der | – | computer |
-| Festplatte | die | -n | hard drive |
-| Datei | die | -en | file |
-| Virus | das/der | Viren | virus |
-| Monitor | der | -e | monitor |
-| Rechner | der | – | computer / PC |
-| Tastatur | die | -en | keyboard |
-| Akku | der | -s | battery (rechargeable) |
-| Ordner | der | – | folder |
-| Passwort | das | ¨-er | password |
-| Symbol | das | -e | symbol |
-
-## Verben (Wiederholung Virtuelle Welt)
+### Verben
 
 | Deutsch | Englisch |
 |---------|----------|
-| installieren (hat installiert) | to install |
-| (he)runter·laden (hat heruntergeladen) | to download |
-| löschen (hat gelöscht) | to delete |
-| an·schließen (hat angeschlossen) | to connect |
+| sich an·stellen (hat sich angestellt) | to queue / to get in line |
+| ein·fallen, dir fällt ein, ihm fällt ein (ist eingefallen) | to come to mind / to occur to (someone) |
 
 ## B3
 
+### Nomen
+
 | Deutsch | Artikel | Plural | Englisch |
 |---------|---------|--------|----------|
-| Missgeschick | das | -e | mishap / blunder |
-| Fahrzeug | das | -e | vehicle |
+| Missgeschick | das | -e | mishap |
 
-## B3 – Adjektive
+### Adjektive / Adverbien
 
 | Deutsch | Englisch |
 |---------|----------|
-| schief | crooked / askew / wrong |
-| ausgezeichnet | excellent |
+| schief | crooked / wrong (schiefgehen) |
 
-## C1 – Verben
+## C1
+
+### Nomen
+
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
+| Fahrzeug | das | -e | vehicle |
+
+## C2
+
+### Verben
 
 | Deutsch | Englisch |
 |---------|----------|
 | korrigieren (hat korrigiert) | to correct |
 | reinigen (hat gereinigt) | to clean |
-| wachsen (du wächst, er wächst / ist gewachsen) | to grow |
-| (sich) drehen (hat gedreht) | to turn / to rotate |
+| wachsen, du wächst, er wächst (ist gewachsen) | to grow |
+| sich drehen (hat sich gedreht) | to turn / to rotate |
+
+### Adjektive / Adverbien
+
+| Deutsch | Englisch |
+|---------|----------|
+| ausgezeichnet | excellent / excellently |
 
 ## D1
+
+### Nomen
 
 | Deutsch | Artikel | Plural | Englisch |
 |---------|---------|--------|----------|
 | Entwicklung | die | -en | development |
 | Snack | der | -s | snack |
 | Forschung | die | -en | research |
+| Verbraucher | der | – | consumer (male) |
+| Verbraucherin | die | -nen | consumer (female) |
 
-## D1 – Adverbien
+### Verben
 
 | Deutsch | Englisch |
 |---------|----------|
-| hinterher | afterwards / after that |
+| ab·stimmen (hat abgestimmt) | to vote |
+
+### Adverbien
+
+| Deutsch | Englisch |
+|---------|----------|
+| hinterher | afterwards |
 | einerseits | on the one hand |
 
-## D1 – Verben
+## D2
 
-| Deutsch | Englisch |
-|---------|----------|
-| ab·stimmen (hat abgestimmt) | to vote / to coordinate |
-
-## D2 – D3
+### Nomen
 
 | Deutsch | Artikel | Plural | Englisch |
 |---------|---------|--------|----------|
-| Verbraucher / Verbraucherin | der / die | -/–nen | consumer |
 | Projekt | das | -e | project |
+
+## D3
+
+### Nomen
+
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
 | Pflaume | die | -n | plum |
 | Aprikose | die | -n | apricot |
 
 ## E1
 
+### Nomen
+
 | Deutsch | Artikel | Plural | Englisch |
 |---------|---------|--------|----------|
-| Kampf | der | ¨-e | fight / struggle |
+| Kampf | der | ¨e | fight / struggle |
 | Griff | der | -e | handle / grip |
-| Dieb / Diebin | der / die | -e/–nen | thief |
-| Handtuch | das | ¨-er | hand towel |
+| Dieb | der | -e | thief (male) |
+| Diebin | die | -nen | thief (female) |
+| Handtuch | das | ¨er | (hand) towel |
 | Rest | der | -e | rest / remainder |
 
-## E1 – Adjektive
+### Verben
 
 | Deutsch | Englisch |
 |---------|----------|
-| neulich | recently |
-
-## E1 – Verben
-
-| Deutsch | Englisch |
-|---------|----------|
-| weiter·machen (hat weitergemacht) | to continue / to carry on |
-| entschlossen (sein) | to be determined |
+| weiter·machen (hat weitergemacht) | to carry on / to continue |
 | schütteln (hat geschüttelt) | to shake |
-| auf·halten (du hältst auf, er hält auf / hat aufgehalten) | to stop / to hold up / to delay |
-| schlagen (du schlägst, er schlägt / hat geschlagen) | to hit / beat |
-| schweigen (hat geschwiegen) | to be silent |
+| auf·halten, du hältst auf, er hält auf (hat aufgehalten) | to stop / to hold back |
+| schlagen, du schlägst, er schlägt (hat geschlagen) | to hit / to beat |
+| schweigen (hat geschwiegen) | to be silent / to say nothing |
+
+### Adjektive / Adverbien
+
+| Deutsch | Englisch |
+|---------|----------|
+| entschlossen (sein) | (to be) determined / resolute |
+| neulich | recently / the other day |
+
+## Einkaufen und Umtauschen (Lernwortschatz-Übersicht)
+
+### Nomen
+
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
+| Lieferung | die | -en | delivery |
+| Beratung | die | -en | advice / consultation |
+| Fachmann | der | ¨er | expert / specialist (male) |
+| Fachfrau | die | -en | expert / specialist (female) |
+| Fachleute | die | (Pl.) | experts / specialists |
+| Verbraucher | der | – | consumer (male) |
+| Verbraucherin | die | -nen | consumer (female) |
+| Bedingung | die | -en | condition / term |
+| Umtausch | der | ¨e | exchange / return |
+| Beleg | der | -e | receipt / proof of purchase |
+| Mangel | der | ¨ | defect / fault |
+
+### Verben
+
+| Deutsch | Englisch |
+|---------|----------|
+| bestellen (hat bestellt) | to order |

@@ -1,163 +1,142 @@
 # Wortschatz – Lektion 8: Unter Kollegen
 
-## Ellas Kolumne (Abschnitt 3)
+## Ellas Kolumne
 
 | Deutsch | Artikel | Plural | Englisch |
-|---------|---------|--------|----------|
-| Sportler | der | – | athlete / sportsman |
-| Sportlerin | die | -nen | athlete / sportswoman |
+|---|---|---|---|
+| Sportler | der | – | sportsman / athlete |
+| Sportlerin | die | -nen | sportswoman / athlete |
 | Chat | der | -s | chat |
 
-## Konjunktionen (Ellas Kolumne)
-
 | Deutsch | Englisch |
-|---------|----------|
+|---|---|
 | falls | in case / if |
 
 ## A2
 
 | Deutsch | Artikel | Plural | Englisch |
-|---------|---------|--------|----------|
+|---|---|---|---|
 | Grenze | die | -n | border / limit / boundary |
 | Konsequenz | die | -en | consequence |
 
-## Verben / Adverbien (A2)
-
 | Deutsch | Englisch |
-|---------|----------|
+|---|---|
 | eventuell | possibly / perhaps |
-| wirken (hat gewirkt) | to have an effect / to seem |
+| wirken (hat gewirkt) | to seem / to have an effect |
+| zu·sagen (hat zugesagt) | to agree / to accept (an invitation) |
+| nachher | afterwards / later |
+| tauschen (hat getauscht) | to swap / to exchange |
 
 ## A4
 
 | Deutsch | Artikel | Plural | Englisch |
-|---------|---------|--------|----------|
+|---|---|---|---|
 | Kuli | der | -s | ballpoint pen / biro |
 
-## Verben / Adverbien (A4)
-
 | Deutsch | Englisch |
-|---------|----------|
-| tauschen (hat getauscht) | to swap / to exchange |
-| nachher | afterwards / later |
-| morgig- | tomorrow's |
-| worum | what about / what for |
+|---|---|
+| morgig- | tomorrow's / of tomorrow |
+| worum | what about / about what |
 
 ## B1
 
 | Deutsch | Englisch |
-|---------|----------|
-| je | the (in comparisons) |
-| desto | the (correlative) |
-| je … desto | the … the |
+|---|---|
+| je | the (… the …) |
+| desto | the (… the …) |
+| je … desto | the … the … |
 
-## B2 – Freundschaft am Arbeitsplatz
+## B2
 
 | Deutsch | Artikel | Plural | Englisch |
-|---------|---------|--------|----------|
-| Einfluss | der | ¨-e | influence |
-| Klima | das | (Sg.) | climate / atmosphere |
+|---|---|---|---|
+| Einfluss | der | ¨e | influence |
+| Klima | das | – (Sg.) | climate |
 | Karriere | die | -n | career |
-| Studie | die | -n | study / research paper |
+| Studie | die | -n | study |
 | Freundschaft | die | -en | friendship |
-| Atmosphäre | die | (Sg.) | atmosphere |
+| Atmosphäre | die | – (Sg.) | atmosphere |
 | Distanz | die | -en | distance |
-| Zusammenarbeit | die | (Sg.) | teamwork / collaboration |
+| Zusammenarbeit | die | – (Sg.) | cooperation / collaboration |
 | Beziehung | die | -en | relationship |
 
-## Verben / Adjektive (B2)
-
 | Deutsch | Englisch |
-|---------|----------|
-| warnen (hat gewarnt) | to warn |
-| beeinflussen (hat beeinflusst) | to influence / to affect |
+|---|---|
+| eng | close / narrow |
+| warnen (hat gewarnt) (+ vor + Dat.) | to warn (against / about) |
+| beeinflussen (hat beeinflusst) | to influence |
 | sinnvoll | sensible / meaningful |
-| eng | narrow / close / tight |
 
 ## C2
 
 | Deutsch | Artikel | Plural | Englisch |
-|---------|---------|--------|----------|
+|---|---|---|---|
 | Gedicht | das | -e | poem |
-| Orchester | das | – | orchestra |
-
-## Adjektive (C2)
 
 | Deutsch | Englisch |
-|---------|----------|
+|---|---|
 | monatelang | for months |
-| treu | faithful / loyal |
+| treu | loyal / faithful |
 
-## C3 – Duzen und Siezen
-
-| Deutsch | Englisch |
-|---------|----------|
-| duzen | to address someone as "du" (informally) |
-| siezen | to address someone as "Sie" (formally) |
-
-## Nomen (C3)
+## C3
 
 | Deutsch | Artikel | Plural | Englisch |
-|---------|---------|--------|----------|
-| Gemeinschaft | die | -en | community / group |
-| Distanz | die | -en | distance |
-| Einfluss | der | ¨-e | influence |
+|---|---|---|---|
+| Orchester | das | – | orchestra |
 
 ## D1
 
-| Deutsch | Englisch |
-|---------|----------|
-| duzen (hat geduzt) | to address informally |
-| recht | right / correct / quite |
-
-## D1 Nomen
-
 | Deutsch | Artikel | Plural | Englisch |
-|---------|---------|--------|----------|
+|---|---|---|---|
 | Elternabend | der | -e | parents' evening |
+
+| Deutsch | Englisch |
+|---|---|
+| duzen (hat geduzt) | to address (sb.) with "du" / be on first-name terms |
 
 ## D2
 
 | Deutsch | Englisch |
-|---------|----------|
-| außer | except / apart from / besides |
+|---|---|
+| recht | right / quite |
 
 ## D4
 
 | Deutsch | Artikel | Plural | Englisch |
-|---------|---------|--------|----------|
-| Werbung | die | (Sg.) | advertising |
+|---|---|---|---|
+| Werbung | die | – (Sg.) | advertising |
 | Vergleich | der | -e | comparison |
-| Gemeinschaft | die | -en | community |
-
-## Adjektive (D4)
+| Gemeinschaft | die | -en | community / fellowship |
 
 | Deutsch | Englisch |
-|---------|----------|
-| derselbe / dasselbe | the same |
+|---|---|
+| derselbe (dieselbe / dasselbe) | the same |
 
 ## D5
 
 | Deutsch | Artikel | Plural | Englisch |
-|---------|---------|--------|----------|
+|---|---|---|---|
 | Form | die | -en | form / shape |
-| Eindruck | der | ¨-e | impression |
-
-## Unter Kollegen (Bildwortschatz)
-
-| Deutsch | Artikel | Plural | Englisch |
-|---------|---------|--------|----------|
-| Zusammenarbeit | die | (Sg.) | collaboration |
-| Betriebsklima | das | (Sg.) | workplace atmosphere |
-| Arbeitsatmosphäre | die | (Sg.) | working atmosphere |
-| Freundschaft | die | -en | friendship |
-| Karriere | die | -n | career |
-
-## Verben (TIPP – sagen-Wortfamilie)
+| Eindruck | der | ¨e | impression |
 
 | Deutsch | Englisch |
-|---------|----------|
-| zu·sagen | to accept / to appeal to |
-| ab·sagen | to cancel / to decline |
-| vor·sagen | to prompt / to tell the answer |
-| vorher·sagen | to predict / to forecast |
+|---|---|
+| außer | except / besides / apart from |
+
+## Themenbox: Unter Kollegen
+
+| Deutsch | Artikel | Plural | Englisch |
+|---|---|---|---|
+| Zusammenarbeit | die | – (Sg.) | cooperation / collaboration |
+| Betriebsklima | das | – (Sg.) | working atmosphere / company climate |
+| Arbeitsatmosphäre | die | – (Sg.) | working atmosphere |
+| Freundschaft | die | -en | friendship |
+| Karriere | die | -n | career |
+| Gemeinschaft | die | -en | community / fellowship |
+| Distanz | die | -en | distance |
+| Einfluss | der | ¨e | influence |
+
+| Deutsch | Englisch |
+|---|---|
+| duzen | to address (sb.) with "du" |
+| siezen | to address (sb.) with "Sie" |
