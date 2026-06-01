@@ -1,127 +1,280 @@
 # Wortschatz – Lektion 4: Meine Wohnung
 
-## Räume (Rooms)
+## FOTO-HÖRGESCHICHTE
 
-| Deutsch | Artikel | Englisch |
-|---------|---------|----------|
-| Wohnung | die | apartment / flat |
-| Haus | das | house |
-| Zimmer | das | room |
-| Küche | die | kitchen |
-| Bad / Badezimmer | das | bathroom |
-| Wohnzimmer | das | living room |
-| Schlafzimmer | das | bedroom |
-| Arbeitszimmer | das | study / home office |
-| Flur | der | hallway |
-| Toilette | die | toilet |
-| Balkon | der | balcony |
-| Keller | der | cellar |
-| Garage | die | garage |
-| Garten | der | garden |
-
-## Möbel & Einrichtung (Furniture & Furnishings)
+### Nomen
 
 | Deutsch | Artikel | Plural | Englisch |
-|---------|---------|--------|----------|
-| Sofa | das | Sofas | sofa |
-| Sessel | der | Sessel | armchair |
-| Tisch | der | Tische | table |
-| Stuhl | der | Stühle | chair |
-| Bett | das | Betten | bed |
-| Schrank | der | Schränke | wardrobe / cupboard |
-| Kühlschrank | der | Kühlschränke | refrigerator |
-| Herd | der | Herde | stove / cooker |
-| Badewanne | die | Badewannen | bathtub |
-| Dusche | die | Duschen | shower |
-| Fernseher | der | Fernseher | TV |
-| Teppich | der | Teppiche | carpet / rug |
-| Lampe | die | Lampen | lamp |
-| Regal | das | Regale | shelf |
-| Schreibtisch | der | Schreibtische | desk |
-| Computer | der | Computer | computer |
-| Möbel | die | (Pl.) | furniture |
-| Gerät | das | Geräte | device / appliance |
+|------|---------|--------|----------|
+| Wohnung | die | -en | apartment, flat |
+| Lampe | die | -n | lamp |
+| Zimmer | das | – | room |
+| Küche | die | -n | kitchen |
+| Bad | das | ¨er | bathroom |
 
-## Farben (Colours)
+### Adjektive / Adverbien
 
 | Deutsch | Englisch |
-|---------|----------|
-| schwarz | black |
-| weiß | white |
-| grau | grey |
-| rot | red |
-| blau | blue |
-| grün | green |
-| gelb | yellow |
-| braun | brown |
-| orange | orange |
-| hell- | light (hellblau = light blue) |
-| dunkel- | dark (dunkelrot = dark red) |
-
-## Adjektive (Adjectives)
-
-| Deutsch | Englisch |
-|---------|----------|
-| groß | big |
-| klein | small |
+|------|----------|
 | alt | old |
 | neu | new |
-| hell | bright / light |
+| groß | big, large |
+| klein | small |
+| hell | bright, light |
 | dunkel | dark |
-| schön | beautiful |
-| hässlich | ugly |
-| billig | cheap |
 | teuer | expensive |
-| modern | modern |
-| schmal | narrow |
-| breit | wide |
-| lang | long |
-| hoch | tall / high |
-| nett | nice |
-| richtig | right / correct |
+| billig | cheap |
+| schön | beautiful, nice |
+| hässlich | ugly |
 
-## Wohnungssuche (Apartment Search)
+### Verben
+
+| Deutsch | Englisch |
+|------|----------|
+| kennen | to know (be acquainted with) |
+
+## A1
+
+### Nomen
 
 | Deutsch | Artikel | Plural | Englisch |
-|---------|---------|--------|----------|
-| Anzeige | die | Anzeigen | advertisement |
-| Ehepaar | das | Ehepaare | couple |
-| Miete | die | – | rent |
-| Quadratmeter | der | Quadratmeter (m²) | square meter |
-| Stock | der | Stockwerke | floor (storey) |
-| Apartment | das | Apartments | apartment |
-| Anruf | der | Anrufe | phone call |
-| Meter | der | Meter | meter |
-| Zentimeter | der | Zentimeter | centimeter |
-| Handy | das | Handys | mobile phone |
+|------|---------|--------|----------|
+| Flur | der | -e | hallway, corridor |
+| Toilette | die | -n | toilet |
+| Balkon | der | -e | balcony |
+| Wohnzimmer | das | – | living room |
 
-## Verben (Verbs)
+### Adjektive / Adverbien
 
 | Deutsch | Englisch |
-|---------|----------|
-| kosten | to cost |
-| suchen | to look for |
-| vermieten | to rent out |
-| kaufen | to buy |
-| verkaufen | to sell |
-| bezahlen | to pay |
-| kennen | to know (a person/place) |
-| finden | to find / to think |
+|------|----------|
+| der, das, die | the (masculine, neuter, feminine) |
 
-## Sonstiges (Other)
+## A2
+
+### Nomen
+
+| Deutsch | Artikel | Plural | Englisch |
+|------|---------|--------|----------|
+| Haus | das | ¨er | house |
+
+### Adjektive / Adverbien
 
 | Deutsch | Englisch |
-|---------|----------|
+|------|----------|
 | hier | here |
 | dort | there |
+
+## B1
+
+### Nomen
+
+| Deutsch | Artikel | Plural | Englisch |
+|------|---------|--------|----------|
+| Monat | der | -e | month |
+
+### Adjektive / Adverbien
+
+| Deutsch | Englisch |
+|------|----------|
 | aber | but |
 | nicht | not |
-| nur | only |
-| sofort | immediately |
-| ab | from |
-| ungefähr | approximately |
-| maximal | maximum |
-| circa (ca.) | approximately |
+
+## B3
+
+### Adjektive / Adverbien
+
+| Deutsch | Englisch |
+|------|----------|
+| schmal | narrow |
+| richtig | right, correct |
+| breit | wide, broad |
+
+## C1
+
+### Nomen
+
+| Deutsch | Artikel | Plural | Englisch |
+|------|---------|--------|----------|
+| Schrank | der | ¨e | cupboard, wardrobe |
+| Kühlschrank | der | ¨e | refrigerator |
+| Sofa | das | -s | sofa |
+| Tisch | der | -e | table |
+| Stuhl | der | ¨e | chair |
+| Bett | das | -en | bed |
+| Fernseher | der | – | television set |
+| Dusche | die | -n | shower |
+| Herd | der | -e | stove, cooker |
+| Badewanne | die | -n | bathtub |
+| Teppich | der | -e | carpet, rug |
+| Sessel | der | – | armchair |
+| Möbel | die | (Pl.) | furniture |
+| Gerät | das | -e | appliance, device |
+
+## C2
+
+### Nomen
+
+| Deutsch | Artikel | Plural | Englisch |
+|------|---------|--------|----------|
+| Farbe | die | -n | color |
+
+### Verben
+
+| Deutsch | Englisch |
+|------|----------|
+| gefallen | to please, to be pleasing (to like) |
+| finden | to find, to think (have an opinion) |
+
+### Adjektive / Adverbien
+
+| Deutsch | Englisch |
+|------|----------|
+| ganz | quite, completely |
+| modern | modern |
+
+## C3
+
+### Adjektive / Adverbien
+
+| Deutsch | Englisch |
+|------|----------|
+| schwarz | black |
+| grau | gray |
+| weiß | white |
+| grün | green |
+| braun | brown |
+| blau | blue |
+| rot | red |
+| gelb | yellow |
+| hell- (+ Farbe) | light- (+ color) |
+| dunkel- (+ Farbe) | dark- (+ color) |
+
+## D2
+
+### Nomen
+
+| Deutsch | Artikel | Plural | Englisch |
+|------|---------|--------|----------|
+| Zentimeter (cm) | der | – | centimeter |
+
+### Adjektive / Adverbien
+
+| Deutsch | Englisch |
+|------|----------|
+| mal | times (multiplication) |
+
+## D3
+
+### Nomen
+
+| Deutsch | Artikel | Plural | Englisch |
+|------|---------|--------|----------|
+| Handy | das | -s | mobile phone, cell phone |
+| Arbeit | die | (Sg.) | work, job |
+
+## D4
+
+### Nomen
+
+| Deutsch | Artikel | Plural | Englisch |
+|------|---------|--------|----------|
+| Anzeige | die | -n | advertisement, ad |
+| Ehepaar | das | -e | married couple |
+| Garten | der | ¨ | garden |
+| Apartment | das | -s | apartment, studio |
+| Raum | der | ¨e | room, space |
+| Stock | der | (Sg.) | floor, story |
+| Anruf | der | -e | phone call |
+| TV | das | -s | TV |
+| Garage | die | -n | garage |
+| Quadratmeter (m² / qm) | der | – | square meter |
+| Miete | die | -n | rent |
+
+### Verben
+
+| Deutsch | Englisch |
+|------|----------|
+| suchen | to look for, to search |
+| vermieten | to rent out, to let |
+| bezahlen | to pay |
+
+### Adjektive / Adverbien
+
+| Deutsch | Englisch |
+|------|----------|
+| nett | nice, kind |
+| circa (ca.) | approximately, about |
+| privat | private(ly) |
+| ab | from, starting from |
+| sofort | immediately, right away |
+| maximal (max.) | maximum, at most |
 | möbliert | furnished |
-| privat | private |
-| der Monat | month |
+| nur | only |
+
+## E1
+
+### Nomen
+
+| Deutsch | Artikel | Plural | Englisch |
+|------|---------|--------|----------|
+| Computer | der | – | computer |
+| Schreibtisch | der | -e | desk |
+
+### Verben
+
+| Deutsch | Englisch |
+|------|----------|
+| verkaufen | to sell |
+
+### Adjektive / Adverbien
+
+| Deutsch | Englisch |
+|------|----------|
+| etwas | something |
+
+## E2
+
+### Nomen
+
+| Deutsch | Artikel | Plural | Englisch |
+|------|---------|--------|----------|
+| Meter (m) | der | – | meter |
+
+### Verben
+
+| Deutsch | Englisch |
+|------|----------|
+| sehen | to see |
+
+### Adjektive / Adverbien
+
+| Deutsch | Englisch |
+|------|----------|
+| heute | today |
+| Welche …? | Which …? |
+| also | so, well, therefore |
+| ungefähr | approximately, roughly |
+| lang | long |
+| genau | exact(ly) |
+
+## E3
+
+### Adjektive / Adverbien
+
+| Deutsch | Englisch |
+|------|----------|
+| hoch | high, tall |
+| morgen | tomorrow |
+
+## TIPP / Möbel (Bild)
+
+### Nomen
+
+| Deutsch | Artikel | Plural | Englisch |
+|------|---------|--------|----------|
+| Regal | das | -e | shelf, shelving unit |
+
+---
+
+UNSURE: none. All entries read clearly from the printed German. The handwritten English glosses on the Lektion 5 page (IMG_0794 bottom) were ignored as they belong to Lektion 5. The "der, das, die" line under A1 is a printed article-review entry (kept verbatim from the page). The numbered FOTO-HÖRGESCHICHTE list on IMG_0790 goes 1 … 3 with no printed item "2" (the layout skips it).
