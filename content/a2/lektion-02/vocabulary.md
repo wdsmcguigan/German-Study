@@ -39,11 +39,11 @@
 | hängen (hat gehangen) | to hang (be hanging) |
 | hängen (hat gehängt) | to hang (put up) |
 | kündigen | to cancel / give notice |
-| ab|schließen | to lock |
+| ab·schließen | to lock |
 | (sich) erhöhen | to increase |
 | entfernen | to remove |
 | heizen | to heat |
-| ab|stellen | to park / put down |
+| ab·stellen | to park / put down |
 
 ## Müll trennen (Waste Separation)
 
@@ -57,9 +57,9 @@
 | Plastik | das | plastic |
 | Bio | das | organic waste |
 | Bewohner / Bewohnerin | der / die | resident |
-| trennen | to separate | – |
-| beachten | to pay attention to | – |
-| ab|stellen | to place / park | – |
+| trennen | – | to separate |
+| beachten | – | to pay attention to |
+| ab·stellen | – | to place / park |
 
 ## Hausverwaltung / Mietvertrag
 
@@ -73,7 +73,7 @@
 | Frage | die | question |
 | Bitte | die | request |
 | Schicht | die | shift (work) |
-| Körnen (Pl.) | die | grains (heating pellets) |
+| Körner (Pl.) | die | grains (heating pellets) |
 | günstig | – | cheap / favourable |
 | ziemlich | – | quite / fairly |
 | recht haben | – | to be right |

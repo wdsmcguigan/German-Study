@@ -40,10 +40,10 @@
 
 | Deutsch | Englisch |
 |---------|----------|
-| aufführen (hat aufgeführt) | to perform |
+| auf·führen (hat aufgeführt) | to perform / to stage |
 | sonstig- | other / miscellaneous |
 | pensioniert sein | to be retired |
-| zukunftig | future (adj.) |
+| zukünftig | future (adj.) |
 
 ## A3
 
@@ -57,7 +57,7 @@
 
 | Deutsch | Englisch |
 |---------|----------|
-| vorlesen (du liest vor, er liest vor / hat vorgelesen) | to read aloud |
+| vor·lesen (du liest vor, er liest vor / hat vorgelesen) | to read aloud |
 | wöchentlich | weekly |
 | vernünftig | reasonable / sensible |
 
@@ -79,12 +79,12 @@
 | Deutsch | Englisch |
 |---------|----------|
 | beinahe | almost / nearly |
-| eintreten (du trittst ein, er tritt ein / ist eingetreten) | to join / enter |
+| ein·treten (du trittst ein, er tritt ein / ist eingetreten) | to join / to enter |
 | klettern (ist geklettert) | to climb |
 | jahrzehntelang | for decades |
 | solange | as long as |
 | versorgen (hat versorgt) | to provide for / supply |
-| hinweisen (hat hingewiesen) | to point out / refer to |
+| hin·weisen (hat hingewiesen) | to point out / refer to |
 
 ## D1
 
@@ -126,7 +126,7 @@
 
 | Deutsch | Englisch |
 |---------|----------|
-| einsetzen (sich) (hat sich eingesetzt) | to commit oneself / stand up for |
+| ein·setzen (sich) (hat sich eingesetzt) | to commit oneself / stand up for |
 
 ## D1
 

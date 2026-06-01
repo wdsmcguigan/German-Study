@@ -86,7 +86,7 @@
 
 | Deutsch | Englisch |
 |---------|----------|
-| an·stellen (sich) (hat sich angestellt) | to queue up |
+| sich an·stellen (hat sich angestellt) | to queue up / to get in line |
 | ein·fallen, dir fällt ein, ihm fällt ein (ist eingefallen) | to occur to / to come to mind |
 
 ## Virtuelle Welt (Wiederholung)
@@ -110,7 +110,7 @@
 | Deutsch | Englisch |
 |---------|----------|
 | installieren (hat installiert) | to install |
-| (he)runterladen (hat heruntergeladen) | to download |
+| (he)runter·laden (hat heruntergeladen) | to download |
 | löschen (hat gelöscht) | to delete |
 | an·schließen (hat angeschlossen) | to connect |
 
@@ -135,7 +135,7 @@
 | korrigieren (hat korrigiert) | to correct |
 | reinigen (hat gereinigt) | to clean |
 | wachsen (du wächst, er wächst / ist gewachsen) | to grow |
-| drehen (sich) (hat sich gedreht) | to turn / rotate |
+| (sich) drehen (hat gedreht) | to turn / to rotate |
 
 ## D1
 
@@ -156,7 +156,7 @@
 
 | Deutsch | Englisch |
 |---------|----------|
-| abstimmen (hat abgestimmt) | to vote / to agree |
+| ab·stimmen (hat abgestimmt) | to vote / to coordinate |
 
 ## D2 – D3
 
@@ -187,9 +187,9 @@
 
 | Deutsch | Englisch |
 |---------|----------|
-| weitermachen (hat weitergemacht) | to continue |
+| weiter·machen (hat weitergemacht) | to continue / to carry on |
 | entschlossen (sein) | to be determined |
 | schütteln (hat geschüttelt) | to shake |
-| aufhalten (du hältst auf, er hält auf / hat aufgehalten) | to stop / hold up |
+| auf·halten (du hältst auf, er hält auf / hat aufgehalten) | to stop / to hold up / to delay |
 | schlagen (du schlägst, er schlägt / hat geschlagen) | to hit / beat |
 | schweigen (hat geschwiegen) | to be silent |

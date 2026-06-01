@@ -62,7 +62,7 @@
 
 | Deutsch | Englisch |
 |---------|----------|
-| wehtun | to hurt / ache |
+| weh·tun | to hurt / ache |
 | schmerzen | to hurt / pain |
 | erkältet sein | to have a cold |
 | informieren | to inform |

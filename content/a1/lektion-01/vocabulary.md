@@ -31,7 +31,7 @@
 
 | Deutsch | Typ | Präteritum | Perfekt | Hilfsverb | Englisch |
 |---------|-----|------------|---------|-----------|----------|
-| heißen | regelmäßig | hieß | geheißen | haben | to be called |
+| heißen | stark | hieß | geheißen | haben | to be called |
 | kommen | stark | kam | gekommen | sein | to come |
 | sprechen | stark (e→i) | sprach | gesprochen | haben | to speak |
 | sein | unregelmäßig | war | gewesen | sein | to be |

@@ -17,7 +17,7 @@
 
 | Deutsch | Englisch |
 |---------|----------|
-| aufhören (hat aufgehört) | to stop / quit |
+| auf·hören (hat aufgehört) | to stop / quit |
 | genügen (hat genügt) | to be enough / suffice |
 | erwarten (hat erwartet) | to expect |
 
@@ -33,7 +33,7 @@
 
 | Deutsch | Englisch |
 |---------|----------|
-| zurechtkommen (ist zurechtgekommen) | to manage / cope |
+| zurecht·kommen (ist zurechtgekommen) | to manage / cope |
 
 ## A3 – Bewerbungsunterlagen
 
@@ -60,10 +60,10 @@
 
 | Deutsch | Englisch |
 |---------|----------|
-| feststellen (hat festgestellt) | to establish / determine |
+| fest·stellen (hat festgestellt) | to establish / determine |
 | gewohnt | accustomed to |
 | entwickeln (hat entwickelt) | to develop |
-| herstellen (hat hergestellt) | to produce / manufacture |
+| her·stellen (hat hergestellt) | to produce / manufacture |
 
 ## A4
 
@@ -88,8 +88,8 @@
 
 | Deutsch | Englisch |
 |---------|----------|
-| rechnen (hat berechnet) | to calculate |
-| beruhigen (sich) (hat beruhigt) | to calm down |
+| rechnen (hat gerechnet) | to calculate / to count |
+| (sich) beruhigen (hat beruhigt) | to calm down |
 
 ## B3 – Technische Kenntnisse
 
@@ -110,7 +110,7 @@
 | Deutsch | Englisch |
 |---------|----------|
 | jobben (hat gejobbt) | to work a casual job |
-| überlegen (sich) (hat überlegt) | to consider / think over |
+| sich überlegen (hat überlegt) | to consider / think over |
 | vertreten (du vertrittst, er vertritt) (hat vertreten) | to represent / deputise |
 
 ## C1

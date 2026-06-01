@@ -15,7 +15,7 @@
 | Deutsch | Englisch |
 |---------|----------|
 | virtuell | virtual |
-| (he)runterladen, du lädst herunter, er lädt herunter (hat heruntergeladen) | to download |
+| (he)runter·laden, du lädst herunter, er lädt herunter (hat heruntergeladen) | to download |
 | an·schließen (hat angeschlossen) | to connect / to plug in |
 | löschen (hat gelöscht) | to delete / to erase |
 
@@ -147,7 +147,7 @@
 
 | Deutsch | Englisch |
 |---------|----------|
-| auf·regen (sich) (hat aufgeregt) | to get upset / to get excited |
+| sich auf·regen (hat sich aufgeregt) | to get upset / to get worked up |
 
 ## E1 – Digitale Medien
 

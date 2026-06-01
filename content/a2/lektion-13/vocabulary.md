@@ -14,7 +14,7 @@
 | Summe | die | sum / total |
 | Kredit | der | credit / loan |
 | Bargeld | das | cash |
-| Brochüre | die | brochure |
+| Broschüre | die | brochure |
 | Gehalt | das | salary |
 | Gehaltskonto | das | salary account |
 
@@ -23,17 +23,17 @@
 | Deutsch | Englisch |
 |---------|----------|
 | verschieben (hat verschoben) | to postpone / move |
-| ab|heben (hat abgehoben) | to withdraw (money) |
-| ein|zahlen | to deposit |
-| über|weisen (hat überwiesen) | to transfer |
+| ab·heben (hat abgehoben) | to withdraw (money) |
+| ein·zahlen | to deposit |
+| überweisen (hat überwiesen) | to transfer (money) |
 | akzeptieren (hat akzeptiert) | to accept |
-| erledigten (hat erledigt) | to take care of / complete |
+| erledigen (hat erledigt) | to take care of / complete |
 | kontrollieren (hat kontrolliert) | to check / control |
 | überprüfen (hat überprüft) | to check / verify |
 | erkennen (hat erkannt) | to recognise |
 | schneiden (hat geschnitten) | to cut |
-| tippen | to type / tip |
-| kaputtgehen (ist kaputtgegangen) | to break / stop working |
+| tippen | to type / tap |
+| kaputt·gehen (ist kaputtgegangen) | to break / stop working |
 
 ## Auto und Reparatur
 

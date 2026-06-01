@@ -36,19 +36,19 @@
 
 | Deutsch | Englisch |
 |---------|----------|
-| ausfüllen | to fill in / complete |
+| aus·füllen | to fill in / complete |
 | unterschreiben | to sign |
 | beantragen | to apply for |
 | bezahlen | to pay |
-| mitbringen | to bring with |
-| vorzeigen | to show / present |
+| mit·bringen | to bring with |
+| vor·zeigen | to show / present |
 | funktionieren | to work / function |
 | erklären | to explain |
-| wählen | to choose / select |
+| wählen | to choose / select / dial |
 | parken | to park |
 | rauchen | to smoke |
-| zuhören | to listen |
-| warten | to wait |
+| zu·hören | to listen |
+| warten auf (+ Akk.) | to wait for |
 | helfen | to help |
 | reisen | to travel |
 
@@ -73,7 +73,7 @@
 | langsam | slowly |
 | zuerst | first |
 | dann | then |
-| danach | after |
+| danach | afterwards |
 | dringend | urgent |
 | männlich | male |
 | weiblich | female |

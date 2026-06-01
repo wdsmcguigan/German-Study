@@ -7,7 +7,7 @@
 | Mahlzeit | die | meal |
 | Honig | der | honey |
 | Marmelade | die | jam |
-| Schwesternfleisch | das | pork (lit. "sister meat") |
+| Schweinefleisch | das | pork |
 | Alkohol | der | alcohol |
 | Nachspeise | die | dessert |
 | Vorspeise | die | starter / appetiser |
@@ -67,7 +67,7 @@
 | Deutsch | Artikel | Englisch |
 |---------|---------|----------|
 | Frucht | die | fruit |
-| Mist | das (coll.) | dung / rubbish (expr.) |
+| Mist | der (coll.) | dung / rubbish (expr.) |
 | Prozent | das | percent |
 | Produkt | das | product |
 | Umgebung | die | surroundings / area |

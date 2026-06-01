@@ -20,7 +20,7 @@
 
 | Deutsch | Englisch |
 |---------|----------|
-| weg·sein (ist weg gewesen) | to be gone |
+| weg·sein (ist weggewesen) | to be gone |
 | erreichen (hat erreicht) | to reach / to achieve |
 | verwechseln (hat verwechselt) | to mix up / to confuse |
 
@@ -43,8 +43,8 @@
 
 | Deutsch | Englisch |
 |---------|----------|
-| befinden (hat befunden) | to be located / to find |
-| nach·denken (hat nachgedacht) | to think about / to reflect |
+| sich befinden (hat befunden) | to be located |
+| nach·denken über (+ Akk.) (hat nachgedacht) | to think about / to reflect |
 | aus·reichen (hat ausgereicht) | to be sufficient |
 | retten (hat gerettet) | to save / to rescue |
 | folgen (ist gefolgt) | to follow |
@@ -75,7 +75,7 @@
 | Deutsch | Artikel | Plural | Englisch |
 |---------|---------|--------|----------|
 | Einladung | die | -en | invitation |
-| Mejorenflier | der | – | – |
+| Mejorenflier | der | – | (unclear / likely OCR error) |
 | Trainer / Trainerin | der / die | – | trainer / coach |
 | Tor | das | -e | goal / gate |
 | Best | das | – | best |
@@ -134,7 +134,7 @@
 
 | Deutsch | Englisch |
 |---------|----------|
-| zu·stimmen (hat zugestimmt) | to agree |
+| zu·stimmen (+ Dat.) (hat zugestimmt) | to agree (with) |
 
 ## Die Zeitung (D1)
 

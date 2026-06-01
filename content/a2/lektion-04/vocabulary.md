@@ -15,7 +15,7 @@
 | Agentur | die | agency |
 | Aushilfsstelle | die | temporary job |
 | Zertifikat | das | certificate |
-| ausschalten | – | to switch off / exclude |
+| aus·schalten | – | to switch off / turn off (a device) |
 | notieren | – | to note down |
 | online | – | online |
 | regelmäßig | – | regularly |
@@ -57,22 +57,22 @@
 | Durchschnitt | der | average |
 | Export | der | export |
 | Import | der | import |
-| Freizeitend | das | leisure time |
+| Freizeit | die | leisure time |
 
 ## Verben
 
 | Deutsch | Englisch |
 |---------|----------|
 | berichten | to report |
-| bewerben (sich) | to apply |
+| sich bewerben | to apply |
 | präsentieren | to present |
 | schützen | to protect |
 | bluten | to bleed |
-| verletzen (sich) | to injure oneself |
+| sich verletzen | to injure oneself |
 | ohne | without |
 | möglich | possible |
 | mindestens | at least |
 | insgesamt | altogether |
-| mustig / mutig | brave / courageous |
+| mutig | brave / courageous |
 | gehören | to belong |
 | gelten | to be valid / apply |

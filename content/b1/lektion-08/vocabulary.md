@@ -157,7 +157,7 @@
 
 | Deutsch | Englisch |
 |---------|----------|
-| zusagen | to accept / to appeal to |
-| absagen | to cancel / to decline |
-| vorsagen | to prompt / to tell the answer |
-| vorhersagen | to predict / to forecast |
+| zu·sagen | to accept / to appeal to |
+| ab·sagen | to cancel / to decline |
+| vor·sagen | to prompt / to tell the answer |
+| vorher·sagen | to predict / to forecast |

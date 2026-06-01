@@ -34,17 +34,17 @@
 |---------|----------|
 | reparieren | to repair |
 | funktionieren | to work / function |
-| an|machen | to turn on |
-| aus|machen | to turn off |
-| auf|machen | to open |
-| zu|machen | to close |
+| an·machen | to turn on |
+| aus·machen | to turn off |
+| auf·machen | to open |
+| zu·machen | to close |
 | empfehlen | to recommend |
-| an|bieten | to offer |
+| an·bieten | to offer |
 | nähen | to sew |
 | duschen | to shower |
 | kopieren | to copy / photocopy |
-| aus|leihen | to borrow / lend |
-| zurück|rufen | to call back |
+| aus·leihen | to borrow / lend |
+| zurück·rufen | to call back |
 | hinterlassen | to leave (a message) |
 
 ## Dienstleistungen (Services)
@@ -80,5 +80,5 @@
 | der Fahrplan | timetable |
 | die Durchsage | announcement |
 | die Mitte | middle |
-| vorbereiten | to prepare |
+| vor·bereiten | to prepare |
 | der Kontext | context |

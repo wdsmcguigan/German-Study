@@ -74,7 +74,7 @@
 | sich wünschen | to wish (for oneself) |
 | wünschen | to wish |
 | schenken | to give as a gift |
-| einladen | to invite |
+| ein·laden | to invite |
 | organisieren | to organise |
 | besuchen | to visit |
 | erzählen | to tell |
@@ -102,6 +102,6 @@
 | letzt- | last |
 | nächst- | next |
 | bald | soon |
-| mit|machen | to participate / join in |
+| mit·machen | to participate / join in |
 | die Einladung | invitation |
 | der Grund | reason |

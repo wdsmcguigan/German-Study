@@ -60,7 +60,7 @@
 |---------|----------|
 | rühren (hat gerührt) | to stir |
 | trocknen (hat getrocknet) | to dry |
-| zubereiten (hat zubereitet) | to prepare (food) |
+| zu·bereiten (hat zubereitet) | to prepare (food) |
 | braten | to fry / roast |
 | rühren | to stir |
 | kochen | to cook |

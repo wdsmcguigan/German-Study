@@ -79,7 +79,7 @@
 | berufstätig sein | to be employed |
 | selbstständig sein | to be self-employed |
 | arbeitslos sein | to be unemployed |
-| bewerben (sich) | to apply |
+| sich bewerben um (+ Akk.) | to apply for |
 | bekommen | to get / receive |
 | verdienen | to earn |
 
@@ -96,7 +96,7 @@
 | die Vollzeit | full-time |
 | befristet | temporary / fixed-term |
 | pro Stunde | per hour |
-| die Nachfrage | inquiry |
+| die Nachfrage | demand / inquiry |
 | die Nachhilfe | tutoring |
 | die Aushilfe | temporary help |
 | dringend | urgent |

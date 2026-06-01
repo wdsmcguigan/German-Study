@@ -85,7 +85,7 @@
 | Deutsch | Englisch |
 |---------|----------|
 | kritisieren (hat kritisiert) | to criticize |
-| beschäftigen (hat beschäftigt) | to occupy / to keep busy |
+| (sich) beschäftigen (mit + Dat.) (hat beschäftigt) | to occupy / to deal with / to employ |
 | erfolgreich | successful |
 
 ## C1 – Arbeit / Lager
@@ -114,8 +114,8 @@
 
 | Deutsch | Englisch |
 |---------|----------|
-| einfallen (ist eingefallen) | to occur to someone |
-| zustimmen (hat zugestimmt) | to agree |
+| ein·fallen (+ Dat.) (ist eingefallen) | to occur to someone |
+| zu·stimmen (+ Dat.) (hat zugestimmt) | to agree (with) |
 | dafür | for it / in favour |
 
 ## D – Medien / Rundfunk
@@ -132,7 +132,7 @@
 | Deutsch | Englisch |
 |---------|----------|
 | stülpen (hat gestülpt) | to pull over / to turn inside out |
-| begegnen (ist begegnet) | to meet / to encounter |
+| begegnen (+ Dat.) (ist begegnet) | to meet / to encounter |
 
 ## Adjektive / Adverbien (D)
 

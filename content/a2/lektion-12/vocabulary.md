@@ -55,7 +55,7 @@
 | Ausstellung | die | exhibition |
 | Abstand | der | distance |
 | nirgends | – | nowhere |
-| inclusive | – | inclusive |
+| inklusive | – | inclusive / included |
 | natürlich | – | of course / natural |
 | surfen | – | to surf |
 | kaufen | – | to buy |
@@ -65,15 +65,15 @@
 | Deutsch | Englisch |
 |---------|----------|
 | buchen (hat gebucht) | to book |
-| ab|lehnen (hat abgelehnt) | to reject / decline |
+| ab·lehnen (hat abgelehnt) | to reject / decline |
 | faulenzen | to laze around |
 | übernachten (hat übernachtet) | to stay overnight |
 | genießen (hat genossen) | to enjoy |
-| entscheiden (sich) (hat entschieden) | to decide |
-| einigen (sich) | to agree |
-| erinnerst (sich) | to remember |
+| sich entscheiden (hat entschieden) | to decide |
+| sich einigen | to agree |
+| sich erinnern an (+ Akk.) | to remember |
 | überraschen | to surprise |
-| einnehmen | to take (medicine) / occupy |
+| ein·nehmen | to take (medicine) / occupy |
 | packen | to pack |
 
 ## Aktivitäten auf Reisen

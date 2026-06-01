@@ -41,8 +41,8 @@
 |---------|----------|
 | ausreichend | sufficient(ly) |
 | nachweislich | demonstrably / provably |
-| achten (hat geachtet) | to pay attention to |
-| erholen (hat erholt) | to recover / to rest |
+| achten auf (+ Akk.) (hat geachtet) | to pay attention to |
+| sich erholen (hat erholt) | to recover / to rest |
 
 ## A1
 
@@ -64,7 +64,7 @@
 | Deutsch | Englisch |
 |---------|----------|
 | auf·gehen (ist aufgegangen) | to go up / to rise |
-| im Gehen (ist umgegangen) | to deal with |
+| um·gehen mit (+ Dat.) (ist umgegangen) | to deal with / to handle |
 
 ## A2
 
@@ -76,9 +76,9 @@
 
 | Deutsch | Englisch |
 |---------|----------|
-| entspannen (hat entspannt) | to relax |
-| erholen (hat erholt) | to recover |
-| einschlafen (ist eingeschlafen) | to fall asleep |
+| sich entspannen (hat entspannt) | to relax |
+| sich erholen (hat erholt) | to recover |
+| ein·schlafen (ist eingeschlafen) | to fall asleep |
 
 ## Adjektive / Adverbien (A2)
 
@@ -124,7 +124,7 @@
 | verschwinden (ist verschwunden) | to disappear |
 | verschreiben (hat verschrieben) | to prescribe |
 | erhalten (hat erhalten) | to receive / to preserve |
-| futzen (hat gefutzt) | – |
+| futzen (hat gefutzt) | (unclear / likely OCR error) |
 
 ## D – Abnehmen / Gewicht
 
@@ -160,8 +160,8 @@
 |---------|----------|
 | impfen (hat geimpft) | to vaccinate |
 | treiben (hat getrieben) | to do (sport) / to drive |
-| teil·nehmen (hat teilgenommen) | to participate |
-| verzichten (hat verzichtet) | to do without / to forgo |
+| teil·nehmen an (+ Dat.) (hat teilgenommen) | to participate (in) |
+| verzichten auf (+ Akk.) (hat verzichtet) | to do without / to forgo |
 
 ## Adverbien (D2/D3)
 

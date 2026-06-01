@@ -33,7 +33,7 @@
 | Deutsch | Englisch |
 |---------|----------|
 | betrügen (hat betrogen) | to cheat / deceive |
-| anzeigen (hat angezeigt) | to report |
+| an·zeigen (hat angezeigt) | to report (to police) / to display |
 | bestrafen (hat bestraft) | to punish |
 | zerstören (hat zerstört) | to destroy |
 | stehlen (er stiehlt / hat gestohlen) | to steal |
@@ -55,10 +55,10 @@
 
 | Deutsch | Englisch |
 |---------|----------|
-| weggehen (ist weggegangen) | to leave / go away |
+| weg·gehen (ist weggegangen) | to leave / to go away |
 | behindern (hat behindert) | to hinder / obstruct |
 | endgültig | final / definitive |
-| aufgeben (du gibst auf, er gibt auf / hat aufgegeben) | to give up |
+| auf·geben (du gibst auf, er gibt auf / hat aufgegeben) | to give up |
 
 ## A3
 
@@ -73,8 +73,8 @@
 
 | Deutsch | Englisch |
 |---------|----------|
-| bemühen (sich) (hat sich bemüht) | to make an effort |
-| vornehmen (sich) (du nimmst dir vor / hat sich vorgenommen) | to resolve / plan to do |
+| sich bemühen (hat sich bemüht) | to make an effort / to try hard |
+| sich vor·nehmen (du nimmst dir vor / hat sich vorgenommen) | to resolve / to plan to do |
 | fest | firm / fixed |
 | realistisch | realistic |
 
@@ -92,7 +92,7 @@
 | Deutsch | Englisch |
 |---------|----------|
 | bereit | ready / prepared |
-| verspäten (sich) (hat sich verspätet) | to be late |
+| sich verspäten (hat sich verspätet) | to be late / to be delayed |
 
 ## E1 – Speisewagen
 
@@ -105,8 +105,8 @@
 | Deutsch | Englisch |
 |---------|----------|
 | minutenlang | for minutes on end |
-| weigern (sich) (hat sich geweigert) | to refuse |
-| zuschauen (hat zugeschaut) | to watch |
+| sich weigern (hat sich geweigert) | to refuse |
+| zu·schauen (hat zugeschaut) | to watch / to look on |
 | unerträglich | unbearable |
 | absolut | absolute / completely |
 | eindeutig | clear / unambiguous |
@@ -124,7 +124,7 @@
 |---------|----------|
 | eilig | urgent / in a hurry |
 | überqueren (hat überquert) | to cross |
-| vorkommen (ist vorgekommen) | to occur / happen |
+| vor·kommen (ist vorgekommen) | to occur / to happen |
 
 ## D2
 
@@ -152,7 +152,7 @@
 
 | Deutsch | Englisch |
 |---------|----------|
-| verhalten (sich) (hat sich verhalten) | to behave |
+| sich verhalten (hat sich verhalten) | to behave |
 | beleidigen (hat beleidigt) | to insult / offend |
 | behaupten (hat behauptet) | to claim / assert |
 | beweisen (hat bewiesen) | to prove |

@@ -24,7 +24,7 @@
 
 | Deutsch | Englisch |
 |---------|----------|
-| zubereiten (hat zubereitet) | to prepare (food) |
+| zu·bereiten (hat zubereitet) | to prepare (food) |
 | passen (hat gepasst) | to fit / suit |
 | geschehen (ist geschehen) | to happen |
 | körperlich | physical / bodily |

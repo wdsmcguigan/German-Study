@@ -35,7 +35,7 @@
 | Mail | die | email |
 | Mailbox | die | mailbox |
 | Bericht | der | report |
-| melden (sich) | – | to report / register |
+| sich melden | – | to report / get in touch |
 | weltweit | – | worldwide |
 | monatlich | – | monthly |
 | Grippe | die | flu |
@@ -61,11 +61,11 @@
 |---------|----------|
 | was für ein...? | what kind of...? |
 | testen (hat getestet) | to test |
-| Punkt | der | point / dot |
-| Gegenteil | das | opposite |
-| Streit | der | argument / dispute |
-| Ehemann / Ehefrau | der / die | husband / wife |
-| Paar | das | couple |
-| Erziehung | die | upbringing / education |
-| Meinung | die | opinion |
-| Ratschlag | der | advice |
+| der Punkt | point / dot |
+| das Gegenteil | opposite |
+| der Streit | argument / dispute |
+| der Ehemann / die Ehefrau | husband / wife |
+| das Paar | couple |
+| die Erziehung | upbringing / education |
+| die Meinung | opinion |
+| der Ratschlag | advice |

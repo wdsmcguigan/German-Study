@@ -23,9 +23,9 @@
 | Deutsch | Englisch |
 |---------|----------|
 | lösen (Problem) (hat gelöst) | to solve |
-| lohnen (sich) (hat gelohnt) | to be worth it |
+| sich lohnen (hat gelohnt) | to be worth it |
 | besitzen (hat besessen) | to own / possess |
-| entschließen (sich) (hat entschlossen) | to decide / resolve |
+| sich entschließen (hat entschlossen) | to decide / resolve |
 
 ## Ellas Kolumne
 
@@ -79,7 +79,7 @@
 |---------|----------|
 | gründen (hat gegründet) | to found / establish |
 | betreuen (hat betreut) | to look after / care for |
-| gewöhnen (sich) (hat gewohnt) | to get used to |
+| sich gewöhnen an (+ Akk.) (hat gewöhnt) | to get used to |
 | pflegen (hat gepflegt) | to care for / maintain |
 
 ## A4
@@ -136,7 +136,7 @@
 
 | Deutsch | Englisch |
 |---------|----------|
-| wiederkommen (ist wiedergekommen) | to come back / return |
+| wieder·kommen (ist wiedergekommen) | to come back / return |
 
 ## D2
 
@@ -157,7 +157,7 @@
 | Deutsch | Englisch |
 |---------|----------|
 | begrüßen (hat begrüßt) | to greet / welcome |
-| verabschieden (sich) (hat verabschiedet) | to say goodbye |
+| (sich) verabschieden (hat verabschiedet) | to say goodbye |
 
 ## E – Reklamation
 

@@ -86,11 +86,11 @@
 
 | Deutsch | Englisch |
 |---------|----------|
-| abfahren | to depart |
-| ankommen | to arrive |
-| einsteigen | to board / get on |
-| aussteigen | to get off |
-| umsteigen | to change (transport) |
+| ab·fahren | to depart |
+| an·kommen | to arrive |
+| ein·steigen | to board / get on |
+| aus·steigen | to get off |
+| um·steigen | to change (transport) |
 | fliegen | to fly |
 | laufen / gehen | to walk |
 | fahren | to go (by vehicle) |

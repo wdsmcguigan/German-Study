@@ -4,11 +4,11 @@
 
 | Deutsch | Englisch |
 |---------|----------|
-| anschauen / ansehen | to look at |
+| an·schauen / an·sehen | to look at |
 | hören | to listen |
 | noch einmal | once more |
-| ankreuzen | to cross / tick |
-| zuordnen | to match / assign |
+| an·kreuzen | to tick / mark with a cross |
+| zu·ordnen | to match / assign |
 | ergänzen | to fill in / complete |
 | machen | to do / make |
 | sprechen | to speak |

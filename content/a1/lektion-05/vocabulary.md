@@ -4,22 +4,22 @@
 
 | Deutsch | Englisch |
 |---------|----------|
-| aufstehen | to get up |
+| auf·stehen | to get up |
 | frühstücken | to have breakfast |
-| einkaufen | to go shopping |
+| ein·kaufen | to go shopping |
 | kochen | to cook |
 | arbeiten | to work |
 | lernen | to learn / study |
 | hören | to listen |
 | lesen | to read |
 | spielen | to play |
-| fernsehen | to watch TV |
+| fern·sehen | to watch TV |
 | schlafen | to sleep |
 | spazieren gehen | to go for a walk |
-| aufräumen | to tidy up |
-| anrufen | to call (phone) |
-| abholen | to pick up |
-| anfangen | to begin |
+| auf·räumen | to tidy up |
+| an·rufen | to call (phone) |
+| ab·holen | to pick up |
+| an·fangen | to begin |
 | chatten | to chat (online) |
 | trinken | to drink |
 | essen | to eat |
@@ -54,7 +54,7 @@
 | halb | half |
 | vor | before |
 | nach | after |
-| Wieviel Uhr ist es? | What time is it? |
+| Wie viel Uhr ist es? | What time is it? |
 | Es ist ... Uhr. | It is ... o'clock. |
 | kurz vor / nach | shortly before / after |
 

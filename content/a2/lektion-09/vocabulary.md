@@ -65,8 +65,8 @@
 | Hut | der | hat |
 | Liebe | die | love (for a person) |
 | sparen | – | to save (money) |
-| auf|nehmen | – | to take up / take out (loan) |
-| vor|schlagen | – | to suggest |
+| auf·nehmen | – | to take up / take out (loan) |
+| vor·schlagen | – | to suggest |
 | entfernen | – | to remove |
 | manch- | – | some / many a |
 | erzählen | – | to tell / narrate |

@@ -44,11 +44,11 @@
 | Deutsch | Englisch |
 |---------|----------|
 | reagieren | to react |
-| mit|spielen | to join in / play along |
-| aus|gehen | to go out |
+| mit·spielen | to join in / play along |
+| aus·gehen | to go out |
 | unternehmen | to do / undertake |
-| aus|schalten | to switch off |
-| auf|treten | to perform |
+| aus·schalten | to switch off |
+| auf·treten | to perform |
 
 ## Aktivitäten am Wochenende
 

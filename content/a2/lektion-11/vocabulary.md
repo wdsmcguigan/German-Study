@@ -33,9 +33,9 @@
 | entlang | along |
 | vorbei | past |
 | gegenüber | opposite |
-| ab|biegen | to turn off |
+| ab·biegen | to turn off |
 | überholen (hat überholt) | to overtake |
-| auf|fallen (ist aufgefallen) | to be noticeable |
+| auf·fallen (ist aufgefallen) | to be noticeable |
 | bremsen (hat gebremst) | to brake |
 | hupen (hat gehupt) | to honk |
 | starten (ist gestartet) | to start |
@@ -62,8 +62,8 @@
 | Startbahn | die | runway |
 | Chaos | das | chaos |
 | Situation | die | situation |
-| niebig / niedrig | – | low |
-| sorgen für | – | to take care of / cause |
+| niedrig | – | low |
+| sorgen für (+ Akk.) | – | to take care of / see to |
 
 ## Zoo und Tiere
 
@@ -72,5 +72,5 @@
 | Zoo | der | zoo |
 | Zebra | das | zebra |
 | Tiger | der | tiger |
-| Kopiererin | die | photocopier / copy machine |
+| Kopierer | der | photocopier / copy machine |
 | Cafeteria | die | cafeteria |

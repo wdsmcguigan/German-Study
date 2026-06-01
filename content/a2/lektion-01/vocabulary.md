@@ -5,23 +5,23 @@
 | Deutsch | Artikel | Englisch |
 |---------|---------|----------|
 | glücklich | – | happy |
-| ansehen | – | to look at |
+| an·sehen | – | to look at |
 | Nachbar / Nachbarin | der / die | neighbour |
 | Einkauf | der | shopping / purchase |
 | Zentrum | das | centre / downtown |
 | Arbeitgeber / Arbeitgeberin | der / die | employer |
 | Umzug | der | move / moving house |
 | Sachen | die (Pl.) | things / stuff |
-| aus|packen | – | to unpack |
-| ein|schlafen | – | to fall asleep |
+| aus·packen | – | to unpack |
+| ein·schlafen | – | to fall asleep |
 | Wecker | der | alarm clock |
 | merken | – | to notice / realise |
 | Arbeitstag | der | working day |
 | klingen | – | to sound |
-| ein|leben (sich) | – | to settle in |
+| sich ein·leben | – | to settle in |
 | bemerken | – | to notice |
 | vermissen | – | to miss |
-| verloren|gehen | – | to get lost |
+| verloren·gehen | – | to get lost |
 
 ## Familie und Verwandte (Extended Family)
 
@@ -53,7 +53,7 @@
 | bisher | – | so far / until now |
 | verschieden | – | different / various |
 | Mieter / Mieterin | der / die | tenant |
-| ein|ziehen | – | to move in |
+| ein·ziehen | – | to move in |
 | Mal | das | time (occasion) |
 | Hälfte | die | half |
 | jemand | – | someone |

@@ -97,7 +97,7 @@
 
 | Deutsch | Englisch |
 |---------|----------|
-| los|gehen | to set off |
+| los·gehen | to set off |
 | vergessen | to forget |
 | der Durst | thirst |
 | der Hunger | hunger |

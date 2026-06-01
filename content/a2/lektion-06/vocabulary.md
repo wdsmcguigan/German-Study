@@ -50,7 +50,7 @@
 | Wunsch | der | wish |
 | Plan | der | plan |
 | Astronaut / Astronautin | der / die | astronaut |
-| Schauspiele/r/-in | der / die | actor / actress |
+| Schauspieler / Schauspielerin | der / die | actor / actress |
 | Bäcker / Bäckerin | der / die | baker |
 
 ## Verben (Verbs)
@@ -63,13 +63,13 @@
 | kompliziert | complicated |
 | freiwillig | voluntary |
 | intelligent | intelligent |
-| spechen (hat gesprochen) | to speak |
+| sprechen (hat gesprochen) | to speak |
 | markieren | to mark / highlight |
-| bewerben (sich) | to apply |
+| sich bewerben | to apply |
 | präsentieren | to present |
-| vorstellen (sich) | to introduce oneself |
-| zuhören | to listen |
-| mitmachen | to join in / participate |
+| sich vor·stellen | to introduce oneself |
+| zu·hören | to listen |
+| mit·machen | to join in / participate |
 | prüfen | to check / test |
 | hatten | to have (Präteritum) |
 

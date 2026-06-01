@@ -13,7 +13,7 @@
 | Deutsch | Englisch |
 |---------|----------|
 | lächeln (hat gelächelt) | to smile |
-| vorhaben (hat vorgehabt) | to intend / plan |
+| vor·haben (hat vorgehabt) | to intend / plan |
 
 ## Adverbien / Wörter (Foto-Hörgeschichte / Ellas Kolumne)
 
@@ -39,7 +39,7 @@
 |---------|----------|
 | lügen (hat gelogen) | to lie |
 | beenden (hat beendet) | to end / finish |
-| aussuchen (hat ausgesucht) | to choose / pick out |
+| aus·suchen (hat ausgesucht) | to choose / pick out |
 
 ## A4
 
@@ -80,7 +80,7 @@
 
 | Deutsch | Englisch |
 |---------|----------|
-| aufschreiben (hat aufgeschrieben) | to write down |
+| auf·schreiben (hat aufgeschrieben) | to write down |
 | darum | therefore / that's why |
 
 ## C1
@@ -116,9 +116,9 @@
 
 | Deutsch | Englisch |
 |---------|----------|
-| verstecken (sich) (hat versteckt) | to hide |
+| (sich) verstecken (hat versteckt) | to hide |
 | wählen (hat gewählt) | to choose / elect |
-| stammen | to come from / originate |
+| stammen aus (+ Dat.) | to come from / to originate |
 
 ## Adjektive / Adverbien (D)
 
@@ -157,7 +157,7 @@
 |---------|----------|
 | leiden (hat gelitten) | to suffer |
 | mischen (hat gemischt) | to mix |
-| bestehen (auf) (hat bestanden) | to insist on |
+| bestehen auf (+ Dat.) (hat bestanden) | to insist on |
 | vergleichen (hat verglichen) | to compare |
 | schimpfen (hat geschimpft) | to scold / grumble |
 

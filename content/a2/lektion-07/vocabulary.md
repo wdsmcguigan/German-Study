@@ -9,7 +9,7 @@
 | Kirche | die | church |
 | Feier | die | celebration / party |
 | Stimmung | die | mood / atmosphere |
-| Leutte (Pl.) | die | people |
+| Leute (Pl.) | die | people |
 | persönlich | – | personal |
 | Herz | das | heart |
 | blöd | – | stupid / silly |
@@ -33,7 +33,7 @@
 | Creme | die | cream |
 | Schokolade | die | chocolate |
 | Praline | die | chocolate praline |
-| Geldböse / Geldbeutel | der | wallet / purse |
+| Geldbörse / Geldbeutel | der | wallet / purse |
 | DVD | die | DVD |
 | Buch | das | book |
 | SMS | die | text message |
@@ -50,12 +50,12 @@
 | dekorieren | to decorate |
 | (sich) unterhalten | to converse / entertain |
 | überzeugen | to convince |
-| aus|geben | to spend (money) |
-| vor|bereiten (sich) | to prepare |
+| aus·geben | to spend (money) |
+| sich vor·bereiten | to prepare |
 | betragen | to amount to |
-| entscheiden | to decide |
+| sich entscheiden | to decide |
 | drücken | to press / squeeze |
-| aus|drücken | to express |
+| aus·drücken | to express |
 
 ## Ausdrücke und Wünsche
 

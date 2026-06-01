@@ -68,9 +68,9 @@
 | malen | to paint |
 | üben | to practise |
 | schmecken | to taste |
-| mitkommen | to come along |
-| losfahren | to set off |
-| zurückkommen | to come back |
+| mit·kommen | to come along |
+| los·fahren | to set off / depart |
+| zurück·kommen | to come back |
 
 ## Adjektive / Sonstiges
 

@@ -186,7 +186,7 @@
 
 | Deutsch | Englisch |
 |---------|----------|
-| vergrößern (sich) (hat vergrößert) | to enlarge / to grow |
+| (sich) vergrößern (hat vergrößert) | to enlarge / to grow |
 | längst | long since / for a long time |
 | trotz | despite / in spite of |
 | gleich- | same / equal / immediately |

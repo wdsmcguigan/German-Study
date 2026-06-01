@@ -9,7 +9,7 @@
 | Tischtennis | das | table tennis |
 | Volleyball | der | volleyball |
 | Eishockey | das | ice hockey |
-| Gymnastics | die Gymnastik | gymnastics |
+| Gymnastik | die | gymnastics |
 | Tanz | der | dance |
 | Wandern | das | hiking |
 | Schwimmen | das | swimming |
@@ -28,7 +28,7 @@
 | Ernährung | die | nutrition / diet |
 | Bewegung | die | movement / exercise |
 | Spaziergang | der | walk |
-| Ursche | die | cause / reason |
+| Ursache | die | cause / reason |
 | Krankheit | die | illness |
 | Körper | der | body |
 | Untersuchung | die | examination / check-up |
@@ -63,8 +63,8 @@
 | (sich) rasieren | to shave |
 | (sich) kämmen | to comb |
 | (sich) waschen | to wash (oneself) |
-| (sich) anziehen | to get dressed |
-| (sich) umziehen | to get changed |
+| (sich) an·ziehen | to get dressed |
+| (sich) um·ziehen | to get changed |
 | (sich) setzen | to sit down |
 | (sich) konzentrieren | to concentrate |
 | (sich) beeilen | to hurry |
@@ -78,8 +78,8 @@
 
 | Deutsch | Englisch |
 |---------|----------|
-| (sich) freuen | to be happy about |
-| (sich) ärgern | to be annoyed |
+| (sich) freuen über (+ Akk.) | to be happy about |
+| (sich) ärgern über (+ Akk.) | to be annoyed (about) |
 | das Gold | gold |
 | die Saison | season |
 | die Ferien (Pl.) | holidays |

@@ -21,13 +21,13 @@
 | Deutsch | Englisch |
 |---------|----------|
 | sterben (ist gestorben) | to die |
-| verleben (sich) | to fall in love |
+| sich verlieben | to fall in love |
 | wohnen | to live |
-| kennenlernen | to get to know |
+| kennen·lernen | to get to know |
 | heiraten | to marry |
-| scheiden (sich) | to divorce |
-| umziehen | to move house |
-| aufwachsen (ist aufgewachsen) | to grow up |
+| sich scheiden lassen | to get divorced |
+| um·ziehen | to move house |
+| auf·wachsen (ist aufgewachsen) | to grow up |
 | zufällig | by chance |
 | einzig | only / sole |
 | egal | all the same / doesn't matter |
@@ -43,7 +43,7 @@
 | Märchen | das | fairy tale |
 | Raucher | der | smoker |
 | Lehre | die | apprenticeship |
-| Quatch | der (coll.) | nonsense |
+| Quatsch | der (coll.) | nonsense |
 
 ## Adjektive und Ausdrücke
 
@@ -64,11 +64,11 @@
 
 | Deutsch | Englisch |
 |---------|----------|
-| Ratschlag | der | advice |
-| Meinung | die | opinion |
-| Gegenteil | das | opposite |
-| Streit | der | argument |
-| Paar | das | couple |
-| sprechen über | to talk about |
-| denken an | to think about |
-| ankommen auf | to depend on |
+| der Ratschlag | advice |
+| die Meinung | opinion |
+| das Gegenteil | opposite |
+| der Streit | argument |
+| das Paar | couple |
+| sprechen über (+ Akk.) | to talk about |
+| denken an (+ Akk.) | to think about |
+| an·kommen auf (+ Akk.) | to depend on |
