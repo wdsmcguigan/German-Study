@@ -1,74 +1,108 @@
 # Wortschatz – Lektion 14: Lebensstationen
 
-## Lebensphasen (Life Stages)
+## A — A1
 
-| Deutsch | Artikel | Englisch |
-|---------|---------|----------|
-| Kindheit | die | childhood |
-| Jugend | die | youth |
-| Zukunft | die | future |
-| Entscheidung | die | decision |
-| Umfrage | die | survey |
-| Lebensstationen (Pl.) | die | stages of life |
-| Haustier | das | pet |
-| Maus | die | mouse |
-| Ratte | die | rat |
-| Kosten (Pl.) | die | costs |
-| Konsequenz | die | consequence |
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
+| Umfrage | die | -n | survey / poll |
+| Zukunft | die | – (Sg.) | future |
+| Entscheidung | die | -en | decision |
+| Kindheit | die | -en | childhood |
 
-## Verben (Life Events)
+### Verben (A1)
 
 | Deutsch | Englisch |
 |---------|----------|
-| sterben (ist gestorben) | to die |
-| sich verlieben | to fall in love |
-| wohnen | to live |
-| kennen·lernen | to get to know |
-| heiraten | to marry |
-| sich scheiden lassen | to get divorced |
-| um·ziehen | to move house |
-| auf·wachsen (ist aufgewachsen) | to grow up |
-| zufällig | by chance |
-| einzig | only / sole |
+| sterben, du stirbst, er stirbt (ist gestorben) | to die |
+
+### Adjektive / Adverbien (A1)
+
+| Deutsch | Englisch |
+|---------|----------|
+| kaum | hardly |
+
+## A (Fortsetzung) – A4
+
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
+| Quatsch | der | – (Sg.) | nonsense |
+| Lehre | die | -n | apprenticeship |
+| Lokal | das | -e | pub / restaurant |
+
+### Verben (A2/A3)
+
+| Deutsch | Englisch |
+|---------|----------|
+| sich verlieben (hat sich verliebt) | to fall in love |
+
+### Adjektive / Adverbien (A2–A4)
+
+| Deutsch | Englisch |
+|---------|----------|
+| nebenan | next door |
+| zufällig | by chance / accidentally |
+| seitdem | since then |
+| einzig- | only / sole |
+
+## B — B1, B2, B4
+
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
+| Gegenteil | das | -e | opposite |
+| Streit | der | – (Sg.) | argument / quarrel |
+| Paar | das | -e | couple / pair |
+| Erziehung | die | – (Sg.) | upbringing / education |
+| Meinung | die | -en | opinion |
+
+### Adjektive / Adverbien (B)
+
+| Deutsch | Englisch |
+|---------|----------|
 | egal | all the same / doesn't matter |
-| gegenüber | opposite / towards |
-| nebenbei | on the side |
 
-## Personen und Beziehungen
+## C — C2
 
-| Deutsch | Artikel | Englisch |
-|---------|---------|----------|
-| Partner / Partnerin | der / die | partner |
-| Raucher / Raucherin | der / die | smoker |
-| Märchen | das | fairy tale |
-| Raucher | der | smoker |
-| Lehre | die | apprenticeship |
-| Quatsch | der (coll.) | nonsense |
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
+| Ratschlag | der | ¨e | piece of advice |
 
-## Adjektive und Ausdrücke
+## D — D1, D3, D4
+
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
+| Maus | die | ¨e | mouse |
+| Raucher | der | – | smoker (m.) |
+| Raucherin | die | -nen | smoker (f.) |
+| Märchen | das | – | fairy tale |
+| Einfall | der | ¨e | idea / notion |
+| Welt | die | -en | world |
+
+### Verben (D4)
 
 | Deutsch | Englisch |
 |---------|----------|
-| kaum | hardly / scarcely |
-| dankbar | grateful |
-| zufällig | by chance / random |
-| bequem | comfortable |
-| ernst | serious |
+| an·sprechen (hat angesprochen) | to address / speak to |
+| danken (hat gedankt) | to thank |
+
+### Adjektive / Adverbien (D)
+
+| Deutsch | Englisch |
+|---------|----------|
+| eher | rather / more likely |
 | populär | popular |
-| eher | more likely / rather |
-| damals | back then |
-| lieb | dear / kind |
-| typisch | typical |
+| dankbar | grateful |
 
-## Zukunftsaussagen
+## E — E1, E2
+
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
+| Haustier | das | -e | pet |
+
+### Adjektive / Adverbien (E)
 
 | Deutsch | Englisch |
 |---------|----------|
-| der Ratschlag | advice |
-| die Meinung | opinion |
-| das Gegenteil | opposite |
-| der Streit | argument |
-| das Paar | couple |
-| sprechen über (+ Akk.) | to talk about |
-| denken an (+ Akk.) | to think about |
-| an·kommen auf (+ Akk.) | to depend on |
+| ernst | serious |
+| bequem | comfortable |
+
+> UNSURE / NOTE: Lesson is COMPLETE — pages 50–52 (LWS Lektion 14) cover the intro "Auf der Bank" block plus sections A–E, and p. 52 ends with a summary/sign box, so nothing is cut off (IMG_0899 not needed; IMG_0900+ are Grammatikübersicht, excluded). All entries are from the PRINTED German; the source only had the learner's handwritten English glosses, so English here uses standard equivalents. The p. 52 summary sign and TIPP boxes (die Bestätigung, die Besprechung, das Brötchen, das Märchen) repeat earlier items / illustrate the -ung/-chen rule and are not separate printed-label entries, so they are not listed again.
