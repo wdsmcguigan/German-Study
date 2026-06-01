@@ -1,192 +1,195 @@
 # Wortschatz – Lektion 3: Gesund bleiben
 
-## Foto-Hörgeschichte
+## FOTO-HÖRGESCHICHTE
 
 | Deutsch | Artikel | Plural | Englisch |
 |---------|---------|--------|----------|
-| Figur | die | -en | figure / character |
-| Charakter | der | -e | character |
-| Abenteuer | das | – | adventure |
-| Kino | das | -s | cinema |
-| Serie | die | -n | series |
-| Rundfunk | der | – (Sg.) | radio / broadcasting |
-| Bundespolitik (Sg.) | die | – | federal politics |
+| Magen | der | ¨ | stomach |
 
-## Ellas Kolumne (Lektion 3)
+| Deutsch | Englisch |
+|---------|----------|
+| überreden (hat überredet) | to persuade |
+| vereinbaren (hat vereinbart) | to arrange / to agree on |
+
+## ELLAS KOLUMNE
 
 | Deutsch | Artikel | Plural | Englisch |
 |---------|---------|--------|----------|
-| Schaf (Sg.) | das | -e | sheep |
+| Mittel | das | – | remedy / means |
+| Schlaf | der | – (Sg.) | sleep |
 | Faktor | der | -en | factor |
-
-## Adjektive / Adverbien (Ellas Kolumne)
 
 | Deutsch | Englisch |
 |---------|----------|
 | nachts | at night |
 
-## A – Grundlage / Bewegung
+## A
 
 | Deutsch | Artikel | Plural | Englisch |
 |---------|---------|--------|----------|
 | Grundlage | die | -n | basis / foundation |
-| Wirkung | die | -en | effect |
-| Kraft | die | -¨e | strength / force |
-| Mangel | der | -¨ | lack / deficiency |
-| Ergebnis | das | -se | result |
-
-## Verben (A)
+| Fett | das | -e | fat |
 
 | Deutsch | Englisch |
 |---------|----------|
 | ausreichend | sufficient(ly) |
-| nachweislich | demonstrably / provably |
-| achten auf (+ Akk.) (hat geachtet) | to pay attention to |
-| sich erholen (hat erholt) | to recover / to rest |
+| achten (hat geachtet) | to pay attention |
+| ideal | ideal |
+| ebenfalls | likewise / also |
 
 ## A1
 
 | Deutsch | Artikel | Plural | Englisch |
 |---------|---------|--------|----------|
-| Bach | der | -¨e | stream / brook |
-
-## Adjektive / Adverbien (A1)
-
-| Deutsch | Englisch |
-|---------|----------|
-| gleichzeitig | simultaneously |
-| stressig | stressful |
-| ebenfalls | likewise / also |
-| ideal | ideal |
-
-## Verben (A1)
+| Wirkung | die | -en | effect |
+| Kraft | die | ¨e | strength / force |
+| Ergebnis | das | -se | result |
 
 | Deutsch | Englisch |
 |---------|----------|
-| auf·gehen (ist aufgegangen) | to go up / to rise |
-| um·gehen mit (+ Dat.) (ist umgegangen) | to deal with / to handle |
+| atmen (hat geatmet) | to breathe |
+| flach | flat / shallow |
+| öfter | more often |
+| gleichzeitig | at the same time / simultaneously |
+| erschöpft | exhausted |
+| um·gehen (ist umgegangen) | to deal with / to handle |
 
 ## A2
 
 | Deutsch | Artikel | Plural | Englisch |
 |---------|---------|--------|----------|
-| Ergebnis | das | -se | result |
-
-## Verben (A2)
+| Mangel | der | ¨ | lack / deficiency |
 
 | Deutsch | Englisch |
 |---------|----------|
-| sich entspannen (hat entspannt) | to relax |
-| sich erholen (hat erholt) | to recover |
-| ein·schlafen (ist eingeschlafen) | to fall asleep |
+| auf·wachen (ist aufgewacht) | to wake up |
+| extrem | extreme(ly) |
 
-## Adjektive / Adverbien (A2)
+## A4
 
 | Deutsch | Englisch |
 |---------|----------|
-| extrem | extreme |
-| aufgewacht | woken up |
-| wach | awake |
+| messen, du misst, er misst (hat gemessen) | to measure |
+| ab·nehmen, du nimmst ab, er nimmt ab (hat abgenommen) | to take off / to draw (blood) |
+| untersuchen (hat untersucht) | to examine |
 
-## B1 – Verbesserung / Sport
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
+| Gewicht | das | – (Sg.) | weight |
+
+## A5
+
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
+| Abfalleimer | der | – | rubbish bin / waste basket |
+
+## B1
 
 | Deutsch | Artikel | Plural | Englisch |
 |---------|---------|--------|----------|
 | Verbesserung | die | -en | improvement |
-| Einnahme | die | -n | taking / intake (of medicine) |
-
-## B (allgemein)
+| Einnahme | die | – (Sg.) | intake / taking (of medication) |
+| Fachmann | der | ¨er | expert / specialist |
 
 | Deutsch | Englisch |
 |---------|----------|
-| solch | such |
-| zunächst | first / initially |
+| solch- | such |
 
-## B2 – Fachmann / Schüler
-
-| Deutsch | Artikel | Plural | Englisch |
-|---------|---------|--------|----------|
-| Fachmann | der | -¨er / Fachleute | specialist / expert |
-| Schüler / Schülerin | der / die | – | pupil / student |
-
-## C – Schmerzmittel / Arzt
+## B2
 
 | Deutsch | Artikel | Plural | Englisch |
 |---------|---------|--------|----------|
-| Störung | die | -en | disturbance / disorder |
+| Schulter | die | -n | shoulder |
+
+| Deutsch | Englisch |
+|---------|----------|
+| zunächst | first of all / initially |
+
+## C1
+
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
+| Störung | die | -en | disorder / disturbance |
 | Schmerzmittel | das | – | painkiller |
 
-## Verben (C)
-
 | Deutsch | Englisch |
 |---------|----------|
-| vermuten (hat vermutet) | to suspect / to assume |
-| verschwinden (ist verschwunden) | to disappear |
-| verschreiben (hat verschrieben) | to prescribe |
-| erhalten (hat erhalten) | to receive / to preserve |
+| vermuten (hat vermutet) | to suspect / to presume |
 | führen (hat geführt) | to lead / to conduct |
-
-## D – Abnehmen / Gewicht
-
-| Deutsch | Englisch |
-|---------|----------|
-| messen (du misst, er misst, hat gemessen) | to measure |
-| ab·nehmen (hat abgenommen) | to lose weight / to take off |
+| verschreiben (hat verschrieben) | to prescribe |
+| erhalten (hat erhalten) | to receive |
 
 ## D1
 
-| Deutsch | Artikel | Plural | Englisch |
-|---------|---------|--------|----------|
-| Gewicht | das | -e | weight |
-| Bauch | der | -¨e | stomach / belly |
-| Abdomen | das | – | abdomen |
-| Allee | die | -n | avenue |
+| Deutsch | Englisch |
+|---------|----------|
+| ab·nehmen, du nimmst ab, er nimmt ab (hat abgenommen) | to lose weight |
 
-## D2 – Kurse / Impfen
+## D
 
 | Deutsch | Artikel | Plural | Englisch |
 |---------|---------|--------|----------|
-| Leistung | die | -en | performance / achievement |
-| Viertel | das | – | quarter |
-| Drittel | das | – | third |
-| Hälfte | die | -n | half |
-| Frucht | die | -¨e | fruit |
-| Quark | der | – (Sg.) | quark (fresh cheese) |
-| Vitamin | das | -e | vitamin |
-
-## Verben (D2)
-
-| Deutsch | Englisch |
-|---------|----------|
-| impfen (hat geimpft) | to vaccinate |
-| treiben (hat getrieben) | to do (sport) / to drive |
-| teil·nehmen an (+ Dat.) (hat teilgenommen) | to participate (in) |
-| verzichten auf (+ Akk.) (hat verzichtet) | to do without / to forgo |
-
-## Adverbien (D2/D3)
-
-| Deutsch | Englisch |
-|---------|----------|
-| umsonst | free of charge / in vain |
-| grundsätzlich | basically / as a matter of principle |
-
-## E – Krank melden / Konferenz
-
-| Deutsch | Artikel | Plural | Englisch |
-|---------|---------|--------|----------|
-| Konferenz | die | -en | conference |
-| Schreibblock | der | -¨e | notepad |
-| Wohl | das | – (Sg.) | well-being / welfare |
-
-## Verben (E1)
-
-| Deutsch | Englisch |
-|---------|----------|
-| krank·melden (hat krankgemeldet) | to call in sick |
-| krank·schreiben (hat krankgeschrieben) | to give a sick note |
-
-## Adjektive / Adverbien (E)
+| Wohl | das | – (Sg.) | well-being |
+| Leistung | die | -en | service / performance |
 
 | Deutsch | Englisch |
 |---------|----------|
 | stressig | stressful |
+| umsonst | for free / in vain |
+| teil·nehmen, du nimmst teil, er nimmt teil (hat teilgenommen) | to take part / to participate |
+
+## D2
+
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
+| Hälfte | die | -n | half |
+| Viertel | das | – | quarter |
+| Drittel | das | – | third |
+
+| Deutsch | Englisch |
+|---------|----------|
+| impfen (hat geimpft) | to vaccinate |
+| treiben (hat getrieben) | to do / to drive (Sport treiben) |
+
+## D3
+
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
+| Frucht | die | ¨e | fruit |
+| Quark | der | – (Sg.) | quark (curd cheese) |
+| Vitamin | das | -e | vitamin |
+
+| Deutsch | Englisch |
+|---------|----------|
+| grundsätzlich | generally / on principle |
+| verzichten (hat verzichtet) | to do without / to forgo |
+
+## E1
+
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
+| Konferenz | die | -en | conference / meeting |
+| Schreibblock | der | ¨e | notepad / writing pad |
+
+| Deutsch | Englisch |
+|---------|----------|
+| krank·melden (hat krankgemeldet) | to report sick / to call in sick |
+| krank·schreiben (hat krankgeschrieben) | to sign off sick / to put on sick leave |
+
+## E3
+
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
+| Labor | das | -s/-e | laboratory |
+| Verband | der | ¨e | bandage / dressing |
+| Spritze | die | -n | injection / syringe |
+
+## Beim Arzt
+
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
+| Salbe | die | -n | ointment |
+| Schmerz | der | -en | pain |
+| Schnupfen | der | – (Sg.) | runny nose / cold |
+| Fieber | das | – (Sg.) | fever |
+| Husten | der | – (Sg.) | cough |

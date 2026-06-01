@@ -1,171 +1,196 @@
 # Wortschatz – Lektion 4: Sprachen
 
-## 1 – Foto-Hörgeschichte
+## FOTO-HÖRGESCHICHTE
 
 | Deutsch | Artikel | Plural | Englisch |
 |---------|---------|--------|----------|
-| Eile | die | Sg. | hurry / haste |
+| Eile | die | – (Sg.) | hurry / haste |
 | Keller | der | – | cellar / basement |
-| Satz | der | ¨-e | sentence |
-
-## Verben (Foto-Hörgeschichte)
-
-| Deutsch | Englisch |
-|---------|----------|
-| lächeln (hat gelächelt) | to smile |
-| vor·haben (hat vorgehabt) | to intend / plan |
-
-## Adverbien / Wörter (Foto-Hörgeschichte / Ellas Kolumne)
 
 | Deutsch | Englisch |
 |---------|----------|
 | worüber | about what |
+
+## ELLAS KOLUMNE
+
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
+| Satz | der | ¨e | sentence |
+
+| Deutsch | Englisch |
+|---------|----------|
+| lächeln (hat gelächelt) | to smile |
 | da | there / then |
+| da(r)- | there- (da(r)- compounds, e.g. darauf) |
 | gar | at all |
-| jedenfalls | in any case / at least |
-| halt | just / simply (colloquial) |
+| jedenfalls | in any case / at any rate |
+| halt | just / simply (particle) |
 | deutlich | clear / distinct |
+
+## A
+
+| Deutsch | Englisch |
+|---------|----------|
 | so viel | so much |
 
-## A1
+### A1
+
+| Deutsch | Englisch |
+|---------|----------|
+| vor·haben (hat vorgehabt) | to intend / plan |
+
+### A2
 
 | Deutsch | Artikel | Plural | Englisch |
 |---------|---------|--------|----------|
 | Wahrheit | die | -en | truth |
 
-## Verben (A)
+| Deutsch | Englisch |
+|---------|----------|
+| lügen (hat gelogen) | to lie (tell an untruth) |
+
+### A3
 
 | Deutsch | Englisch |
 |---------|----------|
-| lügen (hat gelogen) | to lie |
 | beenden (hat beendet) | to end / finish |
+
+### A4
+
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
+| Ausbildungsplatz | der | ¨e | apprenticeship / training position |
+
+| Deutsch | Englisch |
+|---------|----------|
 | aus·suchen (hat ausgesucht) | to choose / pick out |
 
-## A4
+## B
 
 | Deutsch | Artikel | Plural | Englisch |
 |---------|---------|--------|----------|
-| Ausbildungsplatz | der | ¨-e | apprenticeship place / training position |
-
-## B – Sprachen
-
-| Deutsch | Artikel | Plural | Englisch |
-|---------|---------|--------|----------|
-| Präsident / Präsidentin | der / die | -en / -nen | president |
+| Präsident | der | -en | president (m) |
+| Präsidentin | die | -nen | president (f) |
 | Portemonnaie | das | -s | wallet / purse |
 
-## Verben (B)
-
 | Deutsch | Englisch |
 |---------|----------|
-| fließend (sprechen) | fluently |
-| übersetzen (hat übersetzt) | to translate |
+| fließend | fluent / fluently |
 
-## Adverbien (B)
-
-| Deutsch | Englisch |
-|---------|----------|
-| deswegen | therefore / that's why |
-| irgendwann | sometime / at some point |
-| daher | therefore / hence |
-
-## B2 – Muttersprache
+### B2
 
 | Deutsch | Artikel | Plural | Englisch |
 |---------|---------|--------|----------|
 | Muttersprache | die | -n | mother tongue / native language |
-| Aussprache | die | Sg. | pronunciation |
-
-## B3
+| Aussprache | die | – (Sg.) | pronunciation |
 
 | Deutsch | Englisch |
 |---------|----------|
-| auf·schreiben (hat aufgeschrieben) | to write down |
-| darum | therefore / that's why |
+| deswegen | therefore / for that reason |
+| irgendwann | sometime / at some point |
+| übersetzen (hat übersetzt) | to translate |
+| daher | therefore / hence |
+| darum | therefore / for that reason |
 
-## C1
-
-| Deutsch | Artikel | Plural | Englisch |
-|---------|---------|--------|----------|
-| Ausdruck | der | ¨-e | expression |
-
-## C2 – Mechaniker
-
-| Deutsch | Artikel | Plural | Englisch |
-|---------|---------|--------|----------|
-| Mechaniker / Mechanikerin | der / die | -/ -nen | mechanic |
-| Wiederholung | die | -en | repetition / revision |
-
-## Adverbien (C)
+### B3
 
 | Deutsch | Englisch |
 |---------|----------|
-| noch mal | again |
+| auf·schreiben (hat aufgeschrieben) | to write down / note down |
 
-## D – Zaubersack
+## C
+
+### C1
 
 | Deutsch | Artikel | Plural | Englisch |
 |---------|---------|--------|----------|
-| Mensa | die | Mensen | university canteen |
+| Ausdruck | der | ¨e | expression / phrase |
+
+| Deutsch | Englisch |
+|---------|----------|
+| noch mal | again / once more |
+
+### C2
+
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
+| Mechaniker | der | – | mechanic (m) |
+| Mechanikerin | die | -nen | mechanic (f) |
+| Wiederholung | die | -en | repetition |
+
+## D
+
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
+| Mensa | die | Mensen | (university) canteen / refectory |
 | Integrationskurs | der | -e | integration course |
-| Herkunft | die | ¨-e | origin |
-| Griechisch | das | Sg. | Greek (language) |
-| Grieche / Griechin | der / die | -n / -nen | Greek person |
 
-## Verben (D)
+### D1
+
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
+| Herkunft | die | ¨e | origin / background |
 
 | Deutsch | Englisch |
 |---------|----------|
-| (sich) verstecken (hat versteckt) | to hide |
-| wählen (hat gewählt) | to choose / elect |
-| stammen aus (+ Dat.) | to come from / to originate |
+| sich verstecken (hat versteckt) | to hide (oneself) |
 
-## Adjektive / Adverbien (D)
+### D2
+
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
+| Griechisch | das | – (Sg.) | Greek (language) |
+| Grieche | der | -n | Greek (m) |
+| Griechin | die | -nen | Greek (f) |
 
 | Deutsch | Englisch |
 |---------|----------|
 | cool | cool |
-| durcheinander | mixed up / confused |
+| durcheinander | jumbled / mixed up |
 | spätestens | at the latest |
+| wählen (hat gewählt) | to choose / select |
+| stammen | to come from / originate |
 
-## E2
+## E
+
+### E2
 
 | Deutsch | Artikel | Plural | Englisch |
 |---------|---------|--------|----------|
-| Soße | die | -n | sauce / gravy |
+| Soße | die | -n | sauce |
 | Nerv | der | -en | nerve |
 
-## Adjektive / Adverbien (E)
-
 | Deutsch | Englisch |
 |---------|----------|
-| allmählich | gradually |
-| merkwürdig | strange / peculiar |
+| allmählich | gradually / slowly |
+| merkwürdig | strange / odd |
+| korrekt | correct(ly) |
+| andererseits | on the other hand |
+| ebenso | just as / likewise |
+| leiden (hat gelitten) | to suffer |
+| mischen (hat gemischt) | to mix |
+| allerdings | however / though |
+| bestehen (auf) (hat bestanden) | to insist (on) |
 
-## E3
+### E3
 
 | Deutsch | Artikel | Plural | Englisch |
 |---------|---------|--------|----------|
-| Autor / Autorin | der / die | -en / -nen | author |
-| Kenntnis | die | -se (Pl.) | knowledge / skill |
-| Partner / Partnerin | der / die | -/ -nen | partner |
+| Autor | der | -en | author (m) |
+| Autorin | die | -nen | author (f) |
+| Kenntnisse | die | (Pl.) | knowledge / skills |
+| Partner | der | – | partner (m) |
+| Partnerin | die | -nen | partner (f) |
 | Schrift | die | -en | script / writing |
 
-## Verben (E3)
-
 | Deutsch | Englisch |
 |---------|----------|
-| leiden (hat gelitten) | to suffer |
-| mischen (hat gemischt) | to mix |
-| bestehen auf (+ Dat.) (hat bestanden) | to insist on |
 | vergleichen (hat verglichen) | to compare |
-| schimpfen (hat geschimpft) | to scold / grumble |
+| schimpfen (hat geschimpft) | to grumble / tell off |
 
-## Adjektive / Adverbien (E3)
+## Themenbox: Sprachen
 
-| Deutsch | Englisch |
-|---------|----------|
-| korrekt | correct |
-| andererseits | on the other hand |
-| ebenso | just as / equally |
-| allerdings | however / admittedly |
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
+| Fremdsprache | die | -n | foreign language |
+| Sprachenschule | die | -n | language school |

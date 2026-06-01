@@ -2,157 +2,154 @@
 
 ## Ellas Kolumne
 
+### Nomen
+
 | Deutsch | Artikel | Plural | Englisch |
 |---------|---------|--------|----------|
 | Talent | das | -e | talent |
 
-## Adverbien / Adjektive (Ellas Kolumne)
+### Verben
 
 | Deutsch | Englisch |
 |---------|----------|
-| zu | too |
-| etwa | approximately / about |
+| genügen (hat genügt) | to be enough / to suffice |
 
-## Verben (Ellas Kolumne)
+### Adjektive / Adverbien
 
 | Deutsch | Englisch |
 |---------|----------|
-| auf·hören (hat aufgehört) | to stop / quit |
-| genügen (hat genügt) | to be enough / suffice |
-| erwarten (hat erwartet) | to expect |
+| zu | to (closed) / too |
+| Video- | video- |
+| etwa | about / approximately |
 
-## A1 – Stellenanzeige
+## A
+
+### Nomen
 
 | Deutsch | Artikel | Plural | Englisch |
 |---------|---------|--------|----------|
-| Handel | der | Sg. | trade / commerce |
+| Handel | der | – (Sg.) | trade / commerce |
 | Vorteil | der | -e | advantage |
-| Voraussetzung | die | -en | requirement / prerequisite |
-
-## A2
-
-| Deutsch | Englisch |
-|---------|----------|
-| zurecht·kommen (ist zurechtgekommen) | to manage / cope |
-
-## A3 – Bewerbungsunterlagen
-
-| Deutsch | Artikel | Plural | Englisch |
-|---------|---------|--------|----------|
-| Serviceangestellte/r | der / die | -n | service employee |
-| Unterlagen | die | Pl. | documents / papers |
-| Aufgabe | die | -n | task |
+| Voraussetzung | die | -en | prerequisite / requirement |
+| Service-angestellte | der / die | -n | service employee |
+| Unterlagen | die | – (Pl.) | documents / papers |
+| Aufgabe | die | -n | task / duty |
 | Unterstützung | die | -en | support / assistance |
-| Anlage | die | -n | attachment / enclosure |
-| Lebenslauf | der | ¨-e | CV / résumé |
+| Anlage | die | -n | enclosure / attachment |
+| Lebenslauf | der | ¨e | curriculum vitae / résumé |
 | Tätigkeit | die | -en | activity / occupation |
 
-## Adjektive / Adverbien (A3)
+### Verben
 
 | Deutsch | Englisch |
 |---------|----------|
-| schriftlich | in writing / written |
-| üblich | usual / common |
-| außerhalb | outside of |
-| innerhalb | inside of / within |
-
-## Verben (A3)
-
-| Deutsch | Englisch |
-|---------|----------|
-| fest·stellen (hat festgestellt) | to establish / determine |
-| gewohnt | accustomed to |
+| auf·hören (hat aufgehört) | to stop / to quit |
+| erwarten (hat erwartet) | to expect |
+| fest·stellen (hat festgestellt) | to determine / to ascertain |
 | entwickeln (hat entwickelt) | to develop |
-| her·stellen (hat hergestellt) | to produce / manufacture |
+| her·stellen (hat hergestellt) | to produce / to manufacture |
 
-## A4
+### Adjektive / Adverbien
 
-| Deutsch | Artikel | Plural | Englisch |
-|---------|---------|--------|----------|
-| Anlage | die | -n | enclosure / attachment |
-| Lebenslauf | der | ¨-e | CV / résumé |
+| Deutsch | Englisch |
+|---------|----------|
+| schriftlich | written / in writing |
+| gewohnt | used to / accustomed |
+| üblich | usual / customary |
 
-## B1
+## B
+
+### Nomen
 
 | Deutsch | Artikel | Plural | Englisch |
 |---------|---------|--------|----------|
 | Zeitpunkt | der | -e | point in time / moment |
-
-## B2
-
-| Deutsch | Artikel | Plural | Englisch |
-|---------|---------|--------|----------|
 | Spiegel | der | – | mirror |
 
-## Verben (B)
+### Verben
 
 | Deutsch | Englisch |
 |---------|----------|
-| rechnen (hat gerechnet) | to calculate / to count |
-| (sich) beruhigen (hat beruhigt) | to calm down |
+| rechnen (hat gerechnet) | to calculate / to reckon |
+| sich beruhigen (hat beruhigt) | to calm down |
 
-## B3 – Technische Kenntnisse
-
-| Deutsch | Artikel | Plural | Englisch |
-|---------|---------|--------|----------|
-| Verantwortung | die | Sg. | responsibility |
-
-## Adverbien / Adjektive (B3)
+### Adjektive / Adverbien
 
 | Deutsch | Englisch |
 |---------|----------|
+| außerhalb | outside (of) |
+| innerhalb | inside (of) / within |
 | technisch | technical |
 | zuständig | responsible / in charge |
-| nebenbei | on the side / additionally |
 
-## Verben (B3)
+## C
+
+### Nomen
+
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
+| Verantwortung | die | – (Sg.) | responsibility |
+| Maler | der | – | painter (m) |
+| Malerin | die | -nen | painter (f) |
+
+### Adjektive / Adverbien
 
 | Deutsch | Englisch |
 |---------|----------|
-| jobben (hat gejobbt) | to work a casual job |
-| sich überlegen (hat überlegt) | to consider / think over |
-| vertreten (du vertrittst, er vertritt) (hat vertreten) | to represent / deputise |
+| zusammen- | together- |
 
-## C1
+## D
 
-| Deutsch | Artikel | Plural | Englisch |
-|---------|---------|--------|----------|
-| Auftrag | der | ¨-e | order / assignment |
-
-## D1
+### Nomen
 
 | Deutsch | Artikel | Plural | Englisch |
 |---------|---------|--------|----------|
-| Übersetzer / Übersetzerin | der / die | -/ -nen | translator |
-| Konkurrenz | die | Sg. | competition |
+| Auftrag | der | ¨e | order / assignment |
+| Übersetzer | der | – | translator (m) |
+| Übersetzerin | die | -nen | translator (f) |
+| Konkurrenz | die | – (Sg.) | competition |
+| Tierpark | der | -s | zoo / animal park |
+| Fortbildung | die | -en | further training |
 
-## D2
+### Verben
 
-| Deutsch | Artikel | Plural | Englisch |
-|---------|---------|--------|----------|
-| Maler / Malerin | der / die | -/ -nen | painter |
+| Deutsch | Englisch |
+|---------|----------|
+| sich überlegen (hat überlegt) | to consider / to think over |
+| jobben (hat gejobbt) | to do casual work |
+| zurecht·kommen (ist zurechtgekommen) | to cope / to get along |
+| vertreten, du vertrittst, er vertritt (hat vertreten) | to represent / to stand in for |
+
+### Adjektive / Adverbien
+
+| Deutsch | Englisch |
+|---------|----------|
+| nebenbei | on the side / additionally |
 
 ## Berufe
 
 | Deutsch | Artikel | Plural | Englisch |
 |---------|---------|--------|----------|
-| Lehrer / Lehrerin | der / die | -/ -nen | teacher |
-| Friseur / Friseurin | der / die | -e / -nen | hairdresser |
-| Verkäufer / Verkäuferin | der / die | -/ -nen | salesperson |
-| Übersetzer / Übersetzerin | der / die | -/ -nen | translator |
-| Architekt / Architektin | der / die | -en / -nen | architect |
-| Polizist / Polizistin | der / die | -en / -nen | police officer |
-| Maler / Malerin | der / die | -/ -nen | painter |
-| Arzt / Ärztin | der / die | ¨-e / -nen | doctor |
-| Krankenpfleger / Krankenschwester | der / die | -/ -n | nurse |
-| Serviceangestellte/r | der / die | -n | service employee |
-| Hausmeister / Hausmeisterin | der / die | -/ -nen | caretaker / janitor |
-| Journalist / Journalistin | der / die | -en / -nen | journalist |
-
-## Fortbildung / Arbeitsagentur
-
-| Deutsch | Artikel | Plural | Englisch |
-|---------|---------|--------|----------|
-| Tierpark | der | -s | zoo / animal park |
-| Fortbildung | die | -en | further training |
-| Arbeitsagentur | die | -en | employment agency |
+| Service-angestellte | der / die | -n | service employee |
+| Maler | der | – | painter (m) |
+| Malerin | die | -nen | painter (f) |
+| Übersetzer | der | – | translator (m) |
+| Übersetzerin | die | -nen | translator (f) |
+| Lehrer | der | – | teacher (m) |
+| Lehrerin | die | -nen | teacher (f) |
+| Hausmeister | der | – | caretaker / janitor (m) |
+| Hausmeisterin | die | -nen | caretaker / janitor (f) |
+| Arzt | der | ¨e | doctor (m) |
+| Ärztin | die | -nen | doctor (f) |
+| Architekt | der | -en | architect (m) |
+| Architektin | die | -nen | architect (f) |
+| Friseur | der | -e | hairdresser (m) |
+| Friseurin | die | -nen | hairdresser (f) |
+| Journalist | der | -en | journalist (m) |
+| Journalistin | die | -nen | journalist (f) |
+| Krankenpfleger | der | – | nurse / carer (m) |
+| Krankenschwester | die | -n | nurse (f) |
+| Polizist | der | -en | police officer (m) |
+| Polizistin | die | -nen | police officer (f) |
+| Verkäufer | der | – | salesperson (m) |
+| Verkäuferin | die | -nen | salesperson (f) |

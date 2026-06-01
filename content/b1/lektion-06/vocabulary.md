@@ -2,211 +2,153 @@
 
 ## Foto-Hörgeschichte
 
+### Nomen
+
 | Deutsch | Artikel | Plural | Englisch |
 |---------|---------|--------|----------|
 | Produktion | die | -en | production |
-| Ersatz | der | Sg. | replacement / substitute |
-| Sinn | der | Sg. | sense / meaning |
+| Ersatz | der | – (Sg.) | replacement / substitute |
+| Geheimnis | das | -se | secret |
+| Risiko | das | Risiken | risk |
 | Änderung | die | -en | change / alteration |
-| Jahreszeit | die | -en | season |
+| Sinn | der | – (Sg.) | sense / meaning |
 
-## Adverbien / Adjektive (Foto-Hörgeschichte)
+### Verben
+
+| Deutsch | Englisch |
+|---------|----------|
+| lösen (Problem) (hat gelöst) | to solve (a problem) |
+
+### Adjektive / Adverbien
 
 | Deutsch | Englisch |
 |---------|----------|
 | statt | instead of |
 | erst- | first |
-| bestimmt | certainly / definitely |
+| bestimmt | certain / particular |
 
-## Verben (Foto-Hörgeschichte)
+## A
 
-| Deutsch | Englisch |
-|---------|----------|
-| lösen (Problem) (hat gelöst) | to solve |
-| sich lohnen (hat gelohnt) | to be worth it |
-| besitzen (hat besessen) | to own / possess |
-| sich entschließen (hat entschlossen) | to decide / resolve |
-
-## Ellas Kolumne
-
-| Deutsch | Artikel | Plural | Englisch |
-|---------|---------|--------|----------|
-| Geheimnis | das | -se | secret |
-| Risiko | das | Risiken | risk |
-
-## A1 – Jahreszeit / Winter
+### Nomen
 
 | Deutsch | Artikel | Plural | Englisch |
 |---------|---------|--------|----------|
 | Jahreszeit | die | -en | season |
-
-## Verben (A1)
-
-| Deutsch | Englisch |
-|---------|----------|
-| geboren werden (du wirst geboren, er wird geboren) | to be born |
-
-## A3
-
-| Deutsch | Englisch |
-|---------|----------|
-| besitzen (hat besessen) | to own / possess |
-
-## B – Heimweh / Wettbewerb
-
-| Deutsch | Artikel | Plural | Englisch |
-|---------|---------|--------|----------|
-| Heimweh | das | Sg. | homesickness |
-| Wettbewerb | der | -e | competition / contest |
+| Heimweh | das | – (Sg.) | homesickness |
+| Wettbewerb | der | -e | competition |
 | Gewürz | das | -e | spice |
-| Rücksicht | die | -en | consideration / regard |
-| Kaufmann / Kauffrau | der / die | -¨er / -en | businessman / businesswoman |
+| Rücksicht | die | -en | consideration |
+| Kaufmann | der | ¨er | businessman / salesman |
+| Kauffrau | die | -en | businesswoman / saleswoman |
 | Experiment | das | -e | experiment |
-| Geschäftsleute | die | Pl. | business people |
-
-## Adverbien / Adjektive (B)
-
-| Deutsch | Englisch |
-|---------|----------|
-| mittlerweile | by now / in the meantime |
-| interkulturell | intercultural |
-| finanziell | financial |
-| jahrelang | for years / years-long |
-
-## Verben (B)
-
-| Deutsch | Englisch |
-|---------|----------|
-| gründen (hat gegründet) | to found / establish |
-| betreuen (hat betreut) | to look after / care for |
-| sich gewöhnen an (+ Akk.) (hat gewöhnt) | to get used to |
-| pflegen (hat gepflegt) | to care for / maintain |
-
-## A4
-
-| Deutsch | Artikel | Plural | Englisch |
-|---------|---------|--------|----------|
+| Geschäftsleute | die | – (Pl.) | business people |
 | Zutat | die | -en | ingredient |
 | Studio | das | -s | studio |
 
-## Adverbien (A4)
+### Verben
 
 | Deutsch | Englisch |
 |---------|----------|
-| ausschließlich | exclusively |
+| sich lohnen (hat gelohnt) | to be worth it |
+| besitzen (hat besessen) | to own / possess |
+| geboren werden, du wirst geboren, er wird geboren (ist geboren worden) | to be born |
+| sich entschließen (hat entschlossen) | to decide / resolve |
+| gründen (hat gegründet) | to found / establish |
+| betreuen (hat betreut) | to care for / look after |
+| sich gewöhnen (hat gewöhnt) | to get used to |
+| pflegen (hat gepflegt) | to care for / nurse |
+
+### Adjektive / Adverbien
+
+| Deutsch | Englisch |
+|---------|----------|
+| mittlerweile | meanwhile / by now |
+| interkulturell | intercultural |
+| jahrelang | for years |
+| finanziell | financial |
+| ausschließlich | exclusively / solely |
 | höchstens | at most |
 
-## B1
+## B
+
+### Nomen
+
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
+| Rede | die | -n | speech / talk |
+| Kompromiss | der | -e | compromise |
+| Klimaanlage | die | -n | air conditioning |
+
+### Adjektive / Adverbien
 
 | Deutsch | Englisch |
 |---------|----------|
 | um … zu | in order to |
-
-## B2
-
-| Deutsch | Artikel | Plural | Englisch |
-|---------|---------|--------|----------|
-| Rede | die | -n | speech |
-
-## Adverbien (B2)
-
-| Deutsch | Englisch |
-|---------|----------|
 | möglichst | as … as possible |
 
-## B3
+## C
 
-| Deutsch | Artikel | Plural | Englisch |
-|---------|---------|--------|----------|
-| Kompromiss | der | -e | compromise |
-
-## B4
-
-| Deutsch | Artikel | Plural | Englisch |
-|---------|---------|--------|----------|
-| Klimaanlage | die | -n | air conditioning |
-
-## C2
+### Nomen
 
 | Deutsch | Artikel | Plural | Englisch |
 |---------|---------|--------|----------|
 | Software | die | -s | software |
 
-## D1
+## D
 
-| Deutsch | Englisch |
-|---------|----------|
-| wieder·kommen (ist wiedergekommen) | to come back / return |
-
-## D2
+### Nomen
 
 | Deutsch | Artikel | Plural | Englisch |
 |---------|---------|--------|----------|
 | Mühe | die | -n | effort / trouble |
-| Zahnpasta | die | -s | toothpaste |
-
-## D3
-
-| Deutsch | Artikel | Plural | Englisch |
-|---------|---------|--------|----------|
-| Waschmittel | das | – | washing detergent |
+| Zahncreme | die | -s | toothpaste |
+| Waschmittel | das | – | detergent |
 | Bürste | die | -n | brush |
 
-## Verben (D)
+### Verben
 
 | Deutsch | Englisch |
 |---------|----------|
+| wieder·kommen (ist wiedergekommen) | to come back |
 | begrüßen (hat begrüßt) | to greet / welcome |
-| (sich) verabschieden (hat verabschiedet) | to say goodbye |
+| sich verabschieden (hat verabschiedet) | to say goodbye |
 
-## E – Reklamation
+## E
+
+### Nomen
 
 | Deutsch | Artikel | Plural | Englisch |
 |---------|---------|--------|----------|
-| Rolle | die | -n | role / part |
-| Anspruch | der | ¨-e | claim / right / entitlement |
+| Rolle | die | -n | roller / wheel |
+| Anspruch | der | ¨e | claim / entitlement |
 | Kopie | die | -n | copy |
+| Bedienungsanleitung | die | -en | operating instructions / manual |
 
-## Verben (E)
+### Verben
 
 | Deutsch | Englisch |
 |---------|----------|
 | bestätigen (hat bestätigt) | to confirm |
 | beschädigen (hat beschädigt) | to damage |
-| ärgerlich | annoying / irritated |
-
-## E1 – Reklamation (Bedienungsanleitung)
-
-| Deutsch | Artikel | Plural | Englisch |
-|---------|---------|--------|----------|
-| Bedienungsanleitung | die | -en | instruction manual / user guide |
-
-## Verben (E1)
-
-| Deutsch | Englisch |
-|---------|----------|
-| um·tauschen (hat umgetauscht) | to exchange / swap |
-| jedoch | however / but |
-| bereits | already |
+| um·tauschen (hat umgetauscht) | to exchange |
 | fordern (hat gefordert) | to demand |
 | enttäuschen (hat enttäuscht) | to disappoint |
 | auf·fordern (hat aufgefordert) | to request / call upon |
 
-## E2 – Die Industrie
-
-| Deutsch | Artikel | Plural | Englisch |
-|---------|---------|--------|----------|
-| Betrieb | der | -e | company / operation / business |
-| Firma | die | Firmen | company / firm |
-| Produktion | die | -en | production |
-| Handel | der | (Sg.) | trade / commerce |
-| Kaufmann | der | -¨er | businessman |
-| Kauffrau | die | -en | businesswoman |
-| Geschäftsleute | die | (Pl.) | business people |
-| Risiko | das | Risiken | risk |
-
-## Verben (E2)
+### Adjektive / Adverbien
 
 | Deutsch | Englisch |
 |---------|----------|
-| gründen (hat gegründet) | to found / establish |
+| ärgerlich | annoying / annoyed |
+| jedoch | however |
+| bereits | already |
+
+## Die Industrie
+
+### Nomen
+
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
+| Betrieb | der | -e | business / operation |
+| Firma | die | Firmen | company / firm |
+| Handel | der | – (Sg.) | trade / commerce |
