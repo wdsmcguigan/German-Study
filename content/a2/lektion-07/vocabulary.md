@@ -1,79 +1,161 @@
 # Wortschatz – Lektion 7: Feste und Geschenke
 
-## Feste und Anlässe (Celebrations and Occasions)
+## FOTO-HÖRGESCHICHTE
 
-| Deutsch | Artikel | Englisch |
-|---------|---------|----------|
-| Hochzeit | die | wedding |
-| Trauung | die | wedding ceremony |
-| Kirche | die | church |
-| Feier | die | celebration / party |
-| Stimmung | die | mood / atmosphere |
-| Leute (Pl.) | die | people |
-| persönlich | – | personal |
-| Herz | das | heart |
-| blöd | – | stupid / silly |
-| wild | – | wild |
-| nervös | – | nervous |
-| wenigstens | – | at least |
-| typisch | – | typical |
-| traurig | – | sad |
-| wunderbar | – | wonderful |
+### Verben
 
-## Geschenke (Gifts)
+| Verb | Perfekt |
+|------|---------|
+| (sich) vor·bereiten | (hat vorbereitet) |
+| basteln | (hat gebastelt) |
+| entscheiden | (hat entschieden) |
 
-| Deutsch | Artikel | Englisch |
-|---------|---------|----------|
-| Geschenk | das | gift / present |
-| Goldmedaille | die | gold medal |
-| Baby | das | baby |
-| Kette | die | necklace / chain |
-| Puppe | die | doll |
-| Parfüm | das | perfume |
-| Creme | die | cream |
-| Schokolade | die | chocolate |
-| Praline | die | chocolate praline |
-| Geldbörse / Geldbeutel | der | wallet / purse |
-| DVD | die | DVD |
-| Buch | das | book |
-| SMS | die | text message |
+### Adjektive / Adverbien
 
-## Verben
+| Wort | |
+|------|---|
+| unbekannt | |
 
-| Deutsch | Englisch |
-|---------|----------|
-| schenken | to give as a gift |
-| probieren (hat probiert) | to try / taste |
-| bestellen | to order |
-| liefern | to deliver |
-| zuverlässig | reliable |
-| dekorieren | to decorate |
-| (sich) unterhalten | to converse / entertain |
-| überzeugen | to convince |
-| aus·geben | to spend (money) |
-| sich vor·bereiten | to prepare |
-| betragen | to amount to |
-| sich entscheiden | to decide |
-| drücken | to press / squeeze |
-| aus·drücken | to express |
+## A
 
-## Ausdrücke und Wünsche
+### Nomen
 
-| Deutsch | Englisch |
-|---------|----------|
-| Herzlichen Glückwunsch! | Heartfelt congratulations! |
-| Alles Gute! | All the best! |
-| Alles Gute zur Hochzeit! | Best wishes on your wedding! |
-| Viel Glück! | Good luck! |
-| Das freut mich sehr! | I'm very pleased about that! |
+| Nomen | Artikel | Plural | |
+|-------|---------|--------|---|
+| Baby | das | -s | |
+| Kette | die | -n | |
+| Puppe | die | -n | |
+| DVD | die | -s | |
+| Parfüm | das | -e / -s | |
+| Creme | die | -s | |
+| Geldbeutel | der | – | |
 
-## Sonstiges
+### Verben
 
-| Deutsch | Artikel | Englisch |
-|---------|---------|----------|
-| Tod | der | death |
-| Heimat | die | home / homeland |
-| Sonder- | – | special (prefix) |
-| rennen (hat/ist gerannt) | – | to run |
-| per | – | per / by (via) |
-| Ein Geschenk symbolisiert | – | A gift symbolises... |
+| Verb | Perfekt |
+|------|---------|
+| schenken | (hat geschenkt) |
+| raten, du rätst, er rät | (hat geraten) |
+
+## B
+
+### Nomen
+
+| Nomen | Artikel | Plural | |
+|-------|---------|--------|---|
+| Nudel | die | -n | |
+| Gericht | das | -e | |
+| Schachtel | die | -n | |
+| Briefmarke | die | -n | |
+
+### Verben
+
+| Verb | Perfekt |
+|------|---------|
+| probieren | (hat probiert) |
+| liefern | (hat geliefert) |
+| aus·drucken | (hat ausgedruckt) |
+| nennen | (hat genannt) |
+
+### Adjektive / Adverbien
+
+| Wort | |
+|------|---|
+| zuverlässig | |
+| Sonder- | |
+
+## C
+
+### Nomen
+
+| Nomen | Artikel | Plural | |
+|-------|---------|--------|---|
+| Leute (Pl.) | die | – | |
+| Kirche | die | -n | |
+| Trauung | die | -en | |
+| Stimmung | die | – (Sg.) | |
+| Torte | die | -n | |
+
+### Verben
+
+| Verb | Perfekt |
+|------|---------|
+| grüßen | (hat gegrüßt) |
+| weinen | (hat geweint) |
+| treten, du trittst, er tritt | (ist getreten) |
+| tragen, du trägst, er trägt | (hat getragen) |
+
+### Adjektive / Adverbien
+
+| Wort | |
+|------|---|
+| wahnsinnig | |
+| blöd | |
+| wunderschön | |
+| typisch | |
+| übrigens | |
+| wohl | |
+| nervös | |
+| wenigstens | |
+| wach | |
+| wild | |
+
+## D
+
+### Nomen
+
+| Nomen | Artikel | Plural | |
+|-------|---------|--------|---|
+| Herz | das | -en | |
+| Tod | der | – (Sg.) | |
+| Heimat | die | – (Sg.) | |
+
+### Verben
+
+| Verb | Perfekt |
+|------|---------|
+| aus·geben, du gibst aus, er gibt aus | (hat ausgegeben) |
+
+### Adjektive / Adverbien
+
+| Wort | |
+|------|---|
+| persönlich | |
+
+## E
+
+### Nomen
+
+| Nomen | Artikel | Plural | |
+|-------|---------|--------|---|
+| SMS | die | – | |
+| Unterhaltung | die | -en | |
+
+### Verben
+
+| Verb | Perfekt |
+|------|---------|
+| (sich) unterhalten, du unterhältst, er unterhält | (hat unterhalten) |
+| dekorieren | (hat dekoriert) |
+| überzeugen | (hat überzeugt) |
+
+### Adjektive / Adverbien
+
+| Wort | |
+|------|---|
+| per | |
+
+## Geschenke (Bildwortschatz)
+
+| Nomen | Artikel | Plural | |
+|-------|---------|--------|---|
+| Kette | die | -n | |
+| Puppe | die | -n | |
+| DVD | die | -s | |
+| Parfüm | das | -e / -s | |
+| Geldbeutel | der | – | |
+| Creme | die | -s | |
+| Praline | die | -n | |
+| Schokolade | die | -n | |
+| Buch | das | ¨er | |
+| Herz | das | -en | |
