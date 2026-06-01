@@ -1,112 +1,157 @@
-# Wortschatz – Lektion 1: Ich heiße...
+# Wortschatz – Lektion 1: Guten Tag. Mein Name ist …
 
-## Begrüßung und Abschied (Greetings & Farewells)
+## FOTO-HÖRGESCHICHTE
 
-| Deutsch | Englisch | Kontext |
-|---------|----------|---------|
-| Guten Tag! | Good day! | formal, daytime |
-| Guten Morgen! | Good morning! | formal, morning |
-| Guten Abend! | Good evening! | formal, evening |
-| Gute Nacht! | Good night! | parting at night |
-| Hallo! | Hello! | informal |
-| Auf Wiedersehen! | Goodbye! | formal |
-| Tschüs! | Bye! | informal |
-| Auf Wiederhören! | Goodbye! (phone) | on the telephone |
+| Wort | Beispiel |
+|------|----------|
+| ich | Ich bin Lili. |
+| heißen | Ich heiße Lara Nowak. |
+| und | Ich spreche Deutsch und Englisch. |
+| ein bisschen | Ich spreche Deutsch, Englisch und ein bisschen Spanisch. |
 
-## Vorstellung (Introducing Yourself)
+### Verben
 
-| Deutsch | Englisch |
-|---------|----------|
-| Ich bin ... | I am ... |
-| Ich heiße ... | My name is ... |
-| Mein Name ist ... | My name is ... |
-| Ich komme aus ... | I come from ... |
-| Ich spreche ... | I speak ... |
-| Entschuldigung! | Excuse me! |
-| Danke! | Thank you! |
-| Bitte! | Please! / You're welcome! |
-| Vielen Dank! | Many thanks! |
+| Verb | Beispiel |
+|------|----------|
+| kommen | Ich komme aus Deutschland. |
+| sprechen | Ich spreche Polnisch. |
 
-## Verben (Verbs)
+### Nomen
 
-| Deutsch | Typ | Präteritum | Perfekt | Hilfsverb | Englisch |
-|---------|-----|------------|---------|-----------|----------|
-| heißen | stark | hieß | geheißen | haben | to be called |
-| kommen | stark | kam | gekommen | sein | to come |
-| sprechen | stark (e→i) | sprach | gesprochen | haben | to speak |
-| sein | unregelmäßig | war | gewesen | sein | to be |
-| buchstabieren | regelmäßig | buchstabierte | buchstabiert | haben | to spell |
+| Nomen | Genus | Plural | Beispiel |
+|-------|-------|--------|----------|
+| Name | der | –n | Mein Name ist Walter Baumann. |
+| Deutsch | (das) | – | Ich spreche Deutsch. |
+| Deutschland | – | – | Ich komme aus Deutschland. |
 
-## Nomen (Nouns)
+## A
 
-| Deutsch | Artikel | Plural | Englisch |
-|---------|---------|--------|----------|
-| Name | der | Namen | name |
-| Vorname | der | Vornamen | first name |
-| Familienname | der | Familiennamen | surname |
-| Kurs | der | Kurse | course |
-| Beruf | der | Berufe | profession |
-| Vater | der | Väter | father |
-| Sprache | die | Sprachen | language |
-| Fremdsprache | die | Fremdsprachen | foreign language |
-| Anmeldung | die | Anmeldungen | registration |
-| Postleitzahl | die | Postleitzahlen | postal code |
-| Visitenkarte | die | Visitenkarten | business card |
-| Firma | die | Firmen | company |
-| Stadt | die | Städte | city |
-| Frau | die | Frauen | woman / Mrs. |
-| Alphabet | das | – | alphabet |
-| Formular | das | Formulare | form |
-| Telefon | das | Telefone | telephone |
-| Land | das | Länder | country |
+| Wort | Beispiel |
+|------|----------|
+| Guten Tag | Guten Tag. |
+| hallo | Hallo! – Guten Tag. |
+| Auf Wiedersehen | Auf Wiedersehen. |
+| tschüs | Tschüs. |
+| Guten Abend | Guten Abend, meine Damen und Herren. |
+| willkommen | Willkommen bei „Musik international". |
+| bei | Willkommen bei „Musik international". |
+| international | Willkommen bei „Musik international". |
+| Guten Morgen | Guten Morgen, Frau Fleckenstein. |
+| danke | Oh, danke. |
+| Gute Nacht | Gute Nacht. – Nacht, Papa. |
 
-## Pronomen (Pronouns)
+### Nomen
 
-| Deutsch | Englisch |
-|---------|----------|
-| ich | I |
-| du | you (informal) |
-| Sie | you (formal) |
-| er | he |
-| sie | she |
-| wir | we |
+| Nomen | Genus | Plural | Beispiel |
+|-------|-------|--------|----------|
+| Herr | der | –en | Guten Tag, Herr Díaz. |
+| Kind | das | ¨er | Tschüs, Kinder. |
+| Dame | die | –n | Guten Abend, meine Damen und Herren. |
+| Musik | die | (Sg.) | Willkommen bei „Musik international". |
+| Frau | die | –en | Guten Morgen, Frau Fleckenstein. |
+| Papa | der | –s | Nacht, Papa. |
 
-## Fragewörter (Question Words)
+## B
 
-| Deutsch | Englisch |
-|---------|----------|
-| Wie? | How? / What? (name) |
-| Woher? | From where? |
-| Wo? | Where? |
-| Wer? | Who? |
-| Was? | What? |
+| Wort | Beispiel |
+|------|----------|
+| wie | Wie heißen Sie? |
+| Sie | Wie heißen Sie? |
+| wer | Wer ist das? |
+| ja | Ja, stimmt. |
+| nein | Das ist Sofia. – Nein, das ist Lara. |
 
-## Länder und Sprachen (Countries & Languages)
+### Verben
 
-| Land | Sprache(n) |
-|------|-----------|
-| Deutschland | Deutsch |
-| Österreich | Deutsch |
-| die Schweiz | Deutsch, Französisch, Italienisch |
+| Verb | Beispiel |
+|------|----------|
+| sein | Ich bin Sofia Baumann. |
+
+### Nomen
+
+| Nomen | Genus | Plural | Beispiel |
+|-------|-------|--------|----------|
+| Entschuldigung | die | –en | Entschuldigung, wie heißen Sie? |
+
+## C
+
+| Wort | Beispiel |
+|------|----------|
+| woher | Woher kommst du? |
+| aus | Ich bin aus der Ukraine. |
+| du | Wer bist du? |
+| aha | Aha! |
+| toll | Ah, toll. |
+| interessant | Aus Thailand? Interessant. |
+| was | Was sprechen Sie, Frau Tufan? |
+| auch | Aha, auch Türkisch. |
+
+### Nomen
+
+| Nomen | Genus | Plural | Beispiel |
+|-------|-------|--------|----------|
+| Österreich | – | – | Ich komme aus Österreich. |
+| Schweiz | die | – | Ich komme aus der Schweiz. |
+| Sprache | die | –n | Sprache: Deutsch, Polnisch, … |
+
+## D
+
+| Wort | Beispiel |
+|------|----------|
+| Wie bitte? | Wie bitte? |
+| buchstabieren | Ich buchstabiere: K - O - S - T - A - D - I - N - O – V |
+| bitte | Buchstabieren Sie, bitte. |
+| Vielen Dank | Vielen Dank. |
+| Auf Wiederhören | Auf Wiederhören, Herr Kostadinov. |
+
+### Nomen
+
+| Nomen | Genus | Plural | Beispiel |
+|-------|-------|--------|----------|
+| Buchstabe | der | –n | Buchstabe: a, k, s … |
+| Alphabet | das | (Sg.) | das Alphabet: A, B, C … |
+| Firma | die | Firmen | Firma Microlab, guten Tag. |
+
+## E
+
+### Nomen
+
+| Nomen | Genus | Plural | Beispiel |
+|-------|-------|--------|----------|
+| Adresse | die | –n | Adresse: Hofgasse 8, 6020 Innsbruck |
+| Visitenkarte | die | –n | Schreiben Sie Ihre Visitenkarte. |
+| Vorname | der | –n | Vorname: Lorenzo, Lucie, Jürgen, … |
+| Familienname | der | –n | Familienname: Menardi, Plank, … |
+| Straße | die | –n | Straße: Hofgasse, Bahnhofstraße, Aachener Straße … |
+| Stadt | die | ¨e | Stadt: Berlin, Linz, Schaan, … |
+| Land | das | ¨er | Land: Österreich, Schweiz, … |
+| E-Mail | die | –s | E-Mail: l-eigner@dk.de |
+| Telefon | das | –e | Telefon: 041 227 11 00 |
+| Formular | das | –e | Ergänzen Sie das Formular. |
+| Kurs | der | –e | Kurs A1/1 Deutsch als Fremdsprache |
+| Fremdsprache | die | –n | Ich spreche eine Fremdsprache: Deutsch. |
+| Anmeldung | die | –en | Kurs A1/1 Deutsch als Fremdsprache – Anmeldung |
+| Postleitzahl | die | –en | Die Postleitzahl ist 50676. |
+
+## TIPP
+
+Lernen Sie Wörter in Gruppen.
+
+## Länder und Sprachen
+
+| Land | Sprache |
+|------|---------|
 | Polen | Polnisch |
 | die Türkei | Türkisch |
 | Spanien | Spanisch |
+| Ungarn | Ungarisch |
+| Deutschland | Deutsch |
+| Österreich | Deutsch |
+| die Schweiz | Deutsch |
+| Rumänien | Rumänisch |
+| Syrien | Arabisch |
+| Bulgarien | Bulgarisch |
 | Italien | Italienisch |
 | Griechenland | Griechisch |
-| Rumänien | Rumänisch |
-| Bulgarien | Bulgarisch |
-| Syrien | Arabisch |
-| Ungarn | Ungarisch |
 
-## Adjektive / Sonstiges
-
-| Deutsch | Typ | Komparativ | Superlativ | Englisch |
-|---------|-----|------------|------------|----------|
-| interessant | Adjektiv | interessanter | am interessantesten | interesting |
-| toll | Adjektiv | toller | am tollsten | great |
-| international | Adjektiv | internationaler | am internationalsten | international |
-| ein bisschen | Adverb | - | - | a little |
-| auch | Adverb | - | - | also / too |
-| und | Konjunktion | - | - | and |
-| ja | Partikel | - | - | yes |
-| nein | Partikel | - | - | no |
+> UNSURE: None. All entries legible across IMG_0780–IMG_0782. Note: in section E there is no separate "Wort" (non-noun) entry; the heading-only row is a placeholder and can be removed if a no-content section is undesired. The colored bullet markers (red/blue/green dots) printed before many headwords in the book are level/category markers, not separable-verb dots, so they are omitted here per the conventions (the middle dot `·` is reserved for separable verbs, of which this lesson has none).
