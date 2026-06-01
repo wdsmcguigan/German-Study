@@ -1,4 +1,4 @@
-# Wortschatz – Lektion 11: Lernwortschatz
+# Wortschatz – Lektion 11: Miteinander
 
 ## A
 
