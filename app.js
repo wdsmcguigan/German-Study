@@ -286,6 +286,47 @@ function setupUI() {
     flashcardSystem.start(deck);
   });
 
+  // Export selected levels as JSON
+  const fcExportBtn = document.getElementById('fc-export-json');
+  fcExportBtn?.addEventListener('click', () => {
+    const levels = [];
+    if (chkboxA1?.checked) levels.push('a1');
+    if (chkboxA2?.checked) levels.push('a2');
+    if (chkboxB1?.checked) levels.push('b1');
+
+    const words = levels.flatMap(lv => vocabByLevel[lv]);
+    if (words.length === 0) {
+      showToast('Bitte wähle mindestens ein Level aus.');
+      return;
+    }
+
+    const payload = {
+      exportedAt: new Date().toISOString(),
+      levels: levels.map(l => l.toUpperCase()),
+      count: words.length,
+      words: words.map(w => ({
+        front: w.front,
+        back: w.back,
+        pos: w.pos ?? null,
+        details: w.details ?? {},
+        level: w.sourceLevel,
+        lektion: w.sourceLektion
+      }))
+    };
+
+    const blob = new Blob([JSON.stringify(payload, null, 2)], { type: 'application/json' });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = `wortschatz-${levels.join('-')}.json`;
+    document.body.appendChild(a);
+    a.click();
+    a.remove();
+    URL.revokeObjectURL(url);
+
+    showToast(`${words.length} Wörter exportiert.`);
+  });
+
   // Cheatsheet Upload
   const csUploadBtn = document.getElementById('cs-upload-btn');
   const csUploadInput = document.getElementById('cs-upload-input');
