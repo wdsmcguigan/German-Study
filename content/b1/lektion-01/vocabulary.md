@@ -75,7 +75,7 @@
 | Deutsch | Artikel | Plural | Englisch |
 |---------|---------|--------|----------|
 | Einladung | die | -en | invitation |
-| Mejorenflier | der | – | (unclear / likely OCR error) |
+| Motorroller | der | – | motor scooter / moped |
 | Trainer / Trainerin | der / die | – | trainer / coach |
 | Tor | das | -e | goal / gate |
 | Best | das | – | best |

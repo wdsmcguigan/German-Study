@@ -124,7 +124,7 @@
 | verschwinden (ist verschwunden) | to disappear |
 | verschreiben (hat verschrieben) | to prescribe |
 | erhalten (hat erhalten) | to receive / to preserve |
-| futzen (hat gefutzt) | (unclear / likely OCR error) |
+| führen (hat geführt) | to lead / to conduct |
 
 ## D – Abnehmen / Gewicht
 
