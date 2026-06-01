@@ -1,90 +1,175 @@
 # Wortschatz – Lektion 3: Essen und Trinken
 
-## Mahlzeiten und Essgewohnheiten
+## FOTO-HÖRGESCHICHTE
 
-| Deutsch | Artikel | Englisch |
-|---------|---------|----------|
-| Mahlzeit | die | meal |
-| Honig | der | honey |
-| Marmelade | die | jam |
-| Schweinefleisch | das | pork |
-| Alkohol | der | alcohol |
-| Nachspeise | die | dessert |
-| Vorspeise | die | starter / appetiser |
-| Hauptgericht | das | main course |
-| Tagesessen | das | dish of the day |
-| Kantine | die | canteen |
-| Frühstück | das | breakfast |
+### Nomen
 
-## Essgewohnheiten (Eating Habits)
+| Wort | Artikel | Plural | Englisch |
+|------|---------|--------|----------|
+| Nachspeise | die | –n | dessert |
+| Honig | der | – (Sg.) | honey |
 
-| Deutsch | Englisch |
-|---------|----------|
+## A
+
+### Nomen
+
+| Wort | Artikel | Plural | Englisch |
+|------|---------|--------|----------|
+| Mahlzeit | die | –en | meal |
+| Tasse | die | –n | cup |
+| Essen | das | – | food |
+| Mittagessen | das | – | lunch |
+| Kantine | die | –n | canteen |
+| Gericht | das | –e | dish |
+| Gewohnheit | die | –en | habit |
+| Marmelade | die | –n | jam / marmalade |
+
+### Verben
+
+| Wort | Englisch |
+|------|----------|
+| stimmen (hat gestimmt) | to be correct / agree |
+| übernehmen, du übernimmst, er übernimmt (hat übernommen) | to take over |
+
+### Adjektive / Adverbien
+
+| Wort | Englisch |
+|------|----------|
 | meistens | mostly / usually |
-| selten | rarely |
-| stimmen | to be correct / to agree |
-| unterwegs | on the go / out and about |
-| morgens | in the mornings |
+| selten | rarely / seldom |
+| unterwegs | on the go |
 | mittags | at midday |
-| abends | in the evenings |
+| morgens | in the mornings |
+| bestimmt | certainly / definitely |
 | fast | almost |
 | vegetarisch | vegetarian |
-| regional | regional / local |
-| frisch | fresh |
-| rund | round |
-| unterschiedlich | varied / different |
-| überraschen | to surprise |
-| seltsam | strange / unusual |
-| scharf | spicy / sharp |
-| salzig | salty |
-| süß | sweet |
-| fett | fatty |
-| satt | full / satisfied |
-| genau | exactly |
+
+## B
+
+### Nomen
+
+| Wort | Artikel | Plural | Englisch |
+|------|---------|--------|----------|
+| Schwein | das | –e | pig / pork |
+| Alkohol | der | – (Sg.) | alcohol |
+| Löffel | der | – | spoon |
+| Messer | das | – | knife |
+| Teller | der | – | plate |
+| Gabel | die | –n | fork |
+| Quartett | das | –e | quartet |
+| Topf | der | ¨e | pot |
+| Kanne | die | –n | jug / pot |
+| Schüssel | die | –n | bowl |
+| Pfanne | die | –n | frying pan |
+
+### Adjektive / Adverbien
+
+| Wort | Englisch |
+|------|----------|
+| deutsch | German |
+| zweimal | twice |
+
+## C
+
+### Nomen
+
+| Wort | Artikel | Plural | Englisch |
+|------|---------|--------|----------|
+| Appetit | der | – (Sg.) | appetite |
+| Diät | die | –en | diet |
+
+### Verben
+
+| Wort | Englisch |
+|------|----------|
+| riechen (hat gerochen) | to smell |
+| (sich) aus·ziehen (hat ausgezogen) | to undress / take off |
+
+### Adjektive / Adverbien
+
+| Wort | Englisch |
+|------|----------|
+| voll | full |
+| okay | okay |
 | vorher | beforehand |
 | höflich | polite |
+| satt | full / satisfied |
+| anders | different / otherwise |
+| genauso | just the same |
+| überrascht (überraschen, hat überrascht) | surprised (to surprise) |
+| seltsam | strange |
+| scharf | spicy / hot |
+| süß | sweet |
+| salzig | salty |
+| fett | fatty |
 
-## Im Restaurant / In der Kantine
+## D
 
-| Deutsch | Artikel | Englisch |
-|---------|---------|----------|
-| Appetit | der | appetite |
-| Tasse | die | cup |
-| Löffel | der | spoon |
-| Gabel | die | fork |
-| Messer | das | knife |
-| Teller | der | plate |
-| Topf | der | pot |
-| Pfanne | die | frying pan |
-| Kanne | die | jug / pot (for coffee) |
-| Schüssel | die | bowl |
-| Glas | das | glass |
-| Trinkgeld | das | tip |
-| Quartett | das | quartet / set of four |
+### Nomen
 
-## Lebensmittel und Zutaten
+| Wort | Artikel | Plural | Englisch |
+|------|---------|--------|----------|
+| Art | die | –en | type / kind |
+| Müsli | das | –s | muesli / cereal |
+| Frucht | die | ¨e | fruit |
+| Vorspeise | die | –n | starter / appetiser |
+| Prozent | das | –e | percent |
+| Markt | der | ¨e | market |
+| Produkt | das | –e | product |
+| Umgebung | die | –en | surroundings / area |
+| Steak | das | –s | steak |
 
-| Deutsch | Artikel | Englisch |
-|---------|---------|----------|
-| Frucht | die | fruit |
-| Mist | der (coll.) | dung / rubbish (expr.) |
-| Prozent | das | percent |
-| Produkt | das | product |
-| Umgebung | die | surroundings / area |
-| Steak | das | steak |
-| Schnitzel | das | schnitzel |
-| Suppe | die | soup |
-| Zitrone | die | lemon |
-| Braten | der | roast |
+### Verben
 
-## Fabrik und Industrie
+| Wort | Englisch |
+|------|----------|
+| leiten (hat geleitet) | to lead / manage |
 
-| Deutsch | Artikel | Englisch |
-|---------|---------|----------|
-| Fabrik | die | factory |
-| täglich | – | daily |
-| gegen | – | against / around (time) |
-| reichen | – | to be enough |
-| voll | – | full |
-| ganz | – | whole / completely |
-| anders | – | different / otherwise |
+### Adjektive / Adverbien
+
+| Wort | Englisch |
+|------|----------|
+| frisch | fresh |
+| rund | round / about |
+| unterschiedlich | varied / different |
+| Haupt- | main |
+| regional | regional |
+
+## E
+
+### Nomen
+
+| Wort | Artikel | Plural | Englisch |
+|------|---------|--------|----------|
+| Fabrik | die | –en | factory |
+| Schnitzel | das | – | schnitzel |
+| Suppe | die | –n | soup |
+| Stück | das | –e | piece |
+| Zitrone | die | –n | lemon |
+| Rind | das | –er | beef / cattle |
+| Braten | der | – | roast |
+| Trinkgeld | das | –er | tip |
+| Glas | das | ¨er | glass |
+
+### Verben
+
+| Wort | Englisch |
+|------|----------|
+| planen (hat geplant) | to plan |
+
+### Adjektive / Adverbien
+
+| Wort | Englisch |
+|------|----------|
+| gegen | around (time) / against |
+| täglich | daily |
+| sauber | clean |
+| besetzt | occupied / taken |
+
+## TIPP
+
+### Nomen
+
+| Wort | Artikel | Plural | Englisch |
+|------|---------|--------|----------|
+| Frühstück | das | –e | breakfast |
