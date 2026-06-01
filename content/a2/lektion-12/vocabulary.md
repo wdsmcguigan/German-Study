@@ -1,4 +1,4 @@
-# Wortschatz – Lektion 12: Lernwortschatz
+# Wortschatz – Lektion 12: Reisen
 
 ## A
 
