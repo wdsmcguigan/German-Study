@@ -1467,4 +1467,60 @@ body.menu-open {
   .fc-card-wrap {
     height: 320px;
   }
+
+  /* Vocab/search tables → stacked cards (no horizontal scroll) */
+  .search-results-table-wrap {
+    overflow: visible;
+  }
+
+  .vocab-table thead {
+    display: none;
+  }
+
+  .vocab-table,
+  .vocab-table tbody,
+  .vocab-table tr,
+  .vocab-table td {
+    display: block;
+    width: 100%;
+  }
+
+  .vocab-table tr {
+    padding: 14px 18px;
+    border-bottom: 1px solid var(--border-color);
+  }
+
+  .vocab-table tbody tr:last-child {
+    border-bottom: none;
+  }
+
+  .vocab-table td {
+    padding: 2px 0;
+    border: none;
+  }
+
+  .col-de {
+    font-size: 16px;
+    font-weight: 600;
+  }
+
+  .col-en::before {
+    content: "\2192\00a0"; /* → */
+    color: var(--text-muted);
+  }
+
+  .col-details:empty {
+    display: none;
+  }
+
+  .col-lek {
+    font-size: 12px;
+    margin-top: 4px;
+  }
+
+  /* Wortschatz toolbar stacks on narrow screens */
+  .vocab-toolbar-right {
+    width: 100%;
+    justify-content: space-between;
+  }
 }
