@@ -1,193 +1,131 @@
-# Wortschatz – Lektion 11: Miteinander
+# Wortschatz – Lektion 11: Lernwortschatz
 
-## Einkaufen und Umtauschen
+## A
 
-| Deutsch | Artikel | Plural | Englisch |
-|---------|---------|--------|----------|
-| Lieferung | die | -en | delivery |
-| Bedingung | die | -en | condition / requirement |
-| Umtausch | der | ¨-e | exchange / swap |
-| Beleg | der | -e | receipt |
-| Mangel | der | ¨ | shortage / defect |
-| Beratung | die | -en | advice / consultation |
-| Fachmann / Fachfrau | der / die | ¨-er/–en | specialist / expert |
-| Fachleute | die (Pl.) | – | specialists |
-| Verbraucher / Verbraucherin | der / die | -/–nen | consumer |
-
-## Einkaufen und Umtauschen – Verben
-
-| Deutsch | Englisch |
-|---------|----------|
-| bestellen | to order |
-
-## Foto-Hörgeschichte (3)
+### A – Nomen
 
 | Deutsch | Artikel | Plural | Englisch |
 |---------|---------|--------|----------|
-| Missgeschick | das | -e | mishap / blunder |
-| Kasten | der | ¨ | box / crate |
-| Vertrauen | das | (Sg.) | trust |
-
-## Foto-Hörgeschichte – Verben
-
-| Deutsch | Englisch |
-|---------|----------|
-| betrügen (hat betrogen) | to cheat / deceive |
-| an·zeigen (hat angezeigt) | to report (to police) / to display |
-| bestrafen (hat bestraft) | to punish |
-| zerstören (hat zerstört) | to destroy |
-| stehlen (er stiehlt / hat gestohlen) | to steal |
-
-## Foto-Hörgeschichte – Adjektive
-
-| Deutsch | Englisch |
-|---------|----------|
-| illegal | illegal |
-
-## A1
-
-| Deutsch | Artikel | Plural | Englisch |
-|---------|---------|--------|----------|
-| Gebiet | das | -e | area / territory |
+| Gebiet | das | -e | area / region |
 | Tropfen | der | – | drop |
-
-## A1 – Verben / Adjektive
-
-| Deutsch | Englisch |
-|---------|----------|
-| weg·gehen (ist weggegangen) | to leave / to go away |
-| behindern (hat behindert) | to hinder / obstruct |
-| endgültig | final / definitive |
-| auf·geben (du gibst auf, er gibt auf / hat aufgegeben) | to give up |
-
-## A3
-
-| Deutsch | Artikel | Plural | Englisch |
-|---------|---------|--------|----------|
 | Aufforderung | die | -en | request / demand |
 | Erkältung | die | -en | cold (illness) |
 | Flöte | die | -n | flute |
 | Instrument | das | -e | instrument |
 
-## A3 – Verben / Adjektive
+### A – Verben
 
 | Deutsch | Englisch |
 |---------|----------|
-| sich bemühen (hat sich bemüht) | to make an effort / to try hard |
-| sich vor·nehmen (du nimmst dir vor / hat sich vorgenommen) | to resolve / to plan to do |
-| fest | firm / fixed |
+| weg·gehen (ist weggegangen) | to go away / leave |
+| behindern (hat behindert) | to obstruct / hinder |
+| auf·geben (du gibst auf, er gibt auf / hat aufgegeben) | to give up |
+| sich bemühen (hat sich bemüht) | to make an effort / try |
+| sich vornehmen (du nimmst dir vor, er nimmt sich vor / hat sich vorgenommen) | to resolve / intend to |
+
+### A – Adjektive / Adverbien
+
+| Deutsch | Englisch |
+|---------|----------|
+| endgültig | final / definitive |
+| fest | firm(ly) / fixed |
 | realistisch | realistic |
 
 ## B2
 
+### B2 – Nomen
+
 | Deutsch | Artikel | Plural | Englisch |
 |---------|---------|--------|----------|
 | Generation | die | -en | generation |
-| Hauptbahnhof | der | ¨-e | main train station |
-| Runde | die | -n | round / lap |
+| Hauptbahnhof | der | ¨e | main train station |
+| Runde | die | -n | round / group |
 | ICE | der | -s | ICE (high-speed train) |
-
-## B2 – Verben / Adjektive
-
-| Deutsch | Englisch |
-|---------|----------|
-| bereit | ready / prepared |
-| sich verspäten (hat sich verspätet) | to be late / to be delayed |
-
-## E1 – Speisewagen
-
-| Deutsch | Artikel | Plural | Englisch |
-|---------|---------|--------|----------|
 | Speisewagen | der | – | dining car |
+| Ausnahme | die | -n | exception |
 
-## E1 – Verben / Adjektive
+### B2 – Verben
 
 | Deutsch | Englisch |
 |---------|----------|
-| minutenlang | for minutes on end |
+| sich verspäten (hat sich verspätet) | to be late / delayed |
 | sich weigern (hat sich geweigert) | to refuse |
-| zu·schauen (hat zugeschaut) | to watch / to look on |
+| zu·schauen (hat zugeschaut) | to watch / look on |
+
+### B2 – Adjektive / Adverbien
+
+| Deutsch | Englisch |
+|---------|----------|
+| bereit | ready |
+| minutenlang | for minutes (on end) |
 | unerträglich | unbearable |
-| absolut | absolute / completely |
+| absolut | absolute(ly) |
 | eindeutig | clear / unambiguous |
 
-## E2
+## C
+
+### C – Nomen
 
 | Deutsch | Artikel | Plural | Englisch |
 |---------|---------|--------|----------|
-| Ausnahme | die | -n | exception |
 | Geschwindigkeitsbeschränkung | die | -en | speed limit |
 
-## E2 – Verben / Adjektive
+### C – Verben
 
 | Deutsch | Englisch |
 |---------|----------|
-| eilig | urgent / in a hurry |
 | überqueren (hat überquert) | to cross |
-| vor·kommen (ist vorgekommen) | to occur / to happen |
+| vor·kommen (ist vorgekommen) | to happen / occur |
+
+### C – Adjektive / Adverbien
+
+| Deutsch | Englisch |
+|---------|----------|
+| eilig | hurried / in a hurry |
 
 ## D2
+
+### D2 – Nomen
 
 | Deutsch | Artikel | Plural | Englisch |
 |---------|---------|--------|----------|
 | Missverständnis | das | -se | misunderstanding |
-| Herkunftsland | das | ¨-er | country of origin |
+| Herkunftsland | das | ¨er | country of origin |
 | Flucht | die | (Sg.) | flight / escape |
 
-## D2 – Adjektive
+### D2 – Adjektive / Adverbien
 
 | Deutsch | Englisch |
 |---------|----------|
 | kulturell | cultural |
 
-## E1 – Autor / Verhalten
+## E
+
+### E – Nomen
 
 | Deutsch | Artikel | Plural | Englisch |
 |---------|---------|--------|----------|
-| Autor / Autorin | der / die | -en/–nen | author |
-| Geschmack | der | ¨-er | taste |
+| Autor / Autorin | der / die | -en / -nen | author |
+| Geschmack | der | ¨er | taste |
 | Anzahl | die | (Sg.) | number / quantity |
+| Plakat | das | -e | poster |
 
-## E1 – Verben
+### E – Verben
 
 | Deutsch | Englisch |
 |---------|----------|
-| sich verhalten (hat sich verhalten) | to behave |
+| sich verhalten (du verhältst dich, er verhält sich / hat sich verhalten) | to behave |
 | beleidigen (hat beleidigt) | to insult / offend |
 | behaupten (hat behauptet) | to claim / assert |
 | beweisen (hat bewiesen) | to prove |
 | loben (hat gelobt) | to praise |
 | zählen (hat gezählt) | to count |
+| missverstehen (hat missverstanden) | to misunderstand |
 
-## E1 – Adjektive
+### E – Adjektive / Adverbien
 
 | Deutsch | Englisch |
 |---------|----------|
 | neugierig | curious |
-| verständlich | understandable |
-
-## E4 – Kriminalität
-
-| Deutsch | Artikel | Plural | Englisch |
-|---------|---------|--------|----------|
-| Plakat | das | -e | poster |
-
-## E4 – Verben
-
-| Deutsch | Englisch |
-|---------|----------|
-| betrügen | to cheat / deceive |
-| zerstören | to destroy |
-| stehlen | to steal |
-| behindern | to hinder |
-| beleidigen | to insult |
-| lügen | to lie |
-| beschädigen | to damage |
-| verletzen | to hurt / injure |
-| missverstehen (hat missverstanden) | to misunderstand |
-
-## E4 – Adjektive
-
-| Deutsch | Englisch |
-|---------|----------|
+| verständlich | understandable / comprehensible |
 | notwendig | necessary |

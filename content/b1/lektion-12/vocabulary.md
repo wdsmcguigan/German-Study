@@ -1,172 +1,178 @@
 # Wortschatz – Lektion 12: Soziales Engagement
 
-## Foto-Hörgeschichte (2)
+## A
 
-| Deutsch | Artikel | Plural | Englisch |
-|---------|---------|--------|----------|
-| Biene | die | -n | bee |
-| Organisation | die | -en | organisation |
-| Schwierigkeit | die | -en | difficulty |
+| Verb | Formen |
+|------|--------|
+| auf·führen | (hat aufgeführt) |
 
-## Foto-Hörgeschichte – Adjektive
+| Adjektiv/Adverb | |
+|-----------------|--|
+| sonstig- | |
 
-| Deutsch | Englisch |
-|---------|----------|
-| verantwortlich | responsible |
+| Nomen | Artikel | Plural | |
+|-------|---------|--------|--|
+| Tagesmutter | die | ¨ | |
+| Vermittlung | die | -en | |
 
-## Ellas Kolumne (5)
+| Adjektiv/Adverb | |
+|-----------------|--|
+| pensioniert sein | |
 
-| Deutsch | Artikel | Plural | Englisch |
-|---------|---------|--------|----------|
-| Zirkus | der | -se | circus |
-| Publikum | das | (Sg.) | audience / public |
+| Nomen | Artikel | Plural | |
+|-------|---------|--------|--|
+| Augenblick | der | -e | |
+| Kreis | der | -e | |
+| Dienst | der | -e | |
 
-## Ellas Kolumne – Verben
+| Verb | Formen |
+|------|--------|
+| vor·lesen (du liest vor, er liest vor, hat vorgelesen) | |
 
-| Deutsch | Englisch |
-|---------|----------|
-| unterstützen (hat unterstützt) | to support |
+| Adjektiv/Adverb | |
+|-----------------|--|
+| zukünftig | |
 
-## A2
+| Nomen | Artikel | Plural | |
+|-------|---------|--------|--|
+| Betreuung | die | -en | |
 
-| Deutsch | Artikel | Plural | Englisch |
-|---------|---------|--------|----------|
-| Tagesmutter | die | ¨ | childminder / day-care mother |
-| Vermittlung | die | -en | placement / mediation |
-| Augenblick | der | -e | moment |
-| Kreis | der | -e | circle / district |
-
-## A2 – Verben / Adjektive
-
-| Deutsch | Englisch |
-|---------|----------|
-| auf·führen (hat aufgeführt) | to perform / to stage |
-| sonstig- | other / miscellaneous |
-| pensioniert sein | to be retired |
-| zukünftig | future (adj.) |
+| Adjektiv/Adverb | |
+|-----------------|--|
+| wöchentlich | |
 
 ## A3
 
-| Deutsch | Artikel | Plural | Englisch |
-|---------|---------|--------|----------|
-| Dienst | der | -e | service / duty |
-| Betreuung | die | -en | care / supervision |
-| Geduld | die | (Sg.) | patience |
+| Nomen | Artikel | Plural | |
+|-------|---------|--------|--|
+| Geduld | die | (Sg.) | |
 
-## A3 – Verben / Adjektive
+| Adjektiv/Adverb | |
+|-----------------|--|
+| vernünftig | |
 
-| Deutsch | Englisch |
-|---------|----------|
-| vor·lesen (du liest vor, er liest vor / hat vorgelesen) | to read aloud |
-| wöchentlich | weekly |
-| vernünftig | reasonable / sensible |
+## B / B2
 
-## B2
+| Nomen | Artikel | Plural | |
+|-------|---------|--------|--|
+| Jugend | die | (Sg.) | |
+| Feuerwehr | die | -en | |
 
-| Deutsch | Artikel | Plural | Englisch |
-|---------|---------|--------|----------|
-| Jugend | die | (Sg.) | youth |
-| Feuerwehr | die | -en | fire brigade |
+## C
+
+| Adjektiv/Adverb | |
+|-----------------|--|
+| beinahe | |
+
+| Verb | Formen |
+|------|--------|
+| ein·treten (du trittst ein, er tritt ein, ist eingetreten) | |
+| klettern | (ist geklettert) |
+
+| Adjektiv/Adverb | |
+|-----------------|--|
+| jahrzehntelang | |
+| solange | |
+
+| Verb | Formen |
+|------|--------|
+| versorgen | (hat versorgt) |
 
 ## C2
 
-| Deutsch | Artikel | Plural | Englisch |
-|---------|---------|--------|----------|
-| Integration | die | (Sg.) | integration |
+| Nomen | Artikel | Plural | |
+|-------|---------|--------|--|
+| Integration | die | (Sg.) | |
 
-## C2 – Verben / Adjektive
+| Verb | Formen |
+|------|--------|
+| hin·weisen | (hat hingewiesen) |
 
-| Deutsch | Englisch |
-|---------|----------|
-| beinahe | almost / nearly |
-| ein·treten (du trittst ein, er tritt ein / ist eingetreten) | to join / to enter |
-| klettern (ist geklettert) | to climb |
-| jahrzehntelang | for decades |
-| solange | as long as |
-| versorgen (hat versorgt) | to provide for / supply |
-| hin·weisen (hat hingewiesen) | to point out / refer to |
+| Nomen | Artikel | Plural | |
+|-------|---------|--------|--|
+| Bürgerinitiative | die | -n | |
+| Babysitter | der | - | |
+| Babysitterin | die | -nen | |
+| Verfallsdatum | das | -daten | |
 
-## D1
+| Verb | Formen |
+|------|--------|
+| verteilen | (hat verteilt) |
 
-| Deutsch | Artikel | Plural | Englisch |
-|---------|---------|--------|----------|
-| Bürgerinitiative | die | -n | citizens' initiative |
+| Nomen | Artikel | Plural | |
+|-------|---------|--------|--|
+| Kälte | die | (Sg.) | |
 
-## D2 – Babysitter
+| Adjektiv/Adverb | |
+|-----------------|--|
+| öko(logisch) | |
 
-| Deutsch | Artikel | Plural | Englisch |
-|---------|---------|--------|----------|
-| Babysitter / Babysitterin | der / die | -/–nen | babysitter |
-| Verfallsdatum | das | -daten | expiry date |
-| Kälte | die | (Sg.) | cold (weather) |
-| Altenheim | das | -e | old people's home |
-
-## D2 – Verben / Adjektive
-
-| Deutsch | Englisch |
-|---------|----------|
-| verteilen (hat verteilt) | to distribute |
-| ökologisch | ecological |
+| Nomen | Artikel | Plural | |
+|-------|---------|--------|--|
+| Altenheim | das | -e | |
 
 ## C3
 
-| Deutsch | Artikel | Plural | Englisch |
-|---------|---------|--------|----------|
-| Einrichtung | die | -en | institution / facility |
-| Gesellschaft | die | -en | society |
-| Mitglied | das | -er | member |
+| Nomen | Artikel | Plural | |
+|-------|---------|--------|--|
+| Einrichtung | die | -en | |
 
-## C3 – Adjektive
+| Adjektiv/Adverb | |
+|-----------------|--|
+| egoistisch | |
 
-| Deutsch | Englisch |
-|---------|----------|
-| egoistisch | egoistic / selfish |
+| Nomen | Artikel | Plural | |
+|-------|---------|--------|--|
+| Gesellschaft | die | -en | |
 
-## C3 – Verben
+| Verb | Formen |
+|------|--------|
+| sich ein·setzen | (hat sich eingesetzt) |
 
-| Deutsch | Englisch |
-|---------|----------|
-| ein·setzen (sich) (hat sich eingesetzt) | to commit oneself / stand up for |
+| Nomen | Artikel | Plural | |
+|-------|---------|--------|--|
+| Umweltschutz | der | (Sg.) | |
 
-## D1
+## D / D1 / D2
 
-| Deutsch | Artikel | Plural | Englisch |
-|---------|---------|--------|----------|
-| Philosophie | die | -n | philosophy |
-| Klinik | die | -en | clinic |
-| Maßnahme | die | -n | measure / step |
-| Umweltschutz | der | (Sg.) | environmental protection |
+| Nomen | Artikel | Plural | |
+|-------|---------|--------|--|
+| Philosophie | die | -n | |
+| Klinik | die | -en | |
+| Maßnahme | die | -n | |
 
-## D2 – Verhalten
+| Adjektiv/Adverb | |
+|-----------------|--|
+| über- | |
 
-| Deutsch | Artikel | Plural | Englisch |
-|---------|---------|--------|----------|
-| Gewissen | das | – | conscience |
-| Wolle | die | (Sg.) | wool |
-| Lüge | die | -n | lie |
+## D3
 
-## D2 – Adjektive
+| Adjektiv/Adverb | |
+|-----------------|--|
+| tolerant | |
 
-| Deutsch | Englisch |
-|---------|----------|
-| über- | over- |
-| tolerant | tolerant |
-| heimlich | secret / secretly |
+## E / E1
+
+| Nomen | Artikel | Plural | |
+|-------|---------|--------|--|
+| Gewissen | das | - | |
+
+| Adjektiv/Adverb | |
+|-----------------|--|
+| vorgestern | |
+
+| Nomen | Artikel | Plural | |
+|-------|---------|--------|--|
+| Wolle | die | (Sg.) | |
 
 ## E2
 
-| Deutsch | Englisch |
-|---------|----------|
-| vorgestern | the day before yesterday |
+| Nomen | Artikel | Plural | |
+|-------|---------|--------|--|
+| Lüge | die | -n | |
 
-## Soziales Engagement – Überblick
+## E3
 
-| Deutsch | Artikel | Plural | Englisch |
-|---------|---------|--------|----------|
-| Einrichtung | die | -en | institution / facility |
-| Bürgerinitiative | die | -n | citizens' initiative |
-| Betreuung | die | -en | care |
-| Verein | der | -e | club / association |
-| Organisation | die | -en | organisation |
-| Gesellschaft | die | -en | society |
-| Mitglied | das | -er | member |
+| Adjektiv/Adverb | |
+|-----------------|--|
+| heimlich | |

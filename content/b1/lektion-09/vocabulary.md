@@ -1,57 +1,41 @@
 # Wortschatz – Lektion 9: Virtuelle Welt
 
-## Foto-Hörgeschichte (Abschnitt 1)
+## Lernwortschatz (Foto-Hörgeschichte: Bildwortschatz)
 
 | Deutsch | Artikel | Plural | Englisch |
 |---------|---------|--------|----------|
-| Ordner | der | – | folder |
+| Computer | der | – | computer |
 | Festplatte | die | -n | hard drive |
 | Datei | die | -en | file |
 | Virus | das/der | Viren | virus |
 | Monitor | der | -e | monitor / screen |
+| Ordner | der | – | folder |
+| Tastatur | die | -en | keyboard |
+| Akku | der | -s | battery (rechargeable) |
+| Rechner | der | – | computer / PC |
+| Passwort | das | ¨er | password |
+| Symbol | das | -e | symbol |
 
-## Verben (Abschnitt 1)
+## Lernwortschatz (Foto-Hörgeschichte: Verben & Adjektive)
 
 | Deutsch | Englisch |
 |---------|----------|
 | virtuell | virtual |
-| (he)runter·laden, du lädst herunter, er lädt herunter (hat heruntergeladen) | to download |
-| an·schließen (hat angeschlossen) | to connect / to plug in |
-| löschen (hat gelöscht) | to delete / to erase |
+| (he)runter·laden | to download |
+| an·schließen | to connect / to plug in |
+| löschen | to delete / to erase |
+| installieren | to install |
+| erstellen | to create / to set up |
 
-## Abschnitt 1 Nomen (weitere)
+## Mein Schreibtisch (Tipp)
 
 | Deutsch | Artikel | Plural | Englisch |
 |---------|---------|--------|----------|
+| Computer | der | – | computer |
+| Monitor | der | -e | monitor / screen |
 | Tastatur | die | -en | keyboard |
-
-## Abschnitt 2
-
-| Deutsch | Englisch |
-|---------|----------|
-| an·klicken (hat angeklickt) | to click on |
-
-## Abschnitt 2 Nomen
-
-| Deutsch | Artikel | Plural | Englisch |
-|---------|---------|--------|----------|
-| Gott | der | ¨-er | God |
-
-## Ellas Kolumne (Abschnitt 3)
-
-| Deutsch | Englisch |
-|---------|----------|
-| tagelang | for days |
-| bevor | before |
-| sowieso | anyway / in any case |
-
-## Ellas Kolumne Nomen
-
-| Deutsch | Artikel | Plural | Englisch |
-|---------|---------|--------|----------|
-| Unsinn | der | (Sg.) | nonsense |
-| Erfindung | die | -en | invention |
-| Akku | der | -s | battery (rechargeable) |
+| Unterlagen | die | (Pl.) | documents / papers |
+| Stift | der | -e | pen / pencil |
 
 ## A1
 
@@ -59,19 +43,17 @@
 |---------|----------|
 | nachdem | after |
 
-## A1 Nomen
+## A3
 
 | Deutsch | Artikel | Plural | Englisch |
 |---------|---------|--------|----------|
 | Rechner | der | – | computer / calculator |
 
-## Verben (A1)
-
 | Deutsch | Englisch |
 |---------|----------|
 | installieren (hat installiert) | to install |
 
-## A3
+## A5
 
 | Deutsch | Artikel | Plural | Englisch |
 |---------|---------|--------|----------|
@@ -97,7 +79,7 @@
 |---------|---------|--------|----------|
 | Manager | der | – | manager (male) |
 | Managerin | die | -nen | manager (female) |
-| Wohnblock | der | ¨-e | block of flats |
+| Wohnblock | der | ¨e | block of flats |
 
 ## C1
 
@@ -106,14 +88,14 @@
 | beschreiben (hat beschrieben) | to describe |
 | beschließen (hat beschlossen) | to decide |
 
-## C2 Nomen
+## C2
 
 | Deutsch | Artikel | Plural | Englisch |
 |---------|---------|--------|----------|
 | Salon | der | -s | salon |
-| Knopf | der | ¨-e | button / knob |
+| Knopf | der | ¨e | button / knob |
 | Verzeihung | die | (Sg.) | pardon / apology |
-| Passwort | das | ¨-er | password |
+| Passwort | das | ¨er | password |
 | Symbol | das | -e | symbol |
 
 ## C3
@@ -128,14 +110,16 @@
 |---------|----------|
 | süchtig | addicted |
 
-## D2 – Virtueller Alltag
+## D2
 
 | Deutsch | Englisch |
 |---------|----------|
 | vorn | in front / at the front |
 | sämtlich- | all / entire |
+| sowieso | anyway / in any case |
 | fort | away / gone |
 | wieso | why / how come |
+| auf·regen (hat aufgeregt) | to upset / to get worked up |
 
 ## D2 Nomen
 
@@ -143,20 +127,14 @@
 |---------|---------|--------|----------|
 | Mountainbike | das | -s | mountain bike |
 
-## Verben (D2)
-
-| Deutsch | Englisch |
-|---------|----------|
-| sich auf·regen (hat sich aufgeregt) | to get upset / to get worked up |
-
-## E1 – Digitale Medien
+## E1
 
 | Deutsch | Englisch |
 |---------|----------|
 | verändern (sich) (hat verändert) | to change |
 | digital | digital |
 
-## E2 – Diskussion
+## E2
 
 | Deutsch | Artikel | Plural | Englisch |
 |---------|---------|--------|----------|
@@ -172,20 +150,14 @@
 | diskutieren (hat diskutiert) | to discuss |
 | ändern (sich) (hat geändert) | to change |
 
-## Mein Schreibtisch (Bildwortschatz)
-
-| Deutsch | Artikel | Plural | Englisch |
-|---------|---------|--------|----------|
-| Computer | der | – | computer |
-| Festplatte | die | -n | hard drive |
-| Datei | die | -en | file |
-| Virus | das/der | Viren | virus |
-| Monitor | der | -e | monitor / screen |
-| Rechner | der | – | computer / PC |
-| Tastatur | die | -en | keyboard |
-| Akku | der | -s | battery (rechargeable) |
-| Ordner | der | – | folder |
-| Passwort | das | ¨-er | password |
-| Symbol | das | -e | symbol |
-| Unterlagen | die | (Pl.) | documents / papers |
-| Stift | der | -e | pen / pencil |
+<!-- UNSURE / NOTES:
+- IMG_1722 was not photographed. IMG_1724 (page start) shows the "Virtuelle Welt"
+  summary picture box plus section markers A1 and A2 in the right margin, but the
+  DETAILED per-exercise entries for the early sections (the A2 block, and any A1
+  detail entries before "nachdem") fall on the missing IMG_1722 and could not be
+  transcribed. There is therefore a gap between the opening box and section "A1: nachdem".
+- "auf·regen (hat aufgeregt)": printed lemma has no leading "sich"; the example
+  sentence uses it reflexively ("wieso dich das so aufregt"). Transcribed as printed.
+- "das/der Virus" printed with two bullet colors indicating both genders; plural "Viren".
+- Passwort/Wohnblock/Knopf umlaut plurals (¨er / ¨e) read from printed markers.
+-->
