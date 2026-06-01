@@ -267,6 +267,36 @@ body {
     color: var(--text-secondary);
 }
 
+.export-btn {
+    margin-left: auto;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    background: var(--accent);
+    color: var(--white);
+    border: none;
+    border-radius: var(--radius);
+    padding: 6px 12px;
+    font-size: 13px;
+    font-weight: 500;
+    font-family: var(--font);
+    cursor: pointer;
+    transition: background 0.15s ease;
+}
+
+.export-btn:hover {
+    background: #2563eb;
+}
+
+.export-btn[hidden] {
+    display: none;
+}
+
+.export-btn .export-icon {
+    font-size: 14px;
+    line-height: 1;
+}
+
 .breadcrumb .crumb-active {
     color: var(--accent);
     font-weight: 500;

@@ -12,6 +12,7 @@ async function init() {
     }
 
     setupMobileMenu();
+    document.getElementById('export-btn')?.addEventListener('click', exportVocabularyJSON);
     window.addEventListener('hashchange', handleRoute);
     handleRoute();
 }
@@ -74,13 +75,17 @@ function buildNavTree(data) {
 
 // ── Routing ────────────────────────────────────────────
 
+let currentRoute = null;
+
 function handleRoute() {
     const hash = location.hash.slice(1);
 
     if (!hash) {
+        currentRoute = null;
         loadFile('content/welcome.md');
         setBreadcrumb([]);
         setActiveLink('');
+        toggleExportButton(null);
         return;
     }
 
@@ -88,9 +93,11 @@ function handleRoute() {
 
     if (parts.length === 3) {
         const [levelId, lektionId, sectionId] = parts;
+        currentRoute = { levelId, lektionId, sectionId };
         loadFile(`content/${levelId}/${lektionId}/${sectionId}.md`);
         setBreadcrumb([levelId, lektionId, sectionId]);
         setActiveLink(hash);
+        toggleExportButton(currentRoute);
     }
 }
 
@@ -113,6 +120,74 @@ async function loadFile(path) {
                 <p>Dieser Abschnitt wird ausgefüllt, wenn du Fotos aus deinem Lehrbuch hochlädst.</p>
             </div>`;
     }
+}
+
+// ── Vocabulary JSON export ─────────────────────────────
+
+function toggleExportButton(route) {
+    const btn = document.getElementById('export-btn');
+    if (!btn) return;
+    btn.hidden = !(route && route.sectionId === 'vocabulary');
+}
+
+function exportVocabularyJSON() {
+    if (!currentRoute) return;
+
+    const table = document.querySelector('#content-area table');
+    if (!table) {
+        alert('Keine Wortliste zum Exportieren gefunden.');
+        return;
+    }
+
+    // Header cells become the keys for each row object.
+    const headers = [...table.querySelectorAll('thead th')]
+        .map(th => th.textContent.trim());
+
+    const words = [...table.querySelectorAll('tbody tr')]
+        .map(tr => {
+            const cells = [...tr.querySelectorAll('td')].map(td => td.textContent.trim());
+            const row = {};
+            headers.forEach((h, i) => { row[normalizeKey(h)] = cells[i] ?? ''; });
+            return row;
+        })
+        // Skip placeholder/empty rows.
+        .filter(row => Object.values(row).some(v => v !== ''));
+
+    const { levelId, lektionId, sectionId } = currentRoute;
+    const level = navData?.levels.find(l => l.id === levelId);
+    const lektion = level?.lektionen.find(l => l.id === lektionId);
+    const section = lektion?.sections.find(s => s.id === sectionId);
+
+    const payload = {
+        level: level?.label ?? levelId,
+        lektion: lektion?.label ?? lektionId,
+        section: section?.label ?? sectionId,
+        exportedAt: new Date().toISOString(),
+        count: words.length,
+        words
+    };
+
+    downloadJSON(payload, `wortschatz-${levelId}-${lektionId}.json`);
+}
+
+function normalizeKey(header) {
+    return header
+        .toLowerCase()
+        .normalize('NFD').replace(/[\u0300-\u036f]/g, '') // strip accents
+        .replace(/[^a-z0-9]+/g, '_')
+        .replace(/^_+|_+$/g, '') || 'spalte';
+}
+
+function downloadJSON(data, filename) {
+    const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = filename;
+    document.body.appendChild(a);
+    a.click();
+    a.remove();
+    URL.revokeObjectURL(url);
 }
 
 // ── Breadcrumb ────────────────────────────────────────
