@@ -1,100 +1,129 @@
 # Wortschatz – Lektion 13: Neue Kleider
 
-## Kleidung (Clothing)
+## A2
 
-| Deutsch | Artikel | Plural | Englisch |
-|---------|---------|--------|----------|
-| Jacke | die | Jacken | jacket |
-| Mantel | der | Mäntel | coat |
-| Hose | die | Hosen | trousers |
-| Jeans | die | Jeans | jeans |
-| Rock | der | Röcke | skirt |
-| Kleid | das | Kleider | dress |
-| Bluse | die | Blusen | blouse |
-| Hemd | das | Hemden | shirt |
-| T-Shirt | das | T-Shirts | T-shirt |
-| Pullover | der | Pullover | pullover / jumper |
-| Strümpfe | die | (Pl.) | stockings / tights |
-| Socken | die | (Pl.) | socks |
-| Stiefel | der | Stiefel | boot |
-| Schuhe | die | (Pl.) | shoes |
-| Anzug | der | Anzüge | suit |
-| Tuch | das | Tücher | scarf / cloth |
-| Brille | die | Brillen | glasses |
-| Regenschirm | der | Regenschirme | umbrella |
-
-## Im Kaufhaus (In the Department Store)
-
-| Deutsch | Artikel | Plural | Englisch |
-|---------|---------|--------|----------|
-| Erdgeschoss | das | – | ground floor |
-| Obergeschoss | das | – | upper floor |
-| Untergeschoss | das | – | basement |
-| Drogerie | die | Drogerien | drugstore |
-| Kosmetik | die | – | cosmetics |
-| Schmuck | der | – | jewellery |
-| Geschirr | das | – | dishes / crockery |
-| Glas | das | Gläser | glass |
-| Mode | die | – | fashion |
-| Herrenabteilung | die | – | men's department |
-| Damenabteilung | die | – | women's department |
-
-## Natur (Nature)
-
-| Deutsch | Artikel | Plural | Englisch |
-|---------|---------|--------|----------|
-| Berg | der | Berge | mountain |
-| Wald | der | Wälder | forest |
-| Strand | der | Strände | beach |
-| Meer | das | Meere | sea |
-| See | der | Seen | lake |
-| Dorf | das | Dörfer | village |
-| Hafen | der | Häfen | harbour / port |
-
-## Verben (Verbs)
+| Deutsch | Genus | Plural | Englisch |
+|---------|-------|--------|----------|
+| Hemd | das | -en | shirt |
+| Anzug | der | ¨e | suit |
+| Brille | die | -n | glasses |
+| (Regen-)Schirm | der | -e | umbrella |
 
 | Deutsch | Englisch |
 |---------|----------|
-| passen | to fit |
-| stehen | to suit |
-| gefallen | to like / appeal to |
-| mögen | to like |
-| finden | to find / to think |
-| trainieren | to train |
-| Rad fahren | to cycle |
+| langweilig | boring |
+| günstig | cheap, inexpensive |
 
-## Adjektive – Komparation (Adjective Comparison)
-
-| Positiv | Komparativ | Superlativ |
-|---------|-----------|-----------|
-| gut | besser | am besten |
-| gern | lieber | am liebsten |
-| viel | mehr | am meisten |
-| schön | schöner | am schönsten |
-| groß | größer | am größten |
-| teuer | teurer | am teuersten |
-| günstig | günstiger | am günstigsten |
-| lang | länger | am längsten |
-
-## Fragewörter (Question Words)
+## B
 
 | Deutsch | Englisch |
 |---------|----------|
-| welcher / welche / welches? | which? |
-| Welchen Mantel magst du? | Which coat do you like? |
-| Wie findest du ...? | What do you think of ...? |
+| perfekt | perfect |
+| stehen (hat gestanden) | to suit (someone) |
 
-## Sonstiges (Other)
+| Deutsch | Genus | Plural | Englisch |
+|---------|-------|--------|----------|
+| Bratwurst | die | ¨e | fried sausage |
+| Landschaft | die | -en | landscape |
+| Berg | der | -e | mountain |
+| Dorf | das | ¨er | village |
+| Wald | der | ¨er | forest |
+| Nordsee | die | – (Sg.) | North Sea |
+| Strand | der | ¨e | beach |
+| Meer | das | -e | sea |
+| Hafen | der | ¨ | harbour |
 
 | Deutsch | Englisch |
 |---------|----------|
-| der Rekord | record |
-| der Witz | joke |
-| der Koffer | suitcase |
-| gehören | to belong to |
+| nie | never |
+
+## C
+
+| Deutsch | Englisch |
+|---------|----------|
 | besser | better |
 | am besten | best |
-| lieber | rather / prefer |
-| am liebsten | most of all |
 | rückwärts | backwards |
 | vorwärts | forwards |
+| dabei | at the same time, while doing it |
+| schwer | difficult, hard |
+
+| Deutsch | Genus | Plural | Englisch |
+|---------|-------|--------|----------|
+| Musiker / Musikerin | der / die | - / -nen | musician |
+
+## Sport und Freizeit
+
+| Deutsch | Englisch |
+|---------|----------|
+| trainieren (hat trainiert) | to train |
+| Rad fahren | to cycle, to ride a bike |
+| am liebsten | most of all (favourite) |
+| am meisten | the most |
+| zufrieden | satisfied, content |
+
+| Deutsch | Genus | Plural | Englisch |
+|---------|-------|--------|----------|
+| Rekord | der | -e | record |
+
+## D
+
+| Deutsch | Genus | Plural | Englisch |
+|---------|-------|--------|----------|
+| Witz | der | -e | joke |
+| Koffer | der | - | suitcase |
+| Wochentag | der | -e | weekday |
+
+| Deutsch | Englisch |
+|---------|----------|
+| dies- | this |
+| welch- | which |
+| gehören (hat gehört) | to belong to |
+| mögen, ich mag, du magst, er mag (hat gemocht) | to like |
+
+## E
+
+| Deutsch | Genus | Plural | Englisch |
+|---------|-------|--------|----------|
+| Erdgeschoss | das | -e | ground floor |
+| Obergeschoss | das | -e | upper floor |
+| Untergeschoss | das | -e | basement |
+| Ausgang | der | ¨e | exit |
+| Drogerie | die | -n | drugstore |
+| Kosmetik | die | – (Sg.) | cosmetics |
+| Schmuck | der | – (Sg.) | jewellery |
+| Geschirr | das | – (Sg.) | dishes, crockery |
+| Glas | das | – (Sg.) | glass |
+| Mode | die | -n | fashion |
+| Eingang | der | ¨e | entrance |
+| Seife | die | -n | soap |
+| Zahnbürste | die | -n | toothbrush |
+| Zahnpasta | die | – (Sg.) | toothpaste |
+| Größe | die | -n | size |
+
+| Deutsch | Englisch |
+|---------|----------|
+| sich entschuldigen (hat entschuldigt) | to apologise, to excuse oneself |
+| wissen, ich weiß, du weißt, er weiß (hat gewusst) | to know |
+| an·ziehen (hat angezogen) | to put on |
+| an·probieren (hat anprobiert) | to try on |
+
+## Kleidung
+
+| Deutsch | Genus | Plural | Englisch |
+|---------|-------|--------|----------|
+| Mantel | der | ¨ | coat |
+| Jacke | die | -n | jacket |
+| Bluse | die | -n | blouse |
+| Hose | die | -n | trousers |
+| Kleid | das | -er | dress |
+| Rock | der | ¨e | skirt |
+| Gürtel | der | - | belt |
+| T-Shirt | das | -s | T-shirt |
+| Schuh | der | -e | shoe |
+| Stiefel | der | - | boot |
+| Socken | die | (Pl.) | socks |
+| Jeans | die | - | jeans |
+| Tuch | das | ¨er | scarf, cloth |
+| Pullover | der | - | pullover, jumper |
+| Hut | der | ¨e | hat |

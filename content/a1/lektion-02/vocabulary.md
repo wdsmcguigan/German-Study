@@ -1,97 +1,138 @@
 # Wortschatz – Lektion 2: Meine Familie
 
-## Die Familie (Family Members)
+## FOTO-HÖRGESCHICHTE
+
+### Nomen
 
 | Deutsch | Artikel | Plural | Englisch |
 |---------|---------|--------|----------|
-| Vater | der | Väter | father |
-| Mutter | die | Mütter | mother |
-| Eltern | die | (Pl.) | parents |
-| Sohn | der | Söhne | son |
-| Tochter | die | Töchter | daughter |
-| Bruder | der | Brüder | brother |
-| Schwester | die | Schwestern | sister |
-| Geschwister | die | (Pl.) | siblings |
-| Großvater / Opa | der | Großväter / Opas | grandfather / grandpa |
-| Großmutter / Oma | die | Großmütter / Omas | grandmother / grandma |
+| Park | der | -s | park |
+| Pause | die | -n | break |
+| Familie | die | -n | family |
+| Vater | der | ¨ | father |
 | Großeltern | die | (Pl.) | grandparents |
-| Enkel | der | Enkel | grandson |
-| Enkelin | die | Enkelinnen | granddaughter |
-| Ehemann | der | Ehemänner | husband |
-| Ehefrau | die | Ehefrauen | wife |
-| Mann | der | Männer | husband / man |
-| Frau | die | Frauen | wife / woman |
-| Kind | das | Kinder | child |
+| Mutter | die | ¨ | mother |
+| Eltern | die | (Pl.) | parents |
+| Bruder | der | ¨ | brother |
+| Geschwister | die | (Pl.) | siblings |
+| Jahr | das | -e | year |
 
-## Befinden (How are you?)
+### Verben / Sonstiges
 
 | Deutsch | Englisch |
 |---------|----------|
-| Wie geht's? / Wie geht es Ihnen? | How are you? |
-| Gut, danke! | Good, thanks! |
-| Super! | Great! |
-| Na ja, es geht. | So-so. |
-| Nicht so gut. | Not so good. |
-| Sehr gut, danke! | Very well, thanks! |
-| Danke, und Ihnen? | Thanks, and you? |
-
-## Zahlen (Numbers)
-
-| Zahl | Deutsch | Zahl | Deutsch |
-|------|---------|------|---------|
-| 0 | null | 21 | einundzwanzig |
-| 1 | eins | 30 | dreißig |
-| 2 | zwei | 40 | vierzig |
-| 10 | zehn | 50 | fünfzig |
-| 11 | elf | 60 | sechzig |
-| 12 | zwölf | 70 | siebzig |
-| 13 | dreizehn | 80 | achtzig |
-| 20 | zwanzig | 100 | hundert |
-
-## Nomen (Nouns)
-
-| Deutsch | Artikel | Plural | Englisch |
-|---------|---------|--------|----------|
-| Familie | die | Familien | family |
-| Park | der | Parks | park |
-| Pause | die | Pausen | break |
-| Jahr | das | Jahre | year |
-| Familienstand | der | – | marital status |
-| Geburtsort | der | Geburtsorte | birthplace |
-| Wohnort | der | Wohnorte | place of residence |
-| Alter | das | – | age |
-| Nummer | die | Nummern | number |
-| Zahl | die | Zahlen | number / figure |
-| Norden | der | – | north |
-| Süden | der | – | south |
-| Osten | der | – | east |
-| Westen | der | – | west |
-| Hauptstadt | die | Hauptstädte | capital city |
-
-## Verben (Verbs)
-
-| Deutsch | Englisch |
-|---------|----------|
-| leben | to live |
-| kommen | to come |
-| wohnen | to live / reside |
-| haben | to have |
-| arbeiten | to work |
 | lernen | to learn |
+| leben | to live |
+| in | in |
 
-## Adjektive / Sonstiges
+## A1
 
 | Deutsch | Englisch |
 |---------|----------|
-| ledig | single |
-| verheiratet | married |
-| geschieden | divorced |
-| zusammen | together |
-| jetzt | now |
-| mein / meine | my |
-| dein / deine | your (informal) |
-| sein / seine | his |
-| ihr / ihre | her |
 | gut | good |
 | super | great |
+| na ja | well |
+| ach | oh |
+| so | so |
 | sehr | very |
+
+## B1
+
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
+| Enkel | der | - | grandson |
+| Enkelin | die | -nen | granddaughter |
+| Tochter | die | ¨ | daughter |
+| Sohn | der | ¨e | son |
+| Schwester | die | -n | sister |
+| Oma | die | -s | grandma |
+| Mann | der | ¨er | husband |
+| Opa | der | -s | grandpa |
+
+## B2
+
+| Deutsch | Englisch |
+|---------|----------|
+| dein- | your |
+| mein- | my |
+| Ihr- | your (formal) |
+
+## B3
+
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
+| Ehemann | der | ¨er | husband |
+| Ehefrau | die | -en | wife |
+
+| Deutsch | Englisch |
+|---------|----------|
+| falsch | wrong |
+
+## C1
+
+| Deutsch | Englisch |
+|---------|----------|
+| sie (Singular) | she |
+| zusammen | together |
+| sie (Plural) | they |
+| geschieden | divorced |
+| er | he |
+| wohnen | to live (reside) |
+| jetzt | now |
+
+## C3
+
+| Deutsch | Englisch |
+|---------|----------|
+| ihr | you (plural) |
+| wir | we |
+
+## D1
+
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
+| Zahl | die | -en | number |
+
+## D3
+
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
+| Nummer | die | -n | number |
+| Geburtsort | der | -e | place of birth |
+| Wohnort | der | -e | place of residence |
+| Familienstand | der | (Sg.) | marital status |
+| Alter | das | - | age |
+
+| Deutsch | Englisch |
+|---------|----------|
+| wo | where |
+| geboren | born |
+| verheiratet | married |
+| haben | to have |
+| ledig | single |
+| verwitwet | widowed |
+
+## E1
+
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
+| Norden | der | (Sg.) | north |
+| Osten | der | (Sg.) | east |
+| Süden | der | (Sg.) | south |
+| Westen | der | (Sg.) | west |
+| Hauptstadt | die | ¨e | capital city |
+
+| Deutsch | Englisch |
+|---------|----------|
+| Süd- | south(ern) |
+| Nord- | north(ern) |
+
+## E2
+
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
+| Lehrer | der | - | teacher (male) |
+| Lehrerin | die | -nen | teacher (female) |
+| Deutsche | der/die | -n | German (person) |
+
+> **TIPP:** Lernen Sie immer so: ich spreche / du sprichst / er/sie spricht

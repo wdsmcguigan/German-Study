@@ -1,117 +1,196 @@
 # Wortschatz – Lektion 8: Beruf und Arbeit
 
-## Berufe (Professions)
+## FOTO-HÖRGESCHICHTE
 
 | Deutsch | Artikel | Plural | Englisch |
-|---------|---------|--------|----------|
-| Arzt | der | Ärzte | doctor (m) |
-| Ärztin | die | Ärztinnen | doctor (f) |
-| Krankenpfleger | der | Krankenpfleger | nurse (m) |
-| Krankenschwester | die | Krankenschwestern | nurse (f) |
-| Journalist | der | Journalisten | journalist (m) |
-| Journalistin | die | Journalistinnen | journalist (f) |
-| Hausmeister | der | Hausmeister | caretaker (m) |
-| Hausmeisterin | die | Hausmeisterinnen | caretaker (f) |
-| Mechatroniker | der | Mechatroniker | mechatronics engineer (m) |
-| Mechatronikerin | die | Mechatronikerinnen | mechatronics engineer (f) |
-| Hausmann | der | Hausmänner | stay-at-home dad |
-| Hausfrau | die | Hausfrauen | housewife |
-| Polizist | der | Polizisten | police officer (m) |
-| Polizistin | die | Polizistinnen | police officer (f) |
-| Koch | der | Köche | chef / cook (m) |
-| Köchin | die | Köchinnen | chef / cook (f) |
-| Kellner | der | Kellner | waiter (m) |
-| Kellnerin | die | Kellnerinnen | waitress (f) |
-| Taxifahrer | der | Taxifahrer | taxi driver (m) |
-| Taxifahrerin | die | Taxifahrerinnen | taxi driver (f) |
-| Architekt | der | Architekten | architect (m) |
-| Architektin | die | Architektinnen | architect (f) |
-| Arbeiter | der | Arbeiter | worker (m) |
-| Arbeiterin | die | Arbeiterinnen | worker (f) |
-| Sekretär | der | Sekretäre | secretary (m) |
-| Sekretärin | die | Sekretärinnen | secretary (f) |
-| Kollege | der | Kollegen | colleague (m) |
-| Kollegin | die | Kolleginnen | colleague (f) |
-| Schüler | der | Schüler | pupil (m) |
-| Schülerin | die | Schülerinnen | pupil (f) |
-| Student | der | Studenten | student (m) |
-| Studentin | die | Studentinnen | student (f) |
+|---|---|---|---|
+| Geschichte | die | -n | story |
+| Krankenhaus | das | ¨er | hospital |
+| Interview | das | -s | interview |
+| Zeitung | die | -en | newspaper |
+| Fernsehen | das | – (Sg.) | television |
+| Ausbildung | die | -en | (vocational) training |
+| Chef | der | -s | boss (m) |
+| Chefin | die | -nen | boss (f) |
+| Patient | der | -en | patient (m) |
+| Patientin | die | -nen | patient (f) |
+| Hausmeister | der | – | caretaker / janitor (m) |
+| Hausmeisterin | die | -nen | caretaker / janitor (f) |
+| Journalist | der | -en | journalist (m) |
+| Journalistin | die | -nen | journalist (f) |
+| Thema | das | Themen | topic / theme |
 
-## Arbeit und Ausbildung (Work & Training)
+| Deutsch | Englisch |
+|---|---|
+| eigen- | own |
+
+## A
 
 | Deutsch | Artikel | Plural | Englisch |
-|---------|---------|--------|----------|
-| Beruf | der | Berufe | profession / job |
-| Ausbildung | die | Ausbildungen | vocational training |
-| Berufsausbildung | die | – | vocational training |
-| Job | der | Jobs | job |
-| Stelle | die | Stellen | position |
-| Arbeit | die | – | work |
-| Arbeitsplatz | der | Arbeitsplätze | workplace |
-| Praktikum | das | Praktika | internship |
-| Büro | das | Büros | office |
-| Diplom | das | Diplome | diploma |
-| Universität | die | Universitäten | university |
-| Chef | der | Chefs | boss (m) |
-| Bewerbung | die | Bewerbungen | job application |
-| Abteilung | die | Abteilungen | department |
-| Leiter | der | Leiter | manager (m) |
-| Leiterin | die | Leiterinnen | manager (f) |
-| Wirtschaft | die | – | economy / business |
-
-## Krankenhaus (Hospital)
-
-| Deutsch | Artikel | Plural | Englisch |
-|---------|---------|--------|----------|
-| Krankenhaus | das | Krankenhäuser | hospital |
-| Patient | der | Patienten | patient (m) |
-| Patientin | die | Patientinnen | patient (f) |
-| Praxis | die | Praxen | (doctor's) practice |
-| Interview | das | Interviews | interview |
-| Fernsehen | das | – | television |
-
-## Verben (Verbs)
+|---|---|---|---|
+| Arzt | der | ¨e | doctor (m) |
+| Ärztin | die | -nen | doctor (f) |
+| Mechatroniker | der | – | mechatronics technician (m) |
+| Mechatronikerin | die | -nen | mechatronics technician (f) |
+| Hausmann | der | ¨er | stay-at-home dad |
+| Hausfrau | die | -en | housewife |
+| Polizist | der | -en | police officer (m) |
+| Polizistin | die | -nen | police officer (f) |
+| Krankenpfleger | der | – | nurse (m) |
+| Krankenschwester | die | -n | nurse (f) |
+| Schüler | der | – | pupil (m) |
+| Schülerin | die | -nen | pupil (f) |
+| Student | der | -en | student (m) |
+| Studentin | die | -nen | student (f) |
+| Job | der | -s | job |
+| Stelle | die | -n | position / job |
+| Taxifahrer | der | – | taxi driver (m) |
+| Taxifahrerin | die | -nen | taxi driver (f) |
 
 | Deutsch | Englisch |
-|---------|----------|
-| studieren | to study (at university) |
-| arbeiten | to work |
-| berufstätig sein | to be employed |
-| selbstständig sein | to be self-employed |
-| arbeitslos sein | to be unemployed |
-| sich bewerben um (+ Akk.) | to apply for |
-| bekommen | to get / receive |
-| verdienen | to earn |
-
-## Arbeitszeiten (Working Hours)
-
-| Deutsch | Englisch |
-|---------|----------|
-| ganztags | full-time |
-| halbtags | part-time |
-| vormittags | in the mornings |
-| nachmittags | in the afternoons |
-| abends | in the evenings |
-| montags / dienstags ... | on Mondays / Tuesdays ... |
-| die Vollzeit | full-time |
-| befristet | temporary / fixed-term |
-| pro Stunde | per hour |
-| die Nachfrage | demand / inquiry |
-| die Nachhilfe | tutoring |
-| die Aushilfe | temporary help |
-| dringend | urgent |
-
-## Sonstiges (Other)
-
-| Deutsch | Englisch |
-|---------|----------|
-| beruflich | professional |
+|---|---|
+| beruflich | professionally / job-wise |
+| studieren (hat studiert) | to study (at university) |
 | selbstständig | self-employed |
-| zurzeit | currently |
-| ausländisch | foreign |
+| berufstätig | employed / working |
+| arbeitslos | unemployed |
+| zurzeit | currently / at the moment |
+
+## B
+
+| Deutsch | Englisch |
+|---|---|
+| dauern (hat gedauert) | to last / take (time) |
+| seit | since / for |
+
+| Deutsch | Artikel | Plural | Englisch |
+|---|---|---|---|
+| Bewerbung | die | -en | (job) application |
+| Praktikum | das | Praktika | internship |
+| Abteilung | die | -en | department |
+| Leiter | der | – | head / manager (m) |
+| Leiterin | die | -nen | head / manager (f) |
+| Wirtschaft | die | – (Sg.) | economics / economy |
+| Diplom | das | -e | diploma / degree |
+| Büro | das | -s | office |
+| Information | die | -en | (piece of) information |
+| Gruß | der | ¨e | greeting |
+
+| Deutsch | Englisch |
+|---|---|
+| geehrt | esteemed / dear (in letters) |
+| gerade | just (now) |
+| heiraten (hat geheiratet) | to marry / get married |
 | eigentlich | actually |
-| freundlich | friendly |
 | später | later |
-| das Ausland | abroad |
-| der Traum | dream |
-| der Gruß | greeting |
+
+| Deutsch | Artikel | Plural | Englisch |
+|---|---|---|---|
+| Reiseführer | der | – | tour guide (m) |
+| Reiseführerin | die | -nen | tour guide (f) |
+| Tourist | der | -en | tourist (m) |
+| Touristin | die | -nen | tourist (f) |
+
+| Deutsch | Englisch |
+|---|---|
+| zeigen (hat gezeigt) | to show |
+
+## C
+
+| Deutsch | Artikel | Plural | Englisch |
+|---|---|---|---|
+| Berufserfahrung | die | – (Sg.) | work experience |
+| Café | das | -s | café |
+| Stress | der | – (Sg.) | stress |
+| Kellner | der | – | waiter |
+| Kellnerin | die | -nen | waitress |
+| Restaurant | das | -s | restaurant |
+| Architekt | der | -en | architect (m) |
+| Architektin | die | -nen | architect (f) |
+| Koch | der | ¨e | cook / chef (m) |
+| Köchin | die | -nen | cook / chef (f) |
+| Arbeiter | der | – | worker (m) |
+| Arbeiterin | die | -nen | worker (f) |
+| Kollege | der | -n | colleague (m) |
+| Kollegin | die | -nen | colleague (f) |
+
+| Deutsch | Englisch |
+|---|---|
+| manchmal | sometimes |
+| wenig | little / not much |
+
+## D
+
+| Deutsch | Artikel | Plural | Englisch |
+|---|---|---|---|
+| Ausland | das | – (Sg.) | abroad / foreign countries |
+| Arbeitsplatz | der | ¨e | workplace / job |
+| Traum | der | ¨e | dream |
+| Sekretär | der | -e | secretary (m) |
+| Sekretärin | die | -nen | secretary (f) |
+| Universität | die | -en | university |
+| Vollzeit | die | – (Sg.) | full-time |
+| Teilzeit | die | – (Sg.) | part-time |
+| Nachhilfe | die | – (Sg.) | tutoring / extra lessons |
+| Aushilfe | die | -n | temporary worker / casual help |
+| Stunde | die | -n | hour |
+| Nachfrage | die | -n | inquiry / query |
+| Service | der | – (Sg.) | service |
+
+| Deutsch | Englisch |
+|---|---|
+| ander- | other |
+| tagsüber | during the day |
+| dreimal | three times |
+| bekommen (hat bekommen) | to get / receive |
+| befristet | fixed-term / temporary |
+| ganztags | all day / full-time |
+| halbtags | half-day / part-time |
+| vormittags | in the morning(s) |
+| nachmittags | in the afternoon(s) |
+| montags | on Mondays |
+| donnerstags | on Thursdays |
+| dringend | urgent(ly) |
+| abends | in the evening(s) |
+| dienstags | on Tuesdays |
+| mittwochs | on Wednesdays |
+| freitags | on Fridays |
+| sonntags | on Sundays |
+| zahlen (hat gezahlt) | to pay |
+| pro | per |
+| frei | free / vacant |
+| jeweils | in each case / respectively |
+| samstags | on Saturdays |
+
+### Senioren
+
+| Deutsch | Artikel | Plural | Englisch |
+|---|---|---|---|
+| Senioren | die | (Pl.) | senior citizens |
+
+## Berufe (Bildlexikon)
+
+| Deutsch | Artikel | Plural | Englisch |
+|---|---|---|---|
+| Journalist | der | -en | journalist (m) |
+| Journalistin | die | -nen | journalist (f) |
+| Arzt | der | ¨e | doctor (m) |
+| Ärztin | die | -nen | doctor (f) |
+| Krankenpfleger | der | – | nurse (m) |
+| Krankenschwester | die | -n | nurse (f) |
+| Mechatroniker | der | – | mechatronics technician (m) |
+| Mechatronikerin | die | -nen | mechatronics technician (f) |
+| Polizist | der | -en | police officer (m) |
+| Polizistin | die | -nen | police officer (f) |
+| Taxifahrer | der | – | taxi driver (m) |
+| Taxifahrerin | die | -nen | taxi driver (f) |
+| Kellner | der | – | waiter |
+| Kellnerin | die | -nen | waitress |
+| Koch | der | ¨e | cook / chef (m) |
+| Köchin | die | -nen | cook / chef (f) |
+| Architekt | der | -en | architect (m) |
+| Architektin | die | -nen | architect (f) |
+| Arbeiter | der | – | worker (m) |
+| Arbeiterin | die | -nen | worker (f) |
+| Sekretär | der | -e | secretary (m) |
+| Sekretärin | die | -nen | secretary (f) |

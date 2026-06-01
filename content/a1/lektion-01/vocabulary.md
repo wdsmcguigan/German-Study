@@ -2,136 +2,136 @@
 
 ## FOTO-HÖRGESCHICHTE
 
-| Wort | Beispiel |
+| Deutsch | Englisch |
 |------|----------|
-| ich | Ich bin Lili. |
-| heißen | Ich heiße Lara Nowak. |
-| und | Ich spreche Deutsch und Englisch. |
-| ein bisschen | Ich spreche Deutsch, Englisch und ein bisschen Spanisch. |
+| ich | I |
+| heißen | to be called |
+| und | and |
+| ein bisschen | a little (bit) |
 
 ### Verben
 
-| Verb | Beispiel |
+| Deutsch | Englisch |
 |------|----------|
-| kommen | Ich komme aus Deutschland. |
-| sprechen | Ich spreche Polnisch. |
+| kommen | to come |
+| sprechen | to speak |
 
 ### Nomen
 
-| Nomen | Genus | Plural | Beispiel |
+| Deutsch | Artikel | Plural | Englisch |
 |-------|-------|--------|----------|
-| Name | der | –n | Mein Name ist Walter Baumann. |
-| Deutsch | (das) | – | Ich spreche Deutsch. |
-| Deutschland | – | – | Ich komme aus Deutschland. |
+| Name | der | –n | name |
+| Deutsch | (das) | – | German (language) |
+| Deutschland | – | – | Germany |
 
 ## A
 
-| Wort | Beispiel |
+| Deutsch | Englisch |
 |------|----------|
-| Guten Tag | Guten Tag. |
-| hallo | Hallo! – Guten Tag. |
-| Auf Wiedersehen | Auf Wiedersehen. |
-| tschüs | Tschüs. |
-| Guten Abend | Guten Abend, meine Damen und Herren. |
-| willkommen | Willkommen bei „Musik international". |
-| bei | Willkommen bei „Musik international". |
-| international | Willkommen bei „Musik international". |
-| Guten Morgen | Guten Morgen, Frau Fleckenstein. |
-| danke | Oh, danke. |
-| Gute Nacht | Gute Nacht. – Nacht, Papa. |
+| Guten Tag | hello / good day |
+| hallo | hello / hi |
+| Auf Wiedersehen | goodbye |
+| tschüs | bye |
+| Guten Abend | good evening |
+| willkommen | welcome |
+| bei | at / with |
+| international | international |
+| Guten Morgen | good morning |
+| danke | thank you |
+| Gute Nacht | good night |
 
 ### Nomen
 
-| Nomen | Genus | Plural | Beispiel |
+| Deutsch | Artikel | Plural | Englisch |
 |-------|-------|--------|----------|
-| Herr | der | –en | Guten Tag, Herr Díaz. |
-| Kind | das | ¨er | Tschüs, Kinder. |
-| Dame | die | –n | Guten Abend, meine Damen und Herren. |
-| Musik | die | (Sg.) | Willkommen bei „Musik international". |
-| Frau | die | –en | Guten Morgen, Frau Fleckenstein. |
-| Papa | der | –s | Nacht, Papa. |
+| Herr | der | –en | man / Mr. |
+| Kind | das | ¨er | child |
+| Dame | die | –n | lady |
+| Musik | die | (Sg.) | music |
+| Frau | die | –en | woman / Mrs. / Ms. |
+| Papa | der | –s | dad |
 
 ## B
 
-| Wort | Beispiel |
+| Deutsch | Englisch |
 |------|----------|
-| wie | Wie heißen Sie? |
-| Sie | Wie heißen Sie? |
-| wer | Wer ist das? |
-| ja | Ja, stimmt. |
-| nein | Das ist Sofia. – Nein, das ist Lara. |
+| wie | how |
+| Sie | you (formal) |
+| wer | who |
+| ja | yes |
+| nein | no |
 
 ### Verben
 
-| Verb | Beispiel |
+| Deutsch | Englisch |
 |------|----------|
-| sein | Ich bin Sofia Baumann. |
+| sein | to be |
 
 ### Nomen
 
-| Nomen | Genus | Plural | Beispiel |
+| Deutsch | Artikel | Plural | Englisch |
 |-------|-------|--------|----------|
-| Entschuldigung | die | –en | Entschuldigung, wie heißen Sie? |
+| Entschuldigung | die | –en | excuse me / apology |
 
 ## C
 
-| Wort | Beispiel |
+| Deutsch | Englisch |
 |------|----------|
-| woher | Woher kommst du? |
-| aus | Ich bin aus der Ukraine. |
-| du | Wer bist du? |
-| aha | Aha! |
-| toll | Ah, toll. |
-| interessant | Aus Thailand? Interessant. |
-| was | Was sprechen Sie, Frau Tufan? |
-| auch | Aha, auch Türkisch. |
+| woher | from where |
+| aus | from / out of |
+| du | you (informal) |
+| aha | aha / I see |
+| toll | great / wonderful |
+| interessant | interesting |
+| was | what |
+| auch | also / too |
 
 ### Nomen
 
-| Nomen | Genus | Plural | Beispiel |
+| Deutsch | Artikel | Plural | Englisch |
 |-------|-------|--------|----------|
-| Österreich | – | – | Ich komme aus Österreich. |
-| Schweiz | die | – | Ich komme aus der Schweiz. |
-| Sprache | die | –n | Sprache: Deutsch, Polnisch, … |
+| Österreich | – | – | Austria |
+| Schweiz | die | – | Switzerland |
+| Sprache | die | –n | language |
 
 ## D
 
-| Wort | Beispiel |
+| Deutsch | Englisch |
 |------|----------|
-| Wie bitte? | Wie bitte? |
-| buchstabieren | Ich buchstabiere: K - O - S - T - A - D - I - N - O – V |
-| bitte | Buchstabieren Sie, bitte. |
-| Vielen Dank | Vielen Dank. |
-| Auf Wiederhören | Auf Wiederhören, Herr Kostadinov. |
+| Wie bitte? | (I beg your) pardon? |
+| buchstabieren | to spell |
+| bitte | please |
+| Vielen Dank | thank you very much |
+| Auf Wiederhören | goodbye (on the phone) |
 
 ### Nomen
 
-| Nomen | Genus | Plural | Beispiel |
+| Deutsch | Artikel | Plural | Englisch |
 |-------|-------|--------|----------|
-| Buchstabe | der | –n | Buchstabe: a, k, s … |
-| Alphabet | das | (Sg.) | das Alphabet: A, B, C … |
-| Firma | die | Firmen | Firma Microlab, guten Tag. |
+| Buchstabe | der | –n | letter (of the alphabet) |
+| Alphabet | das | (Sg.) | alphabet |
+| Firma | die | Firmen | company / firm |
 
 ## E
 
 ### Nomen
 
-| Nomen | Genus | Plural | Beispiel |
+| Deutsch | Artikel | Plural | Englisch |
 |-------|-------|--------|----------|
-| Adresse | die | –n | Adresse: Hofgasse 8, 6020 Innsbruck |
-| Visitenkarte | die | –n | Schreiben Sie Ihre Visitenkarte. |
-| Vorname | der | –n | Vorname: Lorenzo, Lucie, Jürgen, … |
-| Familienname | der | –n | Familienname: Menardi, Plank, … |
-| Straße | die | –n | Straße: Hofgasse, Bahnhofstraße, Aachener Straße … |
-| Stadt | die | ¨e | Stadt: Berlin, Linz, Schaan, … |
-| Land | das | ¨er | Land: Österreich, Schweiz, … |
-| E-Mail | die | –s | E-Mail: l-eigner@dk.de |
-| Telefon | das | –e | Telefon: 041 227 11 00 |
-| Formular | das | –e | Ergänzen Sie das Formular. |
-| Kurs | der | –e | Kurs A1/1 Deutsch als Fremdsprache |
-| Fremdsprache | die | –n | Ich spreche eine Fremdsprache: Deutsch. |
-| Anmeldung | die | –en | Kurs A1/1 Deutsch als Fremdsprache – Anmeldung |
-| Postleitzahl | die | –en | Die Postleitzahl ist 50676. |
+| Adresse | die | –n | address |
+| Visitenkarte | die | –n | business card |
+| Vorname | der | –n | first name |
+| Familienname | der | –n | surname / last name |
+| Straße | die | –n | street |
+| Stadt | die | ¨e | city / town |
+| Land | das | ¨er | country |
+| E-Mail | die | –s | email |
+| Telefon | das | –e | telephone |
+| Formular | das | –e | form |
+| Kurs | der | –e | course |
+| Fremdsprache | die | –n | foreign language |
+| Anmeldung | die | –en | registration / enrollment |
+| Postleitzahl | die | –en | postal code / zip code |
 
 ## TIPP
 
@@ -139,19 +139,17 @@ Lernen Sie Wörter in Gruppen.
 
 ## Länder und Sprachen
 
-| Land | Sprache |
+| Deutsch | Englisch |
 |------|---------|
-| Polen | Polnisch |
-| die Türkei | Türkisch |
-| Spanien | Spanisch |
-| Ungarn | Ungarisch |
-| Deutschland | Deutsch |
-| Österreich | Deutsch |
-| die Schweiz | Deutsch |
-| Rumänien | Rumänisch |
-| Syrien | Arabisch |
-| Bulgarien | Bulgarisch |
-| Italien | Italienisch |
-| Griechenland | Griechisch |
-
-> UNSURE: None. All entries legible across IMG_0780–IMG_0782. Note: in section E there is no separate "Wort" (non-noun) entry; the heading-only row is a placeholder and can be removed if a no-content section is undesired. The colored bullet markers (red/blue/green dots) printed before many headwords in the book are level/category markers, not separable-verb dots, so they are omitted here per the conventions (the middle dot `·` is reserved for separable verbs, of which this lesson has none).
+| Polen | Poland |
+| die Türkei | Turkey |
+| Spanien | Spain |
+| Ungarn | Hungary |
+| Deutschland | Germany |
+| Österreich | Austria |
+| die Schweiz | Switzerland |
+| Rumänien | Romania |
+| Syrien | Syria |
+| Bulgarien | Bulgaria |
+| Italien | Italy |
+| Griechenland | Greece |

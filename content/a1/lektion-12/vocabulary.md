@@ -1,84 +1,113 @@
 # Wortschatz – Lektion 12: Kundenservice
 
-## Im Geschäft / Kundenservice (At the Shop / Customer Service)
+## Foto-Hörgeschichte
 
 | Deutsch | Artikel | Plural | Englisch |
 |---------|---------|--------|----------|
-| Tasche | die | Taschen | bag |
-| Tinte | die | Tinten | ink |
-| Rechnung | die | Rechnungen | bill / invoice |
-| Garantie | die | Garantien | guarantee / warranty |
-| Reparatur | die | Reparaturen | repair |
-| Gebrauchsanweisung | die | Gebrauchsanweisungen | instruction manual |
-| Angebot | das | Angebote | offer |
-| Modell | das | Modelle | model |
-| Drucker | der | Drucker | printer |
-| Kaffeemaschine | die | Kaffeemaschinen | coffee machine |
-| Spülmaschine | die | Spülmaschinen | dishwasher |
-| Heizung | die | Heizungen | heating |
-| Steckdose | die | Steckdosen | power socket |
-
-## Haushalt (Household)
-
-| Deutsch | Artikel | Plural | Englisch |
-|---------|---------|--------|----------|
-| Tür | die | Türen | door |
-| Fenster | das | Fenster | window |
-| Licht | das | – | light |
-| Papier | das | Papiere | paper |
-| Deckel | der | Deckel | lid / cover |
-
-## Verben (Verbs)
+| Tasche | die | -n | bag |
+| Tüte | die | -n | (plastic) bag |
+| Rechnung | die | -en | bill |
+| Heimatland | das | ¨er | home country |
 
 | Deutsch | Englisch |
 |---------|----------|
-| reparieren | to repair |
-| funktionieren | to work / function |
-| an·machen | to turn on |
-| aus·machen | to turn off |
-| auf·machen | to open |
-| zu·machen | to close |
-| empfehlen | to recommend |
-| an·bieten | to offer |
-| nähen | to sew |
-| duschen | to shower |
-| kopieren | to copy / photocopy |
-| aus·leihen | to borrow / lend |
-| zurück·rufen | to call back |
-| hinterlassen | to leave (a message) |
-
-## Dienstleistungen (Services)
-
-| Deutsch | Artikel | Plural | Englisch |
-|---------|---------|--------|----------|
-| Friseur | der | Friseure | hairdresser (m) |
-| Friseurin | die | Friseurinnen | hairdresser (f) |
-| Techniker | der | Techniker | technician (m) |
-| Reinigung | die | Reinigungen | dry cleaning |
-
-## Adjektive (Adjectives)
+| reparieren (hat repariert) | to repair |
 
 | Deutsch | Englisch |
 |---------|----------|
 | kaputt | broken |
-| neu | new |
-| günstig | cheap / good value |
-| teuer | expensive |
-| freundlich | friendly |
+| sauer | annoyed / cross |
 | unfreundlich | unfriendly |
-| sauer | annoyed / upset |
 | normal | normal |
-| möbliert | furnished |
 
-## Sonstiges (Other)
+## A
+
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
+| Training | das | -s | training |
+| Kleider | die | (Pl.) | clothes |
+| Reparatur | die | -en | repair |
+| Aussage | die | – (Sg.) | statement |
 
 | Deutsch | Englisch |
 |---------|----------|
-| der Urlaub | holiday / vacation |
-| der Schalter | counter / desk |
-| hin und zurück | return (journey) |
-| der Fahrplan | timetable |
-| die Durchsage | announcement |
-| die Mitte | middle |
-| vor·bereiten | to prepare |
-| der Kontext | context |
+| nähen (hat genäht) | to sew |
+| duschen (hat geduscht) | to shower |
+
+## B
+
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
+| Techniker | der | – | technician |
+| Heizung | die | -en | heating |
+| Drucker | der | – | printer |
+| Modell | das | -e | model |
+| Garantie | die | -n | guarantee / warranty |
+
+| Deutsch | Englisch |
+|---------|----------|
+| vorbei·bringen | to bring round / drop off |
+
+## C
+
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
+| Tür | die | -en | door |
+| Fenster | das | – | window |
+| Papier | das | – (Sg.) | paper |
+| Licht | das | – (Sg.) | light |
+| Spülmaschine | die | -n | dishwasher |
+| Rezeption | die | -en | reception |
+
+| Deutsch | Englisch |
+|---------|----------|
+| an·machen (hat angemacht) | to switch on |
+| zu·machen (hat zugemacht) | to close |
+| auf·machen (hat aufgemacht) | to open |
+| empfehlen (hat empfohlen) | to recommend |
+| reservieren (hat reserviert) | to reserve |
+
+## D
+
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
+| Ansage | die | -n | announcement |
+
+| Deutsch | Englisch |
+|---------|----------|
+| drücken (hat gedrückt) | to press |
+| sich an·melden (hat angemeldet) | to register / check in |
+| verbinden (mit) (hat verbunden) | to connect (with) |
+| hinterlassen (hat hinterlassen) | to leave (a message) |
+| zurück·rufen (hat zurückgerufen) | to call back |
+
+## E
+
+| Deutsch | Artikel | Plural | Englisch |
+|---------|---------|--------|----------|
+| Urlaub | der | -e | holiday / vacation |
+| Kaffeemaschine | die | -n | coffee machine |
+| Friseur | der | -e | hairdresser (m) |
+| Friseurin | die | -nen | hairdresser (f) |
+| Angebot | das | -e | offer |
+| Jugendliche | der/die | -n | young person / teenager |
+| Gebrauchsanweisung | die | -en | instruction manual |
+| Reinigung | die | -en | cleaning |
+| Stecker | der | – | plug |
+| Steckdose | die | -n | (power) socket |
+| Essig | der | – (Sg.) | vinegar |
+| Taste | die | -n | button / key |
+| Sekunde | die | -n | second |
+
+| Deutsch | Englisch |
+|---------|----------|
+| aus·sehen (hat ausgesehen) | to look (a certain way) |
+| bestellen (hat bestellt) | to order |
+| an·bieten (hat angeboten) | to offer |
+| ziehen (hat gezogen) | to pull |
+
+| Deutsch | Englisch |
+|---------|----------|
+| draußen | outside |
+| weg | away / gone |
+| oben | at the top / up there |
