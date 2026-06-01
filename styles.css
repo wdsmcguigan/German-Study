@@ -398,6 +398,81 @@ body.menu-open {
 .col-lek { font-size: 13px; color: var(--text-muted); }
 
 /* ═══════════════════════════════════════════════════════
+   WORTSCHATZ PAGE TOOLBAR
+═══════════════════════════════════════════════════════ */
+.vocab-toolbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 16px;
+  margin-bottom: 24px;
+}
+
+.vocab-filters {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.vocab-filter-btn {
+  padding: 8px 18px;
+  border-radius: 20px;
+  font-size: 14px;
+  font-weight: 600;
+  font-family: inherit;
+  cursor: pointer;
+  background: var(--bg-surface);
+  color: var(--text-secondary);
+  border: 1px solid var(--border-color);
+  transition: all 0.2s;
+}
+
+.vocab-filter-btn:hover {
+  color: var(--text-primary);
+  border-color: var(--accent-blue);
+}
+
+.vocab-filter-btn.active {
+  background: var(--accent-gradient);
+  color: white;
+  border-color: transparent;
+}
+
+.vocab-toolbar-right {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.vocab-export-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 18px;
+  border-radius: var(--radius-md);
+  font-size: 14px;
+  font-weight: 600;
+  font-family: inherit;
+  cursor: pointer;
+  background: transparent;
+  color: var(--text-secondary);
+  border: 1px solid var(--border-color);
+  transition: all 0.2s;
+}
+
+.vocab-export-btn:hover {
+  background: var(--bg-surface-active);
+  color: var(--text-primary);
+  border-color: var(--accent-blue);
+}
+
+.vocab-export-btn svg {
+  width: 16px;
+  height: 16px;
+}
+
+/* ═══════════════════════════════════════════════════════
    FLASHCARD LAUNCH CARD
 ═══════════════════════════════════════════════════════ */
 .single-launch-card {

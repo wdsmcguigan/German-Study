@@ -61,6 +61,7 @@ window.allGrammarTables = [];
 let navData = null;
 let allVocab = [];
 let vocabByLevel = { a1: [], a2: [], b1: [], referenz: [] };
+let vocabPageFilter = 'all';
 const flashcardSystem = new FlashcardSystem();
 
 marked.use({ breaks: true, gfm: true });
@@ -299,31 +300,28 @@ function setupUI() {
       showToast('Bitte wähle mindestens ein Level aus.');
       return;
     }
+    downloadVocabJson(words, `wortschatz-${levels.join('-')}.json`);
+    showToast(`${words.length} Wörter exportiert.`);
+  });
 
-    const payload = {
-      exportedAt: new Date().toISOString(),
-      levels: levels.map(l => l.toUpperCase()),
-      count: words.length,
-      words: words.map(w => ({
-        front: w.front,
-        back: w.back,
-        pos: w.pos ?? null,
-        details: w.details ?? {},
-        level: w.sourceLevel,
-        lektion: w.sourceLektion
-      }))
-    };
+  // ── Wortschatz page: level filters + export ──────────
+  document.querySelectorAll('.vocab-filter-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.vocab-filter-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      vocabPageFilter = btn.dataset.level;
+      renderVocabPage();
+    });
+  });
 
-    const blob = new Blob([JSON.stringify(payload, null, 2)], { type: 'application/json' });
-    const url = URL.createObjectURL(blob);
-    const a = document.createElement('a');
-    a.href = url;
-    a.download = `wortschatz-${levels.join('-')}.json`;
-    document.body.appendChild(a);
-    a.click();
-    a.remove();
-    URL.revokeObjectURL(url);
-
+  document.getElementById('vocab-export-json')?.addEventListener('click', () => {
+    const words = getFilteredVocab();
+    if (words.length === 0) {
+      showToast('Keine Vokabeln zum Exportieren.');
+      return;
+    }
+    const namePart = vocabPageFilter === 'all' ? 'alle' : vocabPageFilter;
+    downloadVocabJson(words, `wortschatz-${namePart}.json`);
     showToast(`${words.length} Wörter exportiert.`);
   });
 
@@ -360,11 +358,85 @@ function setupUI() {
 function switchPage(pageId) {
   document.querySelectorAll('.page').forEach(p => p.classList.add('hidden'));
   document.getElementById(`page-${pageId}`).classList.remove('hidden');
-  
+
   if (pageId === 'reference') {
     const activeTab = document.querySelector('.ref-tab.active');
     if (activeTab) loadReference(activeTab.dataset.ref);
   }
+
+  if (pageId === 'vocab') {
+    renderVocabPage();
+  }
+}
+
+// ── WORTSCHATZ PAGE ────────────────────────────────────
+function getFilteredVocab() {
+  if (vocabPageFilter === 'all') return allVocab;
+  return vocabByLevel[vocabPageFilter] || [];
+}
+
+function renderVocabPage() {
+  const tbody = document.getElementById('vocab-page-body');
+  if (!tbody) return;
+
+  const words = getFilteredVocab();
+  const countEl = document.getElementById('vocab-page-count');
+  if (countEl) countEl.textContent = `${words.length} ${words.length === 1 ? 'Wort' : 'Wörter'}`;
+
+  if (words.length === 0) {
+    tbody.innerHTML = '<tr><td colspan="4" style="text-align:center;color:var(--text-muted);padding:32px;">Noch keine Vokabeln geladen.</td></tr>';
+    return;
+  }
+
+  tbody.innerHTML = words.map(r => {
+    let detailsHtml = '';
+    if (r.details && Object.keys(r.details).length > 0) {
+      detailsHtml = `<div style="display:flex; flex-wrap:wrap; gap:8px; font-size:12px; color:var(--text-muted);">` +
+        Object.entries(r.details).map(([k, v]) => `<span><strong style="color:var(--text-secondary);">${k}:</strong> ${v}</span>`).join('') +
+        `</div>`;
+    }
+
+    let posHtml = '';
+    if (r.pos) {
+      posHtml = `<span class="fc-pos-badge pos-${r.pos.toLowerCase()}" style="margin-left:8px;">${r.pos}</span>`;
+    }
+
+    return `
+      <tr>
+        <td class="col-de">${r.front}${posHtml}</td>
+        <td class="col-en">${r.back}</td>
+        <td class="col-details">${detailsHtml}</td>
+        <td class="col-lek">${r.sourceLevel.toUpperCase()} / ${r.sourceLektion}</td>
+      </tr>
+    `;
+  }).join('');
+}
+
+function downloadVocabJson(words, filename) {
+  const levels = [...new Set(words.map(w => w.sourceLevel))].map(l => l.toUpperCase());
+  const payload = {
+    exportedAt: new Date().toISOString(),
+    levels,
+    count: words.length,
+    words: words.map(w => ({
+      front: w.front,
+      back: w.back,
+      pos: w.pos ?? null,
+      details: w.details ?? {},
+      level: w.sourceLevel,
+      lektion: w.sourceLektion
+    }))
+  };
+
+  const blob = new Blob([JSON.stringify(payload, null, 2)], { type: 'application/json' });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url;
+  a.download = filename;
+  document.body.appendChild(a);
+  a.click();
+  a.remove();
+  URL.revokeObjectURL(url);
 }
 
 // ── DATA LOADING ───────────────────────────────────────
@@ -461,6 +533,7 @@ async function loadAllContent() {
   // Now that data is loaded, build dashboard grammar list
   buildDashboardGrammarList();
   renderFavoriteTables();
+  renderVocabPage(); // refresh vocab page in case it's already open
 }
 
 // ── CHEATSHEET GALLERY ─────────────────────────────────

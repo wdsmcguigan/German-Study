@@ -33,6 +33,7 @@
 
       <nav class="topnav-links" id="desktop-nav">
         <a href="#" class="nav-link active" data-page="home">Home</a>
+        <a href="#" class="nav-link" data-page="vocab">Wortschatz</a>
         <a href="#" class="nav-link" data-page="grammar">Grammatik</a>
         <a href="#" class="nav-link" data-page="reference">Referenz</a>
       </nav>
@@ -46,6 +47,7 @@
   <!-- Mobile menu -->
   <div class="mobile-menu hidden" id="mobile-menu">
     <a href="#" class="mob-link" data-page="home">Home</a>
+    <a href="#" class="mob-link" data-page="vocab">Wortschatz</a>
     <a href="#" class="mob-link" data-page="grammar">Grammatik</a>
     <a href="#" class="mob-link" data-page="reference">Referenz</a>
   </div>
@@ -213,6 +215,46 @@
       </section>
 
     </div><!-- /#default-content -->
+  </main>
+
+  <!-- ── PAGE: WORTSCHATZ ───────────────────────────────── -->
+  <main class="page page-vocab hidden" id="page-vocab">
+    <div class="page-header">
+      <div class="container">
+        <h1>Wortschatz</h1>
+        <p>Alle Vokabeln im Überblick – filtere nach Level und exportiere deine Auswahl</p>
+      </div>
+    </div>
+    <div class="container">
+      <div class="vocab-toolbar">
+        <div class="vocab-filters" id="vocab-filters">
+          <button class="vocab-filter-btn active" data-level="all">Alle</button>
+          <button class="vocab-filter-btn" data-level="a1">A1</button>
+          <button class="vocab-filter-btn" data-level="a2">A2</button>
+          <button class="vocab-filter-btn" data-level="b1">B1</button>
+        </div>
+        <div class="vocab-toolbar-right">
+          <span class="result-count" id="vocab-page-count">0 Wörter</span>
+          <button class="vocab-export-btn" id="vocab-export-json">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+            JSON exportieren
+          </button>
+        </div>
+      </div>
+      <div class="search-results-table-wrap">
+        <table class="vocab-table" id="vocab-page-table">
+          <thead>
+            <tr>
+              <th>Deutsch</th>
+              <th>Englisch</th>
+              <th>Details</th>
+              <th>Lektion</th>
+            </tr>
+          </thead>
+          <tbody id="vocab-page-body"></tbody>
+        </table>
+      </div>
+    </div>
   </main>
 
   <!-- ── PAGE: GRAMMAR ──────────────────────────────────── -->
