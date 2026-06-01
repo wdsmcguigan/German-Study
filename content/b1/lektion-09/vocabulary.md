@@ -15,6 +15,9 @@
 | Rechner | der | – | computer / PC |
 | Passwort | das | ¨er | password |
 | Symbol | das | -e | symbol |
+| Gott | der | ¨er | god |
+| Unsinn | der | – (Sg.) | nonsense |
+| Erfindung | die | -en | invention |
 
 ## Lernwortschatz (Foto-Hörgeschichte: Verben & Adjektive)
 
@@ -23,6 +26,7 @@
 | virtuell | virtual |
 | (he)runter·laden | to download |
 | an·schließen | to connect / to plug in |
+| an·klicken (hat angeklickt) | to click (on) |
 | löschen | to delete / to erase |
 | installieren | to install |
 | erstellen | to create / to set up |
@@ -36,6 +40,13 @@
 | Tastatur | die | -en | keyboard |
 | Unterlagen | die | (Pl.) | documents / papers |
 | Stift | der | -e | pen / pencil |
+
+## Ellas Kolumne
+
+| Deutsch | Englisch |
+|---------|----------|
+| tagelang | for days (on end) |
+| bevor | before |
 
 ## A1
 
@@ -151,11 +162,10 @@
 | ändern (sich) (hat geändert) | to change |
 
 <!-- UNSURE / NOTES:
-- IMG_1722 was not photographed. IMG_1724 (page start) shows the "Virtuelle Welt"
-  summary picture box plus section markers A1 and A2 in the right margin, but the
-  DETAILED per-exercise entries for the early sections (the A2 block, and any A1
-  detail entries before "nachdem") fall on the missing IMG_1722 and could not be
-  transcribed. There is therefore a gap between the opening box and section "A1: nachdem".
+- Foto-Hörgeschichte + Ellas Kolumne now verified against IMG_1720 (LWS 34).
+- IMG_1722 (LWS ~36) was not photographed: the DETAILED per-exercise entries for
+  the A2 block (and possibly some A1 detail entries) fall on that missing page and
+  could not be transcribed. A small gap remains around section A2 — reshoot IMG_1722.
 - "auf·regen (hat aufgeregt)": printed lemma has no leading "sich"; the example
   sentence uses it reflexively ("wieso dich das so aufregt"). Transcribed as printed.
 - "das/der Virus" printed with two bullet colors indicating both genders; plural "Viren".
